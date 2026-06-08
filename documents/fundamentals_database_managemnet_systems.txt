@@ -1,0 +1,366 @@
+Course Syllabus
+CSCE 4350 / Fundamentals of Database Systems
+Instructor Contact
+Name: Ryan Garlick
+Office Location: VIA ZOOM THIS SEMESTER
+Office Hours: See Canvas. Please schedule in advance via email.
+Email: garlick@unt.edu
+TA: Arup Datta:
+Office Hours: TBD, via Zoom: https://unt.zoom.us/j/
+If you need to meet in person, please email beforehand to set up a time and place that
+works for both of you.
+I reserve the right to modify course policies, the course calendar, assignment or project
+point values, and due dates.
+Late Work Policy
+Late work cannot be accepted for any reason. You will have several weeks or even a month
+or more to complete assignments. Please do not email late assignments to the instructor
+or the TA - they will not be graded.
+Communication Expectations
+Please send all communication as email via your official student UNT email (my.unt.edu),
+and if applicable, CC the TA for the class. I see emails before I see Canvas notifications.
+Just like you, I get a ton of spam to my email address, and if it has [EXT] in the subject line,
+there's a ~95% chance I'm just deleting it. Additionally, I cannot discuss any student issues
+through external email due to FERPA, .e.g how do I know it's you I'm conversing with.
+I have a 48 hour reply policy on all emails, excepting weekends and holidays.
+Please come to me with any issues. An email is free and if I can’t resolve it, we can move
+the issue up the chain.
+All grades will be posted promptly after grading has been completed.
+
+In your emails please include:
+• Subject line: the course (e.g. CSCE 4350) that you are emailing about and a few
+words (aka, the Subject)
+• Body: a signature with your email with your name and UNT ID number.
+This helps me not only help you, but if there are multiple issues with the course (i.e. a
+module is broken for instance), I can quickly collate the issue.
+Course Description
+This course covers topics including logical and physical database system organization,
+logical models, design issues, and secondary storage considerations. Students develop
+and practice skills through the use of projects and real-world database creation. This
+course is online and instruction and assignment submission will occur online through
+Canvas.
+Course Structure
+This is an online course with a weekly module structure. Each week will have a reading /
+video / assignment to complete and most weeks will have a quiz, homework or exam.
+Course Prerequisites or Other Restrictions
+CSCE 2110 is an enforced pre-requisite.
+This course has digital components. To fully participate in this class, students will need
+internet access to reference content on the Canvas Learning Management System. If
+circumstances change, you will be informed of other technical needs to access course
+content. Information on how to be successful in a digital learning environment can be
+found at Learn AnywhereLinks to an external site. (https://online.unt.edu/learnLinks to an
+external site.).
+Course Objectives
+By the end of this course, students will be able to:
+1. Analyze a problem to determine its data requirements.
+2. Create a database that satisfies the given data requirements.
+3. Create, maintain and access data in a database using SQL.
+4. Describe and demonstrate how B+-tree and hashing speed data access.
+
+5. Describe and implement the theory of functional dependencies for Database
+design.
+Materials
+There is no text required for the course – all resources are online
+Technical Requirements & Skills
+Minimum Technology Requirements
+• A computer with Internet access
+• Canvas Technical Requirements (Links to an external site.)
+Netiquette
+Netiquette, or online etiquette, refers to the way students are expected to interact with
+each other and with their instructors online. Here are some general guidelines:
+• Treat your instructor and classmates with respect in email or any other
+communication.
+• Remember that all college level communication should have correct spelling and
+grammar (this includes discussion boards).
+• Avoid slang terms such as “totes magotes” and texting abbreviations such as “u”
+instead of “you.”
+• Humor and sarcasm are highly encouraged. People who take the world seriously are
+in for a rough journey.
+• Don’t lead your emails off with your social security and bank account numbers,
+password manager master password, home address, credit score, and dental
+record jpegs. 3 of those will suffice.
+See these Netiquette Guidelines (Links to an external site.) for more information.
+Success in an Online Course
+The key to success in the course is to keep up with the due dates and material, and work a
+week or so ahead so that you have a buffer if any unexpected situations come up with work,
+illness and so on.
+How to Succeed as an Online StudentLinks to an external site.
+Getting Help
+
+Technical Assistance
+Part of working in the online environment involves dealing with the inconveniences and
+frustration that can arise when technology breaks down or does not perform as expected.
+Here at UNT we have a Student Help Desk that you can contact for help with Canvas or
+other technology issues.
+UNT Help Desk (Links to an external site.)Links to an external site.
+Call: 940-565-2324
+Email: helpdesk@unt.edu
+Walk-in: Sage Hall, Room 330
+Walk-in Hours: Monday–Friday: 8am - 5pm
+Telephone Availability:
+• Spring Hours
+o Monday–Thursday: 8am – 9pm
+o Friday: 8am- 5pm
+o Saturday: 11am- 3pm
+For additional support, visit Canvas Technical Help
+Laptop CheckoutsLinks to an external site.
+The following library service desks provide laptop checkouts during hours of operationLinks
+to an external site.. MacBooks are only available at Willis Library.
+• Willis Library: The SparkLinks to an external site., First Floor
+• Sycamore Library: Sycamore Service DeskLinks to an external site.
+• Discovery Park: Library Service DeskLinks to an external site., Room B112
+1 (Links to an external site.)
+Student Support Services
+o RegistrarLinks to an external site.
+o Financial Aid (Links to an external site.)
+
+o Student Legal Services (Links to an external site.)
+o Career Center(Links to an external site.)
+o Counseling and Testing Services (Links to an external site.)
+o Student Affairs Care Team (Links to an external site.)
+o Student Health and Wellness Center (Links to an external site.)
+Academic Support Services
+• Academic Resource Center (Links to an external site.)
+• Academic Success Center (Links to an external site.)
+• UNT Libraries (Links to an external site.)
+• Writing Lab (Links to an external site.)
+• MathLab (Links to an external site.)
+Course Requirements
+Percentages of final grade are approximate and subject to change.
+Grade Percentages
+Percentage of
+Category
+Final Grade
+Homework 35%
+Quizzes 35%
+Midterm 15%
+Final Exam 15%
+Total 100%
+Grading
+
+Grading scale
+Final Grade Letter
+90.0 - 100 A
+80.0 - 89.9 B
+70.0 - 79.9 C
+60.0 - 69.9 D
+0.0 - 59.9 F
+There is no curving of grades.
+Course Topics
+Course Topics
+Module Topics
+01 Introduction and Tools
+02 Database Design and Entity Relationship Diagrams
+03 SQL Part 1
+04 SQL Part 2
+05 SQL Hands-On 1
+06 SQL Hands-On 2
+
+07 Indexes and B-Trees
+08 Midterm
+09 phpMyAdmin
+10 NoSQL
+11 APIs / REST
+12 AWS Data Management
+13 AWS Part 2
+14 Final Review
+15 Final Exam
+Course Evaluation
+Student Perceptions of Teaching (SPOT) is the student evaluation system for UNT and
+allows students the ability to confidentially provide constructive feedback to their
+instructor and department to improve the quality of student experiences in the course.
+Course Policies
+Assignment Policy
+All assignments are posted to Canvas and should be submitted to Canvas. No late
+submissions will be accepted for any reason and I do not assign extra credit. Please
+start work on assignments and quizzes well before the deadline and on a stable Internet
+connection to avoid any submission delays due to technical difficulties. It is also
+considered good practice to refresh the page when you submit an assignment to make sure
+Canvas actually accepted it.
+Examination Policy
+You may use the Internet or any printed resources during exams, but please do not rely on
+this as the exams and quizzes have a time limit and the questions are not easily ‘Google-
+
+able’. DO NOT POST quiz questions to any online venue or share quiz questions with other
+students. Violation of this policy will result in a zero for the assignment or exam. You may
+use online resources during the exam, but all quizzes and exams must be taken by yourself
+without human help.
+Late Work
+No late work is accepted. All submissions to Canvas must occur before the
+deadline. The instructor or TA cannot accept assignments via email.
+Attendance Policy and Participation
+Students are expected to regularly login to Canvas, keep up with assignments and due
+dates, and actively participate in online discussions and activities as posted.
+Syllabus Change Policy
+This syllabus, the grading scale, grades given on assignments, due dates, and any other
+course details are subject to change at any time without prior notice or consent.
+UNT Policies
+Academic Integrity Policy
+Academic Integrity Standards and Consequences. According to UNT Policy 06.003,
+Student Academic Integrity, academic dishonesty occurs when students engage in
+behaviors including, but not limited to cheating, fabrication, facilitating academic
+dishonesty, forgery, plagiarism, and sabotage. A finding of academic dishonesty may result
+in a range of academic penalties or sanctions ranging from admonition to expulsion from
+the University.
+Students taking this course implicitly agree to uphold the UNT honor code:
+“I commit myself to honor, integrity, and responsibility as a student representing the
+University of North Texas community. I understand and pledge to uphold academic integrity
+as set forth by UNT Student Academic Integrity Policy, 06.003
+(https://policy.unt.edu/policy/06-003). I affirm that the work I submit will always be my
+own, and the support I provide and receive will always be honorable.”
+It is highly important that you are familiar with the University’s academic integrity policy
+and the CSE department’s guidelines on academic integrity:
+UNT Academic Integrity Policy (PDF) (https://policy.unt.edu/policy/06-003Links to an
+external site.)
+
+CSE Academic Integrity
+Guidelines: https://engineering.unt.edu/cse/students/resources/academic-
+integrity.htmlLinks to an external site.
+ADA Policy
+UNT makes reasonable academic accommodation for students with disabilities. Students
+seeking accommodation must first register with the Office of Disability Accommodation
+(ODA) to verify their eligibility. If a disability is verified, the ODA will provide a student with
+an accommodation letter to be delivered to faculty to begin a private discussion regarding
+one’s specific course needs. Students may request accommodations at any time, however,
+ODA notices of accommodation should be provided as early as possible in the semester to
+avoid any delay in implementation. Note that students must obtain a new letter of
+accommodation for every semester and must meet with each faculty member prior to
+implementation in each class. For additional information see the ODA website (Links to an
+external site.).
+Emergency Notification & Procedures
+UNT uses a system called Eagle Alert to quickly notify students with critical information in
+the event of an emergency (i.e., severe weather, campus closing, and health and public
+safety emergencies like chemical spills, fires, or violence). students will be notified by
+Eagle Alert if there is a campus closing that will impact a class and describe that the
+calendar is subject to change, citing the Campus Closures PolicyLinks to an external
+site. (https://policy.unt.edu/policy/15-006Links to an external site.).
+Retention of Student Records
+Student records pertaining to this course are maintained in a secure location by the
+instructor of record. All records such as exams, answer sheets (with keys), and written
+papers submitted during the duration of the course are kept for at least one calendar year
+after course completion. Course work completed via the Blackboard online system,
+including grading information and comments, is also stored in a safe electronic
+environment for one year. Students have the right to view their individual record; however,
+information about student’s records will not be divulged to other individuals without proper
+written consent. Students are encouraged to review the Public Information Policy and the
+Family Educational Rights and Privacy Act (FERPA) laws and the University’s policy. See
+UNT Policy 10.10, Records Management and Retention for additional information.
+Acceptable Student Behavior
+
+Student behavior that interferes with an instructor’s ability to conduct a class or other
+students' opportunity to learn is unacceptable and disruptive and will not be tolerated in
+any instructional forum at UNT. Students engaging in unacceptable behavior will be
+directed to leave the classroom and the instructor may refer the student to the Dean of
+Students to consider whether the student's conduct violated the Code of Student Conduct.
+The University's expectations for student conduct apply to all instructional forums,
+including University and electronic classroom, labs, discussion groups, field trips, etc.
+What is the square root of nine? Visit UNT’s Code of Student Conduct (Links to an external
+site.) to learn more.
+Access to Information - Eagle Connect
+Students’ access point for business and academic services at UNT is located
+at: my.unt.edu (Links to an external site.). All official communication from the University
+will be delivered to a student’s Eagle Connect account. For more information, please visit
+the website that explains Eagle Connect and how to forward e-mail Eagle Connect (Links to
+an external site.).
+Student Evaluation Administration Dates
+Student feedback is important and an essential part of participation in this course. The
+student evaluation of instruction is a requirement for all organized classes at UNT. The
+survey will be made available during weeks 13, 14 and 15 of the long semesters to provide
+students with an opportunity to evaluate how this course is taught. Students will receive an
+email from "UNT SPOT Course Evaluations via IASystem Notification" (no-
+reply@iasystem.org) with the survey link. Students should look for the email in their UNT
+email inbox. Simply click on the link and complete the survey. Once students complete the
+survey they will receive a confirmation email that the survey has been submitted. For
+additional information, please visit the SPOT website (Links to an external site.) or email
+spot@unt.edu.
+Sexual Assault Prevention
+UNT is committed to providing a safe learning environment free of all forms of sexual
+misconduct, including sexual harassment sexual assault, domestic violence, dating
+violence, and stalking. Federal laws (Title IX and the Violence Against Women Act) and UNT
+policies prohibit discrimination on the basis of sex, and therefore prohibit sexual
+misconduct. If you or someone you know is experiencing sexual harassment, relationship
+violence, stalking, and/or sexual assault, there are campus resources available to provide
+support and assistance. UNT’s Survivor Advocates can assist a student who has been
+impacted by violence by filing protective orders, completing crime victim’s compensation
+
+applications, contacting professors for absences related to an assault, working with
+housing to facilitate a room change where appropriate, and connecting students to other
+resources available both on and off campus. The Survivor Advocates can be reached at
+SurvivorAdvocate@unt.edu or by calling the Dean of Students Office at 940-565- 2648.
+Additionally, alleged sexual misconduct can be non-confidentially reported to the Title IX
+Coordinator at oeo@unt.edu or at (940) 565 2759.
+Important Notice for F-1 Students taking Distance Education Courses
+Federal Regulation
+To read detailed Immigration and Customs Enforcement regulations for F-1 students taking
+online courses, please go to the Electronic Code of Federal Regulations website. The
+specific portion concerning distance education courses is located at Title 8 CFR 214.2
+Paragraph (f)(6)(i)(G).
+The paragraph reads:
+(G) For F-1 students enrolled in classes for credit or classroom hours, no more than the
+equivalent of one class or three credits per session, term, semester, trimester, or quarter
+may be counted toward the full course of study requirement if the class is taken on-line or
+through distance education and does not require the student's physical attendance for
+classes, examination or other purposes integral to completion of the class. An on-line or
+distance education course is a course that is offered principally through the use of
+television, audio, or computer transmission including open broadcast, closed circuit,
+cable, microwave, or satellite, audio conferencing, or computer conferencing. If the F-1
+student's course of study is in a language study program, no on-line or distance education
+classes may be considered to count toward a student's full course of study requirement.
+University of North Texas Compliance
+To comply with immigration regulations, an F-1 visa holder within the United States may
+need to engage in an on-campus experiential component for this course. This component
+(which must be approved in advance by the instructor) can include activities such as taking
+an on-campus exam, participating in an on-campus lecture or lab activity, or other on-
+campus experience integral to the completion of this course.
+If such an on-campus activity is required, it is the student’s responsibility to do the
+following:
+(1) Submit a written request to the instructor for an on-campus experiential component
+within one week of the start of the course.
+
+(2) Ensure that the activity on campus takes place and the instructor documents it in
+writing with a notice sent to the International Student and Scholar Services Office. ISSS
+has a form available that you may use for this purpose.
+Because the decision may have serious immigration consequences, if an F-1 student is
+unsure about his or her need to participate in an on-campus experiential component for
+this course, s/he should contact the UNT International Student and Scholar Services Office
+(telephone 940-565-2195 or email internationaladvising@unt.edu) to get clarification
+before the one-week deadline.
+Student Verification
+UNT takes measures to protect the integrity of educational credentials awarded to
+students enrolled in distance education courses by verifying student identity, protecting
+student privacy, and notifying students of any special meeting times/locations or
+additional charges associated with student identity verification in distance education
+courses.
+See UNT Policy 07-002 Student Identity Verification, Privacy, and Notification and Distance
+Education Courses (Links to an external site.) (https://policy.unt.edu/policy/07-002).
+Use of Student Work
+A student owns the copyright for all work (e.g. software, photographs, reports,
+presentations, and email postings) he or she creates within a class and the University is not
+entitled to use any student work without the student’s permission unless all of the
+following criteria are met:
+• The work is used only once.
+• The work is not used in its entirety.
+• Use of the work does not affect any potential profits from the work.
+• The student is not identified.
+• The work is identified as student work.
+If the use of the work does not meet all of the above criteria, then the University office or
+department using the work must obtain the student’s written permission.
+Download the UNT System Permission, Waiver and Release Form
+Transmission and Recording of Student Images in Electronically-Delivered Courses
+
+1. No permission is needed from a student for his or her image or voice to be
+transmitted live via videoconference or streaming media, but all students should be
+informed when courses are to be conducted using either method of delivery.
+2. In the event an instructor records student presentations, he or she must obtain
+permission from the student using a signed release in order to use the recording for
+future classes in accordance with the Use of Student-Created Work guidelines
+above.
+3. Instructors who video-record their class lectures with the intention of re-using some
+or all of recordings for future class offerings must notify students on the course
+syllabus if students' images may appear on video. Instructors are also advised to
+provide accommodation for students who do not wish to appear in class recordings.
+Example: This course employs lecture capture technology to record class sessions.
+Students may occasionally appear on video. The lecture recordings will be available to you
+for study purposes and may also be reused in future course offerings.
+No notification is needed if only audio and slide capture is used or if the video only records
+the instructor's image. However, the instructor is encouraged to let students know the
+recordings will be available to them for study purposes.

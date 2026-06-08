@@ -25,7 +25,7 @@ Why this knowledge valuavble and hard to find through official channels: Th UNT 
 |---|--------|-------------|-----------------|
 | 1 |Rate My Professor - Jonathon Doran | 83 ratings UNT CSCE professor |https://www.ratemyprofessors.com/professor/1579301 |
 | 2 |Rate My Professor - Curtis Chambers |42 ratings UNT CSCE professor |https://www.ratemyprofessors.com/professor/2174155 |
-| 3 |Rate My Professor - John Curtis |29 ratings UNT Kinesiology professor |https://www.ratemyprofessors.com/professor/1707713 |
+| 3 |Rate My Professor - Amar Maharjan |25 ratings UNT CSCE professor |https://www.ratemyprofessors.com/professor/2649807 |
 | 4 |Rate My Professor - Pradhumna Shrestha |44 ratings UNT CSCE professor |https://www.ratemyprofessors.com/professor/2174392 |
 | 5 |Rate My Professor - Bahareh Dorri |22 ratings UNT CSCE Professor |https://www.ratemyprofessors.com/professor/2936044 |
 | 6 |Rate My Professor - David Keathly |74 ratings UNT CSCE Professor |https://www.ratemyprofessors.com/professor/702560 |
@@ -42,15 +42,17 @@ Why this knowledge valuavble and hard to find through official channels: Th UNT 
      State your chunk size (in tokens or characters), overlap size, and explain why those
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
-**RMP Reviews - Document Chunking"**
-**Chunk size:50-250**
-**Overlap:0**
-**Reasoning: Each reviews is treated as one chunk and no overlap is needed because of that.**
+**RMP Reviews - Record-level chunking**
+**Target size: 50-250 tokens (typical); hard ceiling: 500 tokens**
+**Overlap: 0**
+**Reasoning: Each review is treated as one chunk (split on the `---` separator between records) and no overlap is needed because each review is already a self-contained unit. Most reviews fall in the 50-250 range, but a review is never cut to hit that target — splitting one mid-thought would break self-containment and strip the rating/course context that makes it answerable. A few very short reviews fall below 50 tokens and a few long ones run higher; both are kept whole.**
 
 **Syllabus - Section-level chunking**
-**Chunk: 100-400**
+**Target size: 100-400 tokens (typical); hard ceiling: 500 tokens**
 **Overlap: 0**
-**Reasoning: Each section of the syllabus talks about one topic which should be lost because of chunking and no overlap needed as there is no cross relation among the topics**
+**Reasoning: Each section of the syllabus covers one topic, so I split on section headers rather than a fixed window to keep each topic intact, and no overlap is needed since topics don't cross-reference. A section is only sub-split (on paragraph boundaries, repeating the section title on each piece) if it exceeds the 500-token ceiling, so most chunks land in 100-400 but the ceiling — not 400 — is the real cap.**
+
+**Why 500 (changed from earlier 400):** keeping a whole review or whole syllabus section together matters more for retrieval quality than hitting a tight size band. 500 tokens is the implemented ceiling (`TOKEN_CEILING` in `ingest.py`); the 50-250 / 100-400 figures are descriptive targets, not enforced minimums or maximums.**
 ---
 
 ## Retrieval Approach

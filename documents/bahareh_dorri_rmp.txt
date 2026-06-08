@@ -1,0 +1,273 @@
+Professor: Bahareh Dorri
+Department: Computer Science and Engineering
+University: University of North Texas
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2936044
+
+
+---
+
+Course: CSCE 4110
+Date: May 6th, 2026
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: B+
+Review: All bad reviews but one were removed.
+
+---
+
+Course: CSCE 4110
+Date: May 6th, 2026
+Rating: 1
+Difficulty: 3
+Would Take Again: No
+Grade: A-
+Review: I would recommend not taking this professor 
+if possible. The exam reviews were very unhelpful 
+for the actual exams and cheating was allowed 
+multiple times which ruined the class for everyone 
+else.
+
+---
+
+Course: CSCE 4110
+Date: May 6th, 2026
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: A-
+Review: At first this professor did very well by 
+providing comprehensive exam reviews for the first 
+exam but for both the second and final we did not 
+receive much of a review and both exams were mostly 
+open-ended questions some of which had never been 
+gone over in class and then she told someone that 
+the final would be curved but later went back on that.
+
+---
+
+Course: CSCE 4110
+Date: May 2nd, 2026
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: B
+Review: Professor Dorri is a great lecturer with 
+clear examples, but be prepared for unannounced 
+quizzes that heavily impact your grade. Study guides 
+are too vague to help with exams. Also, poor handling 
+of cheating led to assigned seating and harder tests 
+for everyone. TAs are hit-or-miss and can be rude or 
+have an ego. Overall good class but minor issues.
+
+---
+
+Course: CSCE 2110
+Date: Jan 14th, 2026
+Rating: 2
+Difficulty: 3
+Would Take Again: No
+Grade: B
+Review: I wouldn't take her again. She's kind, but 
+Data Structures needs clear, structured teaching and 
+this class didn't provide that. Many lectures felt 
+rushed or confusing, and I relied heavily on 
+YouTube and notes from other sources to understand 
+the material. Expectations and grading could be 
+clearer.
+
+---
+
+Course: CSCE 5430
+Date: Aug 25th, 2025
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Very caring. Excellent lectures.
+
+---
+
+Course: CSCE 5430
+Date: Jun 17th, 2025
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: Not sure yet
+Review: Recommended! Clear grading criteria. 
+Inspirational and caring professor.
+
+---
+
+Course: CSCE 2110
+Date: May 14th, 2025
+Rating: 5
+Difficulty: 1
+Would Take Again: Yes
+Grade: A+
+Review: Amazing professor and an easy course overall. 
+Lecture attendance isn't required, but extra credit 
+comes from class participation. Weekly recitations 
+have practice problems which are graded. Review 
+slides and practice problems to prepare well for 
+the exam and the quizzes.
+
+---
+
+Course: CSCE 4110
+Date: Apr 17th, 2025
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Best professor in CS department. Lectures 
+are comprehensive and she moves through material at 
+the perfect pace. Would take again if the opportunity 
+is presented.
+
+---
+
+Course: CSCE 4110
+Date: Jan 16th, 2025
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A+
+Review: A great professor. She is helpful inside and 
+outside of class. Our class performed poorly on the 
+first midterm, so she sent out a questionnaire asking 
+what she can do to help. Performance increased on 
+subsequent tests, and she offered extra credit 
+opportunities. Make sure to attend lectures, as she 
+gives out in-class assignments. Highly recommend.
+
+---
+
+Course: CSCE 4110
+Date: Dec 10th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: Not sure yet
+Review: One of my favorite professors here. She 
+explains the material very clearly with examples 
+and is happy to help students who don't understand 
+it. The TAs present during lectures were also very 
+helpful when I was confused. Take notes during 
+class and you'll do fine.
+
+---
+
+Course: CSCE 5400
+Date: Dec 10th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: I went to her class daily and she gives us 
+many example problems to practice in the class. 
+Classes are very interactive and she gives bonus 
+points if you solve problems on board. Prompt 
+response to emails both by her and her TAs. She is 
+always accessible and ready to help. I would 
+definitely recommend Mrs. Dorri's class.
+
+---
+
+Course: CSCE 5400
+Date: Dec 9th, 2024
+Rating: 5
+Difficulty: 4
+Would Take Again: Yes
+Grade: A+
+Review: Excellent class. The best class that I ever 
+took in UNT. TAs especially Pavan was very helpful 
+throughout the course helping us with difficult 
+problems.
+
+---
+
+Course: CSCE 4110
+Date: Dec 9th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Amazing professor, one of the best among 
+UNTs often disappointing CS staff. Has a great 
+lecture and teaching style. The subject material 
+is tough, but she teaches it effectively. Engage 
+with the material — if you actually show up to 
+class, take notes, and do the assignments, the 
+grades will take care of themselves. Took her for 
+both 4110 and 4115.
+
+---
+
+Course: CSCE 4110
+Date: Dec 1st, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: Great professor and she is very kind. 
+Teaches and shows everything you need. Makes 
+learning algorithms interesting. Attendance isn't 
+taken but there are random class activities that 
+aren't announced on Canvas so attendance is 
+heavily encouraged.
+
+---
+
+Course: CSCE 5400
+Date: Sep 7th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: Not sure yet
+Review: Good class to learn the subject. Extra 
+credit opportunities available.
+
+---
+
+Course: CSCE 2110
+Date: Aug 23rd, 2024
+Rating: 5
+Difficulty: 4
+Would Take Again: Yes
+Grade: A
+Review: She knows her stuff!
+
+---
+
+Course: CSCE 4110
+Date: May 1st, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: Amazing professor, she knows her materials!
+
+---
+
+Course: CSCE 4110
+Date: Apr 18th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: She explains all topics during lecture 
+very well.
+
+---
+
+Course: CSCE 4110
+Date: Apr 11th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: Not sure yet
+Review: Good class.
+
+---

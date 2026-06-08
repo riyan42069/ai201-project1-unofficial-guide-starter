@@ -1,0 +1,3350 @@
+[
+  {
+    "text": "Course: CSCE 1040 Date: Mar 18th, 2026 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: Please take someone else.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1040",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0000",
+    "tokens": 31
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Dec 27th, 2025 Rating: 5 Difficulty: 4 Would Take Again: Yes Grade: B Review: He was a nice professor. I took him for two semesters. The professor himself is really calm, nice and very helpful. Although you need to do your own code practice for the lab exam. If you know what you are doing then you will be good.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1040",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0001",
+    "tokens": 84
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Oct 12th, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: A- Review: His lectures are very boring and hard to sit through. Going to class is pointless and a waste of time. The ZyBooks is also a waste of time. Learn on your own with plenty of resources on YouTube and do your own coding problems separate from the labs. I wish he wasn't the only option for this class.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1040",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0002",
+    "tokens": 100
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Oct 12th, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: A- Review: His lectures are uninteresting. ZyBooks is easy to get through but you feel like you are wasting your time doing them and they personally didn't help me learn. Most of the learning I did on my own. He will have projects and labs due the week of the exam. If you take him stick to YouTube and practice coding on your own outside of labs.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0003",
+    "tokens": 109
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 15th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: DO NOT TAKE.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0004",
+    "tokens": 28
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 9th, 2025 Rating: 3 Difficulty: 3 Would Take Again: No Grade: A Review: Going to class is useless. The homework was very helpful for learning content and the exams were similar to labs so know both very well. The exams are weighted heavily with no drops but doing homework, projects, and labs can make up a bad exam grade. Got a 50 on one exam and ended with a 96 in the class.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0005",
+    "tokens": 101
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 8th, 2025 Rating: 1 Difficulty: 3 Would Take Again: No Grade: B- Review: This professor was terrible and unfortunately the only person teaching both CSCE 1030 and 1040. Lectures were useless to the point where only 9 people out of 80 from the start were left by the end.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0006",
+    "tokens": 74
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 8th, 2025 Rating: 1 Difficulty: 3 Would Take Again: No Grade: Rather not say Review: Don't take this professor. Exams are much harder than the study material, lectures are stale, and he is never helpful during office hours and will not respond to emails no matter how long you wait for a reply.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0007",
+    "tokens": 80
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 8th, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: B+ Review: Terrible professor — if you can avoid taking him please look for any other option. Professor Maharjan really does not care if his students learn anything. His lectures are useless. Also he does not round grades even if they are 0.1 away from the next letter grade.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0008",
+    "tokens": 91
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 6th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: B Review: His lectures are not helpful, there are no drops for his exams, and what he teaches is not what is tested — he makes exams harder than the material covered.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0009",
+    "tokens": 64
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 3rd, 2025 Rating: 3 Difficulty: 2 Would Take Again: Yes Grade: A+ Review: Lectures and online resources were well organized.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0010",
+    "tokens": 38
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Feb 6th, 2025 Rating: 3 Difficulty: 3 Would Take Again: Yes Grade: F Review: Decent professor, he would sidetrack a lot during lectures which is why I rarely attended them. Always gave clear instructions though.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0011",
+    "tokens": 58
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Dec 20th, 2024 Rating: 1 Difficulty: 5 Would Take Again: No Grade: C+ Review: Horrible professor. He pawns everything on his TAs and believes everything they say. TAs in this class were caught helping students use ChatGPT during exams. He accused students of cheating based solely on TA reports. Be cautious.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0012",
+    "tokens": 83
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Jun 24th, 2024 Rating: 1 Difficulty: 4 Would Take Again: No Grade: Rather not say Review: Taking this course was the worst mistake. He was terrible and so difficult to work with. He is never in the lab to help so labs were hard to understand. Exams accounted for more than 60% of your grade. If you have a feeling you won't pass drop the class — it is not worth repeating. Please avoid if possible.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0013",
+    "tokens": 105
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 8th, 2024 Rating: 1 Difficulty: 5 Would Take Again: No Grade: F Review: Even if you study a lot outside of class you will still somehow fail. Each test is worth 55% of your grade.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0014",
+    "tokens": 51
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 3rd, 2024 Rating: 3 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: Classes are not compulsory but if you don't understand anything just go to class. He is knowledgeable but just reads off the slides which is boring. There are no quizzes but homework is heavy. There are three group projects and four exams including the final. Solo learning is required for getting a good grade.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0015",
+    "tokens": 103
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Apr 28th, 2024 Rating: 1 Difficulty: 4 Would Take Again: No Grade: C Review: The lectures are very boring and the professor is not friendly. None of the exams are dropped and each exam is worth 15%. I recommend taking this course with a different professor.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0016",
+    "tokens": 70
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Nov 16th, 2023 Rating: 2 Difficulty: 1 Would Take Again: No Grade: A+ Review: Lectures were extremely boring but he posts the slideshows on Canvas so there is not really much reason to attend. Labs were actually useful but beware the lab exams and projects — they are very heavily weighted and you don't get any drops on them.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0017",
+    "tokens": 87
+  },
+  {
+    "text": "Course: CSCE 1040 Date: May 14th, 2023 Rating: 3 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: Lectures were pretty boring so I didn't attend. Lots of busywork on ZyBooks so I mainly used that to study. Tests weren't too bad and were similar to labs. The class wasn't hard but had a lot of tedious homework. I've heard the teacher is helpful if you email him. Overall an okay experience — you will be perfectly fine as long as you do your work.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1040",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0018",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 1040 Date: May 10th, 2023 Rating: 2 Difficulty: 4 Would Take Again: No Grade: Not sure yet Review: Very exam heavy. All homeworks are basically week-long projects you do by yourself. ZyBooks homework is easy just pay attention to the participation. Don't be afraid to ask questions because they will help you. Don't recommend taking this teacher for more complex classes but for the basics he is average.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1040",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0019",
+    "tokens": 104
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Apr 20th, 2023 Rating: 3 Difficulty: 3 Would Take Again: No Grade: A- Review: Very dull lectures but I think that is just computer science. He speaks really quietly so be sure to sit in the front. A very kind man and easy to get a hold of. The homework is a lot but as long as you don't do it at the last minute you are good. He has also pushed deadlines back by a day to help students.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0020",
+    "tokens": 102
+  },
+  {
+    "text": "Course: CSCE 5640 Date: Mar 20th, 2023 Rating: 2 Difficulty: 3 Would Take Again: No Grade: A- Review: This professor follows his key sheet to validate answers. If your answer is correct and provides a proper solution he still checks his key sheet for exact word matches. Grading feels very rigid and inflexible.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 5640",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0021",
+    "tokens": 77
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Jan 17th, 2023 Rating: 3 Difficulty: 1 Would Take Again: Yes Grade: A- Review: Reading the ZyBooks is essential. It will help you on the exams a ton which are worth 67% of the grade in total.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0022",
+    "tokens": 53
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Dec 31st, 2022 Rating: 1 Difficulty: 5 Would Take Again: No Grade: D Review: Bunch of homework due each week with projects that can take multiple days of work all worth almost nothing. There are four tests including the final worth a total of 70% of your grade. You will not know what you made on any of the tests for several weeks. Don't take this class if possible.",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0023",
+    "tokens": 97
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Dec 16th, 2022 Rating: 2 Difficulty: 5 Would Take Again: Yes Grade: B Review: Canvas lab average will be wrong the entire semester until the very end when he combines the grades — your grade will drop significantly so beware. Grades are unreliable all semester. This course is very hard unless you already have experience in CSCE. Final is comprehensive and open book but worth 20%. Projects weigh less than 3% but help a lot. ---",
+    "metadata": {
+      "professor": "Amar Maharjan",
+      "course_code": "CSCE 1030",
+      "source": "amar_maharjan_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0024",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 4110 Date: May 6th, 2026 Rating: 1 Difficulty: 4 Would Take Again: No Grade: B+ Review: All bad reviews but one were removed.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0025",
+    "tokens": 34
+  },
+  {
+    "text": "Course: CSCE 4110 Date: May 6th, 2026 Rating: 1 Difficulty: 3 Would Take Again: No Grade: A- Review: I would recommend not taking this professor if possible. The exam reviews were very unhelpful for the actual exams and cheating was allowed multiple times which ruined the class for everyone else.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0026",
+    "tokens": 74
+  },
+  {
+    "text": "Course: CSCE 4110 Date: May 6th, 2026 Rating: 1 Difficulty: 4 Would Take Again: No Grade: A- Review: At first this professor did very well by providing comprehensive exam reviews for the first exam but for both the second and final we did not receive much of a review and both exams were mostly open-ended questions some of which had never been gone over in class and then she told someone that the final would be curved but later went back on that.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0027",
+    "tokens": 112
+  },
+  {
+    "text": "Course: CSCE 4110 Date: May 2nd, 2026 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: B Review: Professor Dorri is a great lecturer with clear examples, but be prepared for unannounced quizzes that heavily impact your grade. Study guides are too vague to help with exams. Also, poor handling of cheating led to assigned seating and harder tests for everyone. TAs are hit-or-miss and can be rude or have an ego. Overall good class but minor issues.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0028",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Jan 14th, 2026 Rating: 2 Difficulty: 3 Would Take Again: No Grade: B Review: I wouldn't take her again. She's kind, but Data Structures needs clear, structured teaching and this class didn't provide that. Many lectures felt rushed or confusing, and I relied heavily on YouTube and notes from other sources to understand the material. Expectations and grading could be clearer.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 2110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0029",
+    "tokens": 100
+  },
+  {
+    "text": "Course: CSCE 5430 Date: Aug 25th, 2025 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: Very caring. Excellent lectures.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 5430",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0030",
+    "tokens": 33
+  },
+  {
+    "text": "Course: CSCE 5430 Date: Jun 17th, 2025 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: Not sure yet Review: Recommended! Clear grading criteria. Inspirational and caring professor.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 5430",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0031",
+    "tokens": 46
+  },
+  {
+    "text": "Course: CSCE 2110 Date: May 14th, 2025 Rating: 5 Difficulty: 1 Would Take Again: Yes Grade: A+ Review: Amazing professor and an easy course overall. Lecture attendance isn't required, but extra credit comes from class participation. Weekly recitations have practice problems which are graded. Review slides and practice problems to prepare well for the exam and the quizzes.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 2110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0032",
+    "tokens": 93
+  },
+  {
+    "text": "Course: CSCE 4110 Date: Apr 17th, 2025 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: Best professor in CS department. Lectures are comprehensive and she moves through material at the perfect pace. Would take again if the opportunity is presented.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0033",
+    "tokens": 65
+  },
+  {
+    "text": "Course: CSCE 4110 Date: Jan 16th, 2025 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A+ Review: A great professor. She is helpful inside and outside of class. Our class performed poorly on the first midterm, so she sent out a questionnaire asking what she can do to help. Performance increased on subsequent tests, and she offered extra credit opportunities. Make sure to attend lectures, as she gives out in-class assignments. Highly recommend.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0034",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 4110 Date: Dec 10th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: Not sure yet Review: One of my favorite professors here. She explains the material very clearly with examples and is happy to help students who don't understand it. The TAs present during lectures were also very helpful when I was confused. Take notes during class and you'll do fine.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0035",
+    "tokens": 94
+  },
+  {
+    "text": "Course: CSCE 5400 Date: Dec 10th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: I went to her class daily and she gives us many example problems to practice in the class. Classes are very interactive and she gives bonus points if you solve problems on board. Prompt response to emails both by her and her TAs. She is always accessible and ready to help. I would definitely recommend Mrs. Dorri's class.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 5400",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0036",
+    "tokens": 106
+  },
+  {
+    "text": "Course: CSCE 5400 Date: Dec 9th, 2024 Rating: 5 Difficulty: 4 Would Take Again: Yes Grade: A+ Review: Excellent class. The best class that I ever took in UNT. TAs especially Pavan was very helpful throughout the course helping us with difficult problems.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 5400",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0037",
+    "tokens": 63
+  },
+  {
+    "text": "Course: CSCE 4110 Date: Dec 9th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: Amazing professor, one of the best among UNTs often disappointing CS staff. Has a great lecture and teaching style. The subject material is tough, but she teaches it effectively. Engage with the material — if you actually show up to class, take notes, and do the assignments, the grades will take care of themselves. Took her for both 4110 and 4115.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0038",
+    "tokens": 112
+  },
+  {
+    "text": "Course: CSCE 4110 Date: Dec 1st, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: Great professor and she is very kind. Teaches and shows everything you need. Makes learning algorithms interesting. Attendance isn't taken but there are random class activities that aren't announced on Canvas so attendance is heavily encouraged.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0039",
+    "tokens": 86
+  },
+  {
+    "text": "Course: CSCE 5400 Date: Sep 7th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: Not sure yet Review: Good class to learn the subject. Extra credit opportunities available.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 5400",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0040",
+    "tokens": 45
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Aug 23rd, 2024 Rating: 5 Difficulty: 4 Would Take Again: Yes Grade: A Review: She knows her stuff!",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 2110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0041",
+    "tokens": 30
+  },
+  {
+    "text": "Course: CSCE 4110 Date: May 1st, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: Amazing professor, she knows her materials!",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0042",
+    "tokens": 36
+  },
+  {
+    "text": "Course: CSCE 4110 Date: Apr 18th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: She explains all topics during lecture very well.",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0043",
+    "tokens": 38
+  },
+  {
+    "text": "Course: CSCE 4110 Date: Apr 11th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: Not sure yet Review: Good class. ---",
+    "metadata": {
+      "professor": "Bahareh Dorri",
+      "course_code": "CSCE 4110",
+      "source": "bahareh_dorri_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0044",
+    "tokens": 32
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Nov 8th, 2025 Rating: 1 Difficulty: 1 Would Take Again: Yes Grade: A+ Review: Bro taught so well he got fired.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0045",
+    "tokens": 33
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Sep 9th, 2025 Rating: 5 Difficulty: 1 Would Take Again: No Grade: Incomplete Review: You're reading this looking for a reason to take this prof. There are none. Curtis Chambers teaches so poorly that no one knows exactly how to complete assignments. He regularly fails to attend class, and the syllabus is not updated. He is woefully unprofessional and underprepared.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0046",
+    "tokens": 97
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Sep 9th, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: A Review: Brilliant lecturer who doesn't even show up to class. Confusing assignments, syllabus doesn't even include exams, doesn't teach anything, way too much reading and work and assignments, and he doesn't even bother to come to class to lecture.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0047",
+    "tokens": 85
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Aug 24th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: Very not beginner-friendly for coders, his labs are very unclear direction-wise, and you are expected to know everything he speaks on. You are expected to fully understand GitHub and have explored every cranny of it for a surprise group project where you have to find partners. As an online student, this was absolutely draining.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0048",
+    "tokens": 110
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Jul 21st, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: C Review: Learned nothing in this class due to the assignments and project due dates being cut in half. This professor did not host any lectures, grade work or assign due dates. Class ended up being taught by the TA. DO NOT ENROLL IN THIS COURSE WITH THIS PROFESSOR. If you have to then make sure to start on the project on day one and ask the TA for help.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0049",
+    "tokens": 111
+  },
+  {
+    "text": "Course: CSCE 2100 Date: Jul 7th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: C Review: Avoid this professor at all costs. Online course, couldn't get correspondence from him until half the course was over. Had to contact the Dean to even get due dates that weren't from last semester's class. Doesn't explain anything, no office hours. All around horrendous experience.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2100",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0050",
+    "tokens": 95
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Jun 29th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: The worst professor I've ever had. After the first week, it was 2 weeks and 5 days before we heard another word from him, with 0 due dates assigned. There are two very large projects that are intended to be group projects, but he never created groups. Many assignments are clearly ripped from in-person full-term courses and are always vague. AVOID!",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0051",
+    "tokens": 115
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Jun 15th, 2025 Rating: 1 Difficulty: 3 Would Take Again: No Grade: A+ Review: Not in communication with TAs, so they grade harshly. Once I needed to contact him but he canceled class for 2 straight weeks, he doesn't check his email, and he wasn't at any of his office hours. His projects are the only hard part of the class, do not procrastinate them. Multiple choice easy, lectures useless, and coding exams have cheatsheet.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0052",
+    "tokens": 112
+  },
+  {
+    "text": "Course: CSCE 2100 Date: Jun 15th, 2025 Rating: 1 Difficulty: 1 Would Take Again: No Grade: A+ Review: Terrible teacher, reads off of zybooks. Class canceled at least 6-7 times. Won't reply to emails. Often not in office hours. He uses one question bank for quizzes and exams, which are almost all of your grade, so that's extremely easy to get an A in. You might not learn anything though.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2100",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0053",
+    "tokens": 97
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Jun 2nd, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: C Review: Attendance is mandatory but his lectures are all over the place, he cancelled class a lot and hardly ever responded to emails. You could check the UNT CSCE discord and find more complaints in detail. If you have the opportunity do not take this professor.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0054",
+    "tokens": 88
+  },
+  {
+    "text": "Course: CSCE 2110 Date: May 26th, 2025 Rating: 2 Difficulty: 4 Would Take Again: No Grade: A+ Review: Will cancel class 30 mins before lecture so if you commute get ready for some wasted trips. As far as the work goes it's not too bad as long as you stay on top of it and do exactly what he says on the rubric. If code doesn't compile in the exams you will receive a 0 instead of partial credit. These exams were super easy if you can make a cheatsheet.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0055",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 2110 Date: May 12th, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: B+ Review: Lectures were disorganized, often canceled or poorly communicated, making it hard to learn. Most of my understanding came from online sources. Project 1 had nearly 4 months while Project 2 had only 2 weeks, yet grading was delayed so long it was hard to recall the assignments. Recitations were mandatory but irrelevant to the main lectures.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0056",
+    "tokens": 110
+  },
+  {
+    "text": "Course: CSCE 2110 Date: May 2nd, 2025 Rating: 1 Difficulty: 3 Would Take Again: No Grade: Not sure yet Review: It's almost the end of the semester and he just hasn't shown up to class in over 2 weeks. He still hasn't announced when the final exam will be taking place and he has no information about it anywhere in Canvas. Believe every bad review you see about him. UNT should be embarrassed to have someone this incompetent and disorganized on their payroll.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0057",
+    "tokens": 115
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Apr 20th, 2025 Rating: 1 Difficulty: 3 Would Take Again: No Grade: Not sure yet Review: He doesn't care about his job, it's as simple as that. The semester is almost over and he's canceled almost 50% of classes. He doesn't answer emails. He talks at you about the career field like he knows something but he's just someone that couldn't make it.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0058",
+    "tokens": 92
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Apr 7th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: This is the worst class I've ever taken. It's disorganized, frequently canceled with little notice, and assignments are given last-minute sometimes due on weekends. The professor is outdated and rigid, and the TAs are unhelpful. UNT seriously needs better grad students and teaching staff.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0059",
+    "tokens": 100
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Mar 21st, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Rather not say Review: This professor is very disorganized, does not teach, and does not explain the assignment or project in full detail. He reads from Zybooks and random questions during his lectures. The TA doesn't know anything about this class and is not very helpful. Mandatory attendance, exams are online.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0060",
+    "tokens": 101
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Mar 20th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: He's probably the worst professor in UNT's computer science department. The class is very disorganized and the lectures are not useful as he reads off of Zybooks or some mediocre PowerPoint. The assignments, exams, and projects require a ton of work and they need to be perfect due to strict grading. His TAs are also clueless and don't help.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0061",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Mar 5th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: Every review of this class you read is factual. He deserves a wedgie. A disgrace of a professor.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0062",
+    "tokens": 51
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Feb 25th, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: Not sure yet Review: Data structures are hard as it is learning the rest of C and C++. However, the professor is not the best for teaching content. He makes everything a big deal to the point where everything you do wrong is like a felony. Be prepared to use outside resources as he doesn't teach anything and his TAs are bad.",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0063",
+    "tokens": 104
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Feb 12th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: B Review: Very unorganized and expects you to already know the material without teaching it. You basically just learn everything off Zybooks and he expects you to show up to his lectures where he just repeats the slides and adds some comments about how in the real world you'll need this or that. Don't take him. ---",
+    "metadata": {
+      "professor": "Curtis Chambers",
+      "course_code": "CSCE 2110",
+      "source": "curtis_chambers_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0064",
+    "tokens": 101
+  },
+  {
+    "text": "Course: CSCE 4902 Date: Jun 7th, 2026 Rating: 4 Difficulty: 2 Would Take Again: Yes Grade: A+ Review: Capstone is a very different experience from most classes so keep that in mind. Overall he seemed fine, though my interaction with him was limited as my group was assigned to work with a TA. Seems good about responding to emails. Canvas announcements were shockingly illiterate, but it was funny at least. Most important thing is finding a good group.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 4902",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0065",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 1st, 2025 Rating: 2 Difficulty: 3 Would Take Again: No Grade: A Review: Really quiet, even with a microphone I could barely hear him. Group projects and lots of homework. Beware of pop quizzes.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1030",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0066",
+    "tokens": 55
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Apr 30th, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: A+ Review: First professor where I wanted to rip my eyes out. He is very inconsiderate and does not care that you have other classes and other assignments. He will keep piling homework on you until you actually start crying. This is the first professor after 4 years that I actually wanted to drop out of college. Be prepared.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 2110",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0067",
+    "tokens": 104
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Jan 15th, 2024 Rating: 1 Difficulty: 5 Would Take Again: No Grade: B- Review: The exams and homework all build on each other and are quite difficult and time consuming. No useful feedback is given which makes it hard to improve.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0068",
+    "tokens": 63
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Nov 27th, 2023 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: Terrible professor and ideologies.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0069",
+    "tokens": 33
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Oct 19th, 2023 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A- Review: Taught the material very well. Class is decided by 3 projects that are outlined and explained very well and 3 tests that are also explained very well ahead of time. During lectures he also gives great life advice on how to make it in the computer science field which was very nice.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0070",
+    "tokens": 96
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Jul 5th, 2023 Rating: 1 Difficulty: 4 Would Take Again: No Grade: B Review: Keathly's teaching style represents the degrading quality of the CS programs at UNT. All or nothing grading. Zero guidance except for old timey anecdotes. Loves to rant about previous students and the ways he failed them. Meanwhile he literally cannot compile his own code in front of us. Yet we get punished if it happens to us during an exam.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0071",
+    "tokens": 111
+  },
+  {
+    "text": "Course: CSCE 1040 Date: May 16th, 2023 Rating: 3 Difficulty: 5 Would Take Again: Yes Grade: A+ Review: He wasn't easy to talk to but answered any questions very well. Taking this class as a freshman is hard because he doesn't leave room for you to adapt to college. He didn't seem to set clear standards for his TAs or communicate with them well. But he was very good at giving you an idea of what a job in programming will be like.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0072",
+    "tokens": 108
+  },
+  {
+    "text": "Course: CSCE 1040 Date: May 14th, 2023 Rating: 3 Difficulty: 4 Would Take Again: Yes Grade: A Review: As someone who returned to university for a second major, the difference between those who perform well in this class and those who don't boils down to mental preparedness for college. Dr. Keathly admittedly doesn't do the best job at helping freshmen adapt but this class is very doable with some studying and occasional office hours.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0073",
+    "tokens": 109
+  },
+  {
+    "text": "Course: CSCE 1040 Date: May 8th, 2023 Rating: 2 Difficulty: 3 Would Take Again: No Grade: B+ Review: Although this was an online course, no resources beyond the textbook were provided. Instructions for projects were significantly lacking and homework assignments were extraordinarily lengthy with just a week to complete them. Requests for clarification were often met with one-sentence replies and little elaboration. Thankfully the textbook is sufficient to pass.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0074",
+    "tokens": 116
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Mar 30th, 2023 Rating: 3 Difficulty: 3 Would Take Again: Yes Grade: A Review: Prof. Keathly is good at explaining the problems you bring up but he isn't very approachable. The projects were difficult but he went over them in lectures. He offers good extra credit but you need to score a minimum of 70 before he applies it. Exams weren't hard though. Only take him if you're decent at coding and willing to put in the effort.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0075",
+    "tokens": 112
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Feb 4th, 2023 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Drop/Withdrawal Review: If you don't have a coding background or this is your first coding class at UNT don't take it with him. His instructions are unclear as are his lectures. He says he doesn't expect you to know coding but wants to make you fail assignments and labs for anything. Too much work in too little time.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0076",
+    "tokens": 102
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Dec 26th, 2022 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: Gave excellent career and industry advice. Genuinely cares about the subjects he teaches and creating competent individuals. Hard work wins in this class, don't procrastinate assignments and watch content on what you are learning outside of lectures and you'll be fine. Interacting with him by asking questions will help a ton.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0077",
+    "tokens": 107
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Aug 23rd, 2022 Rating: 1 Difficulty: 5 Would Take Again: No Grade: B+ Review: Got an 89.9 but he didn't want to round up to a 90. Tough grader with lots of homework and heavy exams.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0078",
+    "tokens": 51
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Oct 29th, 2021 Rating: 2 Difficulty: 2 Would Take Again: No Grade: A Review: Dr. Keathly is a bit sarcastic with a hint of arrogance, like he needs to prove his worth to his freshman students. The material isn't difficult but there is a lot of it. The assignments are repetitive and time consuming without really teaching anything. I would not recommend.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0079",
+    "tokens": 94
+  },
+  {
+    "text": "Course: CSCE 3615 Date: May 8th, 2021 Rating: 4 Difficulty: 1 Would Take Again: Yes Grade: A+ Review: Professor did not really teach the class since it was online. However he had a few remote sessions set up to explain the material that was not included in a textbook. Do your assignments and you will pass. Exams are open-notes and open-book. Almost all assignments had confusing instructions so I needed to clarify them with the professor.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 3615",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0080",
+    "tokens": 110
+  },
+  {
+    "text": "Course: CSCE 1040 Date: May 3rd, 2021 Rating: 2 Difficulty: 2 Would Take Again: No Grade: A Review: Not a very interesting instructor. Class is pretty basic and you pretty much only need the information presented in the zyBook. Some labs are intentionally significantly more challenging than others so make sure to carve out some time for them. Homeworks are almost all incredibly lengthy but exams are all coding exams except for the final which is multiple choice.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0081",
+    "tokens": 116
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Apr 23rd, 2021 Rating: 3 Difficulty: 3 Would Take Again: Yes Grade: A Review: Though some people may dislike the way he teaches I found his class to be fine. You don't need to show up to the lectures and they are always recorded. The benefit of showing up is that he has lots of opportunities for questions which can help a lot. Overall he was much more lenient than what others said and his class is easy if you just try.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0082",
+    "tokens": 111
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Apr 15th, 2021 Rating: 3 Difficulty: 3 Would Take Again: Yes Grade: B+ Review: Had him through Zoom, not terrible but not great either. If you watch the YouTube videos he links and know how to Google, the class isn't bad. Be wary of the homework — the first one is easy but the rest are hard so start them at least 1 week before they are due. He lets you look at labs and have one sheet of notes during exams which helps.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0083",
+    "tokens": 111
+  },
+  {
+    "text": "Course: CSCE 3615 Date: Apr 1st, 2021 Rating: 4 Difficulty: 2 Would Take Again: Yes Grade: A Review: Good class with a bunch of case studies that taught relevant material. Group projects were a bit extensive however alright in the long term.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 3615",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0084",
+    "tokens": 60
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Mar 1st, 2021 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: Do not take him. He expects you to know everything day one. There is a homework assignment due every month that you constantly need to work on but you also have assignments in the book and a lab every week. He doesn't teach the content at all and if you need help he provides no help.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0085",
+    "tokens": 98
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Jan 26th, 2021 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Drop/Withdrawal Review: Guy was a horrible teacher. Doesn't teach, just expects you to know how to do everything flawlessly before doing it. He grades harshly. You're only allowed to use the textbook for help or ask a classmate for help. He expects you to code in a vacuum. He is unhelpful in his office hours. Unfortunately the only CSCE 1040 professor.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0086",
+    "tokens": 111
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Jan 26th, 2021 Rating: 2 Difficulty: 5 Would Take Again: No Grade: B+ Review: I created an account just to rate this professor. By far the most disappointing professor I have ever had. I almost changed my major because he made no effort to teach and there are no other teachers for this class. The main difficulty is the workload — zybooks plus one coding assignment a week with a large project every month. Open notes tests but no leniency.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0087",
+    "tokens": 116
+  },
+  {
+    "text": "Course: CSCE 1040 Date: Oct 19th, 2020 Rating: 2 Difficulty: 2 Would Take Again: Yes Grade: A+ Review: Definitely one of the most condescending professors I've had. Really contributes to the elitist STEM stereotype. Like everyone else says he knows what he is doing but does not teach it well. I learned all the material through the YouTube videos he links. Not the worst professor ever but completely dispassionate.",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 1040",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0088",
+    "tokens": 104
+  },
+  {
+    "text": "Course: CSCE 2110 Date: Aug 23rd, 2020 Rating: 1 Difficulty: 3 Would Take Again: No Grade: Not sure yet Review: Lectures are boring, he barely explains topics, talks nonsense about the topic, and is a tough grader. I would not recommend taking his class. ---",
+    "metadata": {
+      "professor": "David Keathly",
+      "course_code": "CSCE 2110",
+      "source": "david_keathly_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0089",
+    "tokens": 64
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Dec 5th, 2025 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A+ Review: Great professor, always very happy to teach during asynchronous lectures. Slides were helpful and assignments were decently easy.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3444",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0090",
+    "tokens": 57
+  },
+  {
+    "text": "Course: CSCE 1035 Date: Nov 4th, 2025 Rating: 4 Difficulty: 3 Would Take Again: Yes Grade: B Review: Amazing instruction and very understanding and flexible professor. ZyBooks however is mandatory and awful. If you understand content quickly this class will be hell. One ZyBooks chapter due per week including all challenges and labs. She is the best CS instructor I've had to date but this is the most work I've ever had to do for a course.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1035",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0091",
+    "tokens": 110
+  },
+  {
+    "text": "Course: CSCE 3055 Date: Nov 2nd, 2025 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: Not sure yet Review: I took this class online and honestly it was really smooth. The workload wasn't heavy but I still learned the basics of project management in a way that actually made sense. The stuff we covered is super useful for organizing small team projects as a developer.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3055",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0092",
+    "tokens": 93
+  },
+  {
+    "text": "Course: CSCE 1045 Date: Sep 22nd, 2025 Rating: 5 Difficulty: 1 Would Take Again: No Grade: A+ Review: Look carefully at all of the reviews for this professor. All of the positive reviews are heavily down-voted and all of the negative reviews are heavily upvoted. She manipulates the RMP ratings by flooding them with fake ratings and gets almost every real student rating removed by flagging them. Do not take this professor.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1045",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0093",
+    "tokens": 106
+  },
+  {
+    "text": "Course: CSCE 1045 Date: Sep 16th, 2025 Rating: 5 Difficulty: 1 Would Take Again: Yes Grade: A+ Review: Great professor!",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1045",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0094",
+    "tokens": 29
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Jul 24th, 2025 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: Not sure yet Review: This class was super helpful and I learned all the steps. The only part I didn't really enjoy was the group project — one of our teammates wasn't responsive so it made things harder for the rest of us. Other than that everything about the course was great.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3444",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0095",
+    "tokens": 92
+  },
+  {
+    "text": "Course: CSCE 3055 Date: Jul 24th, 2025 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A Review: I loved the summer project management class. The group project was fun and realistic and the course ended with real interview questions which really helped me feel prepared for future roles. She wasn't strict but offered a clear supportive path for anyone interested in project management careers.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3055",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0096",
+    "tokens": 99
+  },
+  {
+    "text": "Course: CSCE 3055 Date: Jul 21st, 2025 Rating: 4 Difficulty: 1 Would Take Again: Yes Grade: A Review: Took her for CSCE 3055 IT Project Management for summer 2025. Very easy class and she is an easy grader. My only two complaints are that she doesn't respond to emails and the instructions on assignments were unclear sometimes.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3055",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0097",
+    "tokens": 82
+  },
+  {
+    "text": "Course: CSCE 1035 Date: Apr 29th, 2025 Rating: 3 Difficulty: 2 Would Take Again: Yes Grade: A Review: She is a kind well-meaning professor but the course itself was very disorganized. Class was often cancelled or moved online with very short notice. When we did have class in person it was a 50/50 as to whether the professor would show up or we would be taught by a TA. Because of this probably best to avoid if you have no prior programming experience.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1035",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0098",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Feb 1st, 2025 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: Kind professor, class is enjoyable and you don't have to worry about professor issues. Class is very self driven and professor is supportive. Follow instructions and deliver and you will get an A. One of the best professors at UNT for CS.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3444",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0099",
+    "tokens": 85
+  },
+  {
+    "text": "Course: CSCE 1035 Date: Jan 30th, 2025 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A Review: She made ZyBooks mandatory and it was actually pretty helpful. Her teaching style just made things click in class so homework was easy practice after. Participation was key but it kept things interesting. She is really chill, understanding, and cares about her students. Easily one of the best profs I've had.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1035",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0100",
+    "tokens": 102
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Jan 24th, 2025 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: Honestly one of the best professors I've had at UNT. She is super nice and really knows her stuff. She explains everything clearly and her lectures are interactive which is rare. Group projects are a big part but she makes them fun and keeps everything organized. Practical assignments teach real-world skills. Highly recommend.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3444",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0101",
+    "tokens": 107
+  },
+  {
+    "text": "Course: CSCE 3615 Date: Nov 12th, 2024 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: Not sure yet Review: Fun class. She kept things easygoing but still made sure we learned a ton about project management. We had a great mix of hands-on projects and real-world examples. Highly recommend if you want a low-stress interesting class.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3615",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0102",
+    "tokens": 84
+  },
+  {
+    "text": "Course: CSCE 1035 Date: Oct 28th, 2024 Rating: 5 Difficulty: 1 Would Take Again: Yes Grade: A+ Review: Best professor I ever had, actually teaches the class. Attendance is not really mandatory. Extra credit opportunities available.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1035",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0103",
+    "tokens": 57
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Jul 25th, 2024 Rating: 5 Difficulty: 1 Would Take Again: Yes Grade: A+ Review: She had one project the whole semester which was building an app. I enjoyed this class out of all the CSCE classes I have taken so far — this is my favorite. She is super nice and sweet. As long as you do your work you will do extremely well in the class.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3444",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0104",
+    "tokens": 89
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Jul 21st, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: Not sure yet Review: We worked on one project for the entire semester and had a lot of homework but I learned how to create an application and she provided hands-on teaching of the process. I really enjoyed the class even though the summer semester is short.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3444",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0105",
+    "tokens": 87
+  },
+  {
+    "text": "Course: CSCE 1035 Date: Jul 17th, 2024 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: B+ Review: She is very caring to her students and goes out of her way to ensure you get the help you need. Extra credit available.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1035",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0106",
+    "tokens": 55
+  },
+  {
+    "text": "Course: CSCE 3615 Date: Jun 10th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: I am an IT student and the programming part was hard for me since it was my first time coding this much for a project. But I can't believe I did it and I learned a lot. She is so nice, the classes are fun, and although attendance was not mandatory I showed up almost always.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3615",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0107",
+    "tokens": 94
+  },
+  {
+    "text": "Course: CSCE 3055 Date: May 16th, 2024 Rating: 5 Difficulty: 1 Would Take Again: Yes Grade: A Review: Her class is fantastic, easy, and fun. Class discussions are always interesting and thought- provoking. What you need to learn you will learn in class. I had no idea about project management before and now I know how to manage projects effectively. Highly recommend this class.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3055",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0108",
+    "tokens": 94
+  },
+  {
+    "text": "Course: CSCE 1035 Date: May 13th, 2024 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A Review: I loved Professor Gooran's class. She is so approachable, super supportive and always ready to assist with any questions.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1035",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0109",
+    "tokens": 55
+  },
+  {
+    "text": "Course: CSCE 1035 Date: May 6th, 2024 Rating: 5 Difficulty: 1 Would Take Again: Yes Grade: A+ Review: Really great professor, made the class easy. Amazing lectures and clear grading criteria.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1035",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0110",
+    "tokens": 47
+  },
+  {
+    "text": "Course: CSCE 3055 Date: Mar 27th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: Not sure yet Review: Took this project management class this semester and it was awesome. Professor is super caring and fun, and the class is chill but super informative. She is super flexible with how the class runs. You just need to keep up with your activities and projects for a good grade. Totally recommend.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 3055",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0111",
+    "tokens": 101
+  },
+  {
+    "text": "Course: CSCE 1035 Date: Mar 21st, 2024 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A+ Review: She made a Discord server for communications which is so much more convenient than Canvas or emails. She was also available at all times through Discord. Other professors take days to respond but that is not the case with her. Plus she is super sweet and chill.",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1035",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0112",
+    "tokens": 91
+  },
+  {
+    "text": "Course: CSCE 1035 Date: Mar 6th, 2024 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: Not sure yet Review: Absolutely love this Python class. Feels like an interactive lab with the professor offering hands-on help making sure we grasp everything. Sessions are engaging, fun, and demystify coding, leaving me confident and eager to learn more. Highly recommend for anyone curious about coding. The atmosphere is incredibly supportive and friendly. ---",
+    "metadata": {
+      "professor": "Hadiseh Gooran",
+      "course_code": "CSCE 1035",
+      "source": "hadiseh_gooran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0113",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 4600 Date: Jun 7th, 2026 Rating: 3 Difficulty: 4 Would Take Again: Yes Grade: A+ Review: Personality is his biggest flaw — he can come off as rude and condescending. Holds students to a high standard that he himself often fails to maintain with frequent mistakes on his part. That aside lectures are good and workload is reasonable. Email response time is great. If you can stand a difficult personality he is manageable at least for CSCE 4600.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 4600",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0114",
+    "tokens": 114
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Mar 6th, 2026 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: He is not very helpful when it comes to having a clear idea of what the course entails. During office hours he doesn't offer help. He more so seems to aggressively question you rather than provide feedback or help.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0115",
+    "tokens": 78
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Feb 20th, 2026 Rating: 1 Difficulty: 5 Would Take Again: No Grade: B Review: Three words — don't take him. I had the flu and he wanted me to drive an hour and 30 minutes to prove that I was sick. He rants a lot, the class got smaller and smaller each day. He walks around and picks on students trying to outsmart them.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0116",
+    "tokens": 85
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Jan 14th, 2026 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: It makes no sense for UNT to preach that mental health is important and then hire a professor who is literally a bully.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0117",
+    "tokens": 57
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Jan 14th, 2026 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: How to pass — ignore everything he says and follow the syllabus and rubric exactly. ClickUp tasks should be overdone with acceptance criteria, instructions, checklists, and docs. Commit on git every 2 days with long comments. This class rewards performative care not real contribution.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0118",
+    "tokens": 96
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Dec 16th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: Condescending, rude, and unprofessional. Frequently belittles students and goes on unproductive rants. Creates a negative learning environment. Has no business teaching a class like CSCE 3444. Grades very harshly and is excessively nitpicky. Never have had a professor like this in all my time at UNT. Pretends to be nice — don't fall for it.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0119",
+    "tokens": 110
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Dec 12th, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: B Review: Genuinely the most disrespectful, inconsistent, harsh professor I have ever had — the worst in my academic career by a huge amount. Do NOT take Doran even if he is the only option, even if you think you can tough him out. I promise it is not worth it. You are better off graduating a semester late — save yourself the time, money, and sanity.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0120",
+    "tokens": 110
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Nov 13th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: Do not waste your money or time with this professor. You could be an all A student and still fail this class because you won't even know any of your grades until the last few weeks of the semester.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0121",
+    "tokens": 77
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Oct 21st, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: If you have rich dad money go waste it.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0122",
+    "tokens": 37
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Oct 20th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: He is a harsh grader and very condescending. Sometimes picks students one by one to answer his questions and is never satisfied with any answer. Lectures don't make any sense and he just goes on and on about his experience and life.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0123",
+    "tokens": 83
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Oct 12th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Drop/Withdrawal Review: A 4.0 student who went into this class very excited just for it to be crushed by a terrible and disrespectful professor. Constantly going on tangents unrelated to the topic. Lectures are quite unproductive. Belittles students in front of the class. Would rather take a W than put up with a semester of this.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0124",
+    "tokens": 105
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Sep 25th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: Not sure yet Review: If you want a professor that talks about his career instead of coursework and is disrespectful to you and your time then Doran is for you. He is constantly changing his mind about his own rules and his rules are unclear to begin with. The worst professor I have had.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0125",
+    "tokens": 94
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Sep 23rd, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: Incomplete Review: Lectures mostly consist of rambling over half baked PowerPoints. Comes off incredibly defensive. Grading and feedback is poor. Claims the course is to learn how to learn which feels like an excuse to blame students for his lack of planning and guidance. Constantly talks about why everyone is upset with the course but does nothing about it.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0126",
+    "tokens": 112
+  },
+  {
+    "text": "Course: CSCE 4010 Date: May 22nd, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: A- Review: Doran has a very short temper. He has a chapter on being professional in this course but clearly fails to demonstrate it by being rude to students as well as his TA. His lectures have little correlation to quizzes and papers he assigns and he asks questions with multiple correct answers making it very confusing.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 4010",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0127",
+    "tokens": 103
+  },
+  {
+    "text": "Course: CSCE 3444 Date: May 13th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: The course is centered around a group project for which his lectures feel very irrelevant. Got tired of showing up because a majority of the time he would go on long unrelated tangents. Did not respond to my emails about uncooperative team members. Despite performing very well on the project his critiques felt halfwitted and insincere.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0128",
+    "tokens": 109
+  },
+  {
+    "text": "Course: CSCE 4210 Date: Apr 28th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A- Review: The man is extremely harsh towards and critical of all of his students. You couldn't pay me to attend another class run by him. He is easily the worst professor I have ever had and has no business fostering the growth of another individual. Avoid at all costs. You have been warned.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 4210",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0129",
+    "tokens": 96
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Apr 21st, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: F Review: Do not take his class.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0130",
+    "tokens": 30
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Apr 3rd, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: C+ Review: One of the worst professors at UNT. Enough said.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0131",
+    "tokens": 37
+  },
+  {
+    "text": "Course: CSCE 4600 Date: Apr 2nd, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: C- Review: I have a 3.7 GPA. I thought I was smart enough to make a B in this class. I will fail if I don't take a W — please do not take this class, you will ruin your GPA. It is such an awful feeling to work so hard and feel like this because this professor feels it is his students fault they fail and he does nothing wrong.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 4600",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0132",
+    "tokens": 104
+  },
+  {
+    "text": "Course: CSCE 4600 Date: Feb 3rd, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: DO NOT TAKE HIM PLEASE.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 4600",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0133",
+    "tokens": 30
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Dec 26th, 2024 Rating: 1 Difficulty: 5 Would Take Again: No Grade: F Review: I would not wish this professor on my worst enemy. He waited until the literal last day of the semester to grade projects and failed me because he technically ran out of time to really check everyone's contribution and pretty much graded based on instincts and how commits on GitLab looked.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0134",
+    "tokens": 97
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Dec 19th, 2024 Rating: 1 Difficulty: 5 Would Take Again: No Grade: B Review: The only thing I learned from this class is what depression feels like. I worked extremely hard on the semester project and made something I was proud of and he gave me an F on it even while agreeing that what I made was good. His only excuse was that I committed mostly near deadlines. He cares more about the development process than technical prowess.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0135",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 3444 Date: Dec 18th, 2024 Rating: 1 Difficulty: 5 Would Take Again: No Grade: B- Review: Had a B all year. Failed me to a 52 on the last day of grade submission. You have been warned.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 3444",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0136",
+    "tokens": 49
+  },
+  {
+    "text": "Course: CSCE 4210 Date: Dec 17th, 2024 Rating: 1 Difficulty: 3 Would Take Again: No Grade: A Review: Knowledgeable but struggles with effective lecturing. Attending lab sessions is essential as that is where most of the learning happens with the TA. He tends to forget and change things on the spot so it is important to get everything he says in writing and keep a paper trail to avoid misunderstandings.",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 4210",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0137",
+    "tokens": 101
+  },
+  {
+    "text": "Course: CSCE 4210 Date: Dec 17th, 2024 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: This class will force you to try to implement a game in an engine with very little documentation or direction. No lectures. The professor will be there for aid but belittles students that do ask. The game is the large majority of your grade and is graded mostly subjectively. Make your own game instead of taking this one. Far too much stress. ---",
+    "metadata": {
+      "professor": "Jonathan Doran",
+      "course_code": "CSCE 4210",
+      "source": "jonathon_doran_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0138",
+    "tokens": 112
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 6th, 2026 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A+ Review: This is by far the worst professor I have ever taken. The TAs did all the grading, he does not show up for labs, his practice exam review was lackadaisical and did not reflect the exam in any way. His office hours was 1 hour every week and if you asked a question during class he would give an indolent response. He puts forth zero effort.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0139",
+    "tokens": 110
+  },
+  {
+    "text": "Course: CSCE 2610 Date: May 13th, 2024 Rating: 1 Difficulty: 4 Would Take Again: No Grade: D Review: Do not take this professor if you want to have time for other classes.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 2610",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0140",
+    "tokens": 42
+  },
+  {
+    "text": "Course: CSCE 2610 Date: May 12th, 2024 Rating: 3 Difficulty: 4 Would Take Again: Yes Grade: Not sure yet Review: I wouldn't recommend taking CSCE 2610 with him if you have to work outside of class. The assignments required a lot of time to complete with little time to actually do the homework. He is great for CSCE 1030 though.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 2610",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0141",
+    "tokens": 82
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Dec 10th, 2023 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A Review: No attendance required for lectures. Attendance taken for labs. Very chill with assignments. Assignments due every week on ZyBooks. Lab exams make most of the grade. Final exam is easy, multiple choice and online. The other exams are graded leniently and receive a lot of partial credit.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0142",
+    "tokens": 97
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 22nd, 2023 Rating: 2 Difficulty: 5 Would Take Again: No Grade: C Review: The lab exams were hard and they made up 60% of the grade. The online homework could be difficult and the labs often needed more time than allowed to complete. The group projects were quite difficult but they only made up a small portion of the final grade. The final is also not worth much so it really can only help you pass. Lectures were boring.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0143",
+    "tokens": 112
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 8th, 2023 Rating: 2 Difficulty: 4 Would Take Again: No Grade: A- Review: Basically you are going to teach yourself. Tests are worth most of your grade — you fail tests you fail the class. Professors like that are horrible.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0144",
+    "tokens": 62
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Mar 12th, 2023 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: The textbook is ZyBooks, it may be hard for a beginner in programming however it is because of its difficulty itself, nothing related to the professor. Professor teaches well. Maybe the best professor in UNT as CS professors at UNT tend to be poor.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0145",
+    "tokens": 87
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Feb 13th, 2023 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: Everyone complains about Shrestha but once you get into CSCE 1040 you will miss the in-class examples that he does in class. As long as you show up to the lecture rest assured that you will make it out knowing code.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0146",
+    "tokens": 79
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Dec 4th, 2022 Rating: 2 Difficulty: 4 Would Take Again: No Grade: A Review: While the material presented did help to learn the course for the most part, the amount of assignments was incredibly excessive especially considering labs, homework and projects only make a small portion of your grade compared to the excessively weighted 60% for only 3 tests.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0147",
+    "tokens": 94
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Oct 10th, 2022 Rating: 1 Difficulty: 4 Would Take Again: No Grade: A Review: Dr. Shrestha is impossible to learn from. His lectures lack structure and you can learn almost all of the material from the ZyBooks homework. The tests and lab assessments are 60% of your grade and not open book. Steer clear of him if you can and be prepared to primarily teach yourself if you end up with him.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0148",
+    "tokens": 102
+  },
+  {
+    "text": "Course: CSCE 1030 Date: May 4th, 2022 Rating: 1 Difficulty: 5 Would Take Again: No Grade: C+ Review: The structure of this course was unfair. Tests making up 60% of the grade means that basically everything else is pointless unless you do well on the exams. The material wasn't that hard — the problem was that the tests were graded so heavily.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0149",
+    "tokens": 86
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Apr 29th, 2022 Rating: 1 Difficulty: 4 Would Take Again: No Grade: A Review: The course is not structured at all and lacks quality. You will basically be teaching yourself how to code on your own. They basically gloss over the material which is not helpful. Unless you already know C++ it is going to be quite difficult.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0150",
+    "tokens": 86
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Apr 25th, 2022 Rating: 1 Difficulty: 4 Would Take Again: No Grade: B Review: The syllabus makes this course tougher than it should be. There are 3 lab exams that make up 60% of the total grade. Besides that there are numerous other assignments that are challenging. The fact that more than half of the grade is from lab exams makes the effort put into other assignments seem worthless. Would not recommend.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0151",
+    "tokens": 107
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Dec 5th, 2021 Rating: 2 Difficulty: 3 Would Take Again: No Grade: C Review: Lectures are boring and you can't really take notes on them or stay awake long enough to pay attention. Projects are unnecessarily complicated and the lab assessments are 50% of the grade. Would recommend knowing code before having the class otherwise you may struggle.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0152",
+    "tokens": 92
+  },
+  {
+    "text": "Course: CSCE 3550 Date: Jul 26th, 2021 Rating: 2 Difficulty: 3 Would Take Again: No Grade: A+ Review: This class was a drag. The assignments themselves are challenging but doable but learning class concepts wasn't really aided by the professor's 3 hour lectures twice a week. Another con is his insistence on having an attendance quiz at the end of each lecture which shows his inability to retain students attention without the threat of losing points.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 3550",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0153",
+    "tokens": 113
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Jul 25th, 2021 Rating: 4 Difficulty: 5 Would Take Again: No Grade: C+ Review: One of the tougher professors you will take. About half of my summer class failed or dropped. Great teacher though and very smart. ZyBook is great practice but lecture material will show up on tests and labs. Projects and labs are brutal but if you can really do them you can pass tests. Just make sure you can type fast — by the end you will know some programming.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0154",
+    "tokens": 116
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Jun 6th, 2021 Rating: 4 Difficulty: 4 Would Take Again: Yes Grade: A Review: The class is run very well and you will definitely need to master the material covered to do well in future courses. Project guidelines were quite vague sometimes so please start early. Labs were great but that may depend on your TA.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0155",
+    "tokens": 83
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Apr 30th, 2021 Rating: 2 Difficulty: 3 Would Take Again: No Grade: B- Review: Dr. Shrestha is a newer professor and is cheerful in nature but very obscure in a lot of his examples. The projects were tough and so were the lab exams but graded generously. However the final is multiple choice and done in an incredibly poor format. The majority of my class failed it and he refused to curve the grade. Would look elsewhere.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0156",
+    "tokens": 111
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Apr 29th, 2021 Rating: 4 Difficulty: 3 Would Take Again: Yes Grade: A Review: Dr. Shrestha was a great professor. I had no prior coding experience and I enjoyed his teaching style. The final exam was the most difficult as it was through lockdown browser and did not involve actual coding like the lab exams. Start on projects early. I found it easiest to do ZyBooks chapters first so lectures could clear up any confusion.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0157",
+    "tokens": 111
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Jan 5th, 2021 Rating: 4 Difficulty: 4 Would Take Again: Yes Grade: A Review: Most information could be gotten from the online ZyBook. I stayed for many of the lectures but often I couldn't read ahead of time and would get confused so I came back after completing the ZyBook and played the recording at 1.5x speed. Big coding projects require knowing the ZyBook well.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0158",
+    "tokens": 97
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Dec 18th, 2020 Rating: 3 Difficulty: 2 Would Take Again: Yes Grade: A- Review: Professor Shrestha was very knowledgeable in C++ and did well at providing advice for programming in real life application. All of his lectures were recorded so I never needed to attend class on time. The lab assessments were graded pretty lightly and were very directly connected to the material taught in class lectures.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0159",
+    "tokens": 106
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Dec 9th, 2020 Rating: 5 Difficulty: 4 Would Take Again: Yes Grade: A- Review: Definitely need to attend lecture to understand the material. He goes over a lot of programs that you will most likely see in the labs or exams so make sure to pay attention and take notes. Final is not like writing a program so make sure to understand the logic behind the code being written.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0160",
+    "tokens": 98
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Nov 24th, 2020 Rating: 3 Difficulty: 2 Would Take Again: No Grade: A Review: Having him for CSCE 1030 was alright. I had never written a single line of code before I joined his class. I learned a lot by self-studying and ZyBooks. However sometimes his lectures can be quite helpful so pay attention here and there.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0161",
+    "tokens": 84
+  },
+  {
+    "text": "Course: CSCE 1030 Date: Sep 17th, 2020 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: C+ Review: Dr. Prad knows his stuff. Younger professor with great lectures, very informative on a subject a lot of people are taking for the first time.",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 1030",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0162",
+    "tokens": 61
+  },
+  {
+    "text": "Course: CSCE 3020 Date: May 12th, 2020 Rating: 4 Difficulty: 3 Would Take Again: Yes Grade: B+ Review: The hardest thing about this class is the weekly online quiz. Reviews are on point for what the exam is going to be over. Exam questions are very similar to homework problems. He is a very fair grader and gives partial credit so just do all the assignments and you will do well. ---",
+    "metadata": {
+      "professor": "Pradhumna Shrestha",
+      "course_code": "CSCE 3020",
+      "source": "pradhumna_shrestha_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0163",
+    "tokens": 96
+  },
+  {
+    "text": "Course: CSCE 5300 Date: May 2nd, 2026 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A- Review: Syllabus showed professor was female but the lecture videos were by a male professor and also not great. She doesn't do her own lecture material and doesn't grade — all homework was graded by TAs. So she got paid to put in zero work. I recovered my grade because of a bonus quiz worth as much as the final. The fact they needed to do that shows just how bad that midterm was.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5300",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0164",
+    "tokens": 119
+  },
+  {
+    "text": "Course: CSCE 5300 Date: Mar 18th, 2026 Rating: 1 Difficulty: 4 Would Take Again: No Grade: Not sure yet Review: Only take her class if you want to take a 2 hour midterm that consists mostly of writing the most in-depth complicated and convoluted Python programs of your entire life. The instructions for one out of 5 programming questions took 10 minutes just to read through.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5300",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0165",
+    "tokens": 94
+  },
+  {
+    "text": "Course: CSCE 2100 Date: Mar 18th, 2026 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A Review: Absolutely do not take her. She will count class absences towards your grade even though the syllabus says attendance is not mandatory. Turn away quick and take someone else.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 2100",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0166",
+    "tokens": 68
+  },
+  {
+    "text": "Course: CSCE 5300 Date: Nov 23rd, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: A+ Review: If you have to take this course and you don't have a religion — pick one, then pray.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5300",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0167",
+    "tokens": 46
+  },
+  {
+    "text": "Course: CSCE 5300 Date: Oct 17th, 2025 Rating: 1 Difficulty: 4 Would Take Again: No Grade: Not sure yet Review: Zeenat Tariq places no effort in running this course. Content is incorrect. Links do not work. When I emailed her about my concerns and asked for clarifications I got an obvious ChatGPT response. No sense of human engagement. Does not show consideration and caring for her students. Reuses old 2023 lecture videos from another professor. Do not recommend.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5300",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0168",
+    "tokens": 116
+  },
+  {
+    "text": "Course: CSCE 5300 Date: May 11th, 2025 Rating: 1 Difficulty: 5 Would Take Again: No Grade: C+ Review: Excellent professor until spot evaluation at which point your grades will be high. At the last day your grade will be rescaled to the lowest with a quote like these grades are final and it was done by taking your overall class performance into consideration. Great to learn how to perform in a class where she may not even know your name.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5300",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0169",
+    "tokens": 110
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 4 Would Take Again: Yes Grade: A+ Review: The professor demonstrated strong teaching abilities with clear explanations and engaging lectures. The syllabus was well-structured covering key concepts thoroughly. However the lecture handouts were overly long making it challenging to focus on key points. Concise summaries would help.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0170",
+    "tokens": 97
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: Good professor and great course overall.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0171",
+    "tokens": 35
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: Great professor, helped me excel in the subject. Gives good feedback.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0172",
+    "tokens": 42
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 4 Would Take Again: Yes Grade: A+ Review: Interactive class, can learn a lot of information. Lots of group projects.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0173",
+    "tokens": 44
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 1 Would Take Again: Yes Grade: A+ Review: Great professor, very friendly and helps in clarifying doubts.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0174",
+    "tokens": 41
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A- Review: The teaching style of the professor is good. It helped me a lot to understand new concepts. Clear grading criteria and beware of pop quizzes.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0175",
+    "tokens": 60
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 5 Would Take Again: Yes Grade: A Review: Great lectures and great learning. Will take the course again.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0176",
+    "tokens": 40
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: B+ Review: I recommend this professor to gain subject knowledge. Lots of group projects and reading.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0177",
+    "tokens": 47
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 4 Difficulty: 4 Would Take Again: Yes Grade: A Review: Activities for every class are really helpful. Lots of participation and group projects with amazing lectures.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0178",
+    "tokens": 52
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: Short and crisp lectures, activities, no mandatory attendance but lots of learning. Extra credit available with clear grading criteria.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0179",
+    "tokens": 59
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 1 Would Take Again: Yes Grade: Not sure yet Review: I can learn a lot of things through hands-on experience in this professor's class. I have done 4 courses under this particular professor.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0180",
+    "tokens": 62
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A Review: Dr. Tariq is a great professor. She knows the content well and focuses on a practical approach to teach the course rather than a theoretical approach. Extra credit and group projects available.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0181",
+    "tokens": 73
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 4 Difficulty: 2 Would Take Again: Yes Grade: Rather not say Review: She is really good at NLP.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0182",
+    "tokens": 35
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: Practical knowledge is good.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0183",
+    "tokens": 32
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: A+ Review: She was the best professor I have come across. Gives good feedback, caring and respected by students.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0184",
+    "tokens": 50
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 4 Would Take Again: Yes Grade: A Review: Professor explains very well. Lots of participation and group projects.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0185",
+    "tokens": 43
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 4 Difficulty: 3 Would Take Again: Yes Grade: A+ Review: The grading encourages the student to learn. Professor encourages working without solely considering the grade by giving bonus assignments if really required. Great course overall.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0186",
+    "tokens": 70
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 2 Would Take Again: Yes Grade: B+ Review: The professor is good at teaching and strong in the subject. Clear grading criteria and gives good feedback.",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0187",
+    "tokens": 52
+  },
+  {
+    "text": "Course: CSCE 5290 Date: Dec 4th, 2024 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: Great lectures and learning oriented. Will take the class again. Lots of participation and homework. ---",
+    "metadata": {
+      "professor": "Zeenat Tariq",
+      "course_code": "CSCE 5290",
+      "source": "zeenat_tariq_rmp.txt",
+      "type": "review",
+      "section": ""
+    },
+    "id": "chunk-0188",
+    "tokens": 51
+  },
+  {
+    "text": "Course Syllabus\n Edit\nCSCE3550 / Foundations of Cybersecurity",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Course Syllabus"
+    },
+    "id": "chunk-0189",
+    "tokens": 15
+  },
+  {
+    "text": "Instructor Information\nName: Dr. Jacob Hochstetler (he/him)",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Instructor Information"
+    },
+    "id": "chunk-0190",
+    "tokens": 14
+  },
+  {
+    "text": "Office Location: E250D\nStudent Hours: T/Th 1500-1600 or via Zoom (please email to schedule)\nEmail: Jacob.Hochstetler@unt.edu\nTA information:",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Office Location: E250D"
+    },
+    "id": "chunk-0191",
+    "tokens": 35
+  },
+  {
+    "text": "Name Email Student Hours\nAsrar Ali H Asrar.Qassem@unt.edu",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Name Email Student Hours"
+    },
+    "id": "chunk-0192",
+    "tokens": 14
+  },
+  {
+    "text": "Wednesday: 3:30 - 5:30 PM, F223\nKhoaHo@my.unt.edu",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Wednesday: 3:30 - 5:30 PM, F223"
+    },
+    "id": "chunk-0193",
+    "tokens": 12
+  },
+  {
+    "text": "Khoa Ho\nOther time by appointment (in office\n\nor on Zoom)",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Khoa Ho"
+    },
+    "id": "chunk-0194",
+    "tokens": 14
+  },
+  {
+    "text": "Course Description, Structure, and Objectives\nThis course covers cybersecurity terminology, principles, and technologies and introduces students to\nsecurity issues related to hardware, software, cryptography, and policy to make better, safer decisions.\nTopics include cyber threats and vulnerabilities, information security frameworks and policies,\ncryptography, penetration testing, and defense in depth. Many of the techniques will be demonstrated\nand practiced using a modern programming language. The goal is to develop a foundation for further\nstudy in cybersecurity. This course takes place in-person, and all assignments will be submitted through\nCanvas.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Course Description, Structure, and Objectives"
+    },
+    "id": "chunk-0195",
+    "tokens": 165
+  },
+  {
+    "text": "Course Outcomes\nCourse outcomes are measurable achievements to be accomplished by the completion of a course.\nThese outcomes are evaluated as part of our ABET accreditation process:\n\n1. Describe basic security terminology and concepts as well as analyze security threats, vulnerabilities,\nand attacks.\n2. Describe the role of computers and networks in a security context.\n3. Develop basic organizational security policies.\n4. Demonstrate basic principles and concepts of cryptography and general cryptanalysis.\n5. Demonstrate various types of penetration testing to measure the security posture.\n6. Discuss the legal and ethical issues involved with securing computer systems, networks, and\ninformation.\n7. Apply security design principles using a modern programming language to solve various\ncybersecurity problems.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Course Outcomes"
+    },
+    "id": "chunk-0196",
+    "tokens": 204
+  },
+  {
+    "text": "Prerequisites and Corequisites\nPrerequisite(s): None.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Prerequisites and Corequisites"
+    },
+    "id": "chunk-0197",
+    "tokens": 13
+  },
+  {
+    "text": "Education Courses Federal Regulation\nTo read detailed Immigration and Customs Enforcement regulations for F-1 students taking online\ncourses, please go to the Electronic Code of Federal Regulations website .\nThe specific portion concerning distance education courses is located at Title 8 CFR 214.2 Paragraph (f)\n(6)(i)(G).\nThe paragraph reads:\n(G) For F-1 students enrolled in classes for credit or classroom hours, no more than the equivalent of\none class or three credits per session, term, semester, trimester, or quarter may be counted toward the\nfull course of study requirement if the class is taken on-line or through distance education and does not\nrequire the student's physical attendance for classes, examination or other purposes integral to\ncompletion of the class. An on-line or distance education course is a course that is offered principally\nthrough the use of television, audio, or computer transmission including open broadcast, closed circuit,\ncable, microwave, or satellite, audio conferencing, or computer conferencing. If the F-1 student's course\nof study is in a language study program, no on-line or distance education classes may be considered to\ncount toward a student's full course of study requirement.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Education Courses Federal Regulation"
+    },
+    "id": "chunk-0198",
+    "tokens": 308
+  },
+  {
+    "text": "University of North Texas Compliance\nTo comply with immigration regulations, an F-1 visa holder within the United States may need to engage\nin an on-campus experiential component for this course. This component (which must be approved in\nadvance by the instructor) can include activities such as taking an on-campus exam, participating in an\non-campus lecture or lab activity, or other on-campus experience integral to the completion of this\ncourse.\nIf such an on-campus activity is required, it is the student’s responsibility to do the following:\n(1) Submit a written request to the instructor for an on-campus experiential component within one week\nof the start of the course.\n(2) Ensure that the activity on campus takes place and the instructor documents it in writing with a notice\nsent to the International Student and Scholar Services Office. ISSS has a form available that you may\nuse for this purpose.\nBecause the decision may have serious immigration consequences, if an F-1 student is unsure about his\nor her need to participate in an on-campus experiential component for this course, s/he should contact\nthe UNT International Student and Scholar Services Office (telephone 940-565-2195 or\nemail internationaladvising@unt.edu ) to get clarification before\nthe one-week deadline.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "University of North Texas Compliance"
+    },
+    "id": "chunk-0199",
+    "tokens": 322
+  },
+  {
+    "text": "Student Verification\nUNT takes measures to protect the integrity of educational credentials awarded to students enrolled in\ndistance education courses by verifying student identity, protecting student privacy, and notifying\nstudents of any special meeting times/locations or additional charges associated with student identity\nverification in distance education courses.\nSee UNT Policy 07-002 Student Identity Verification, Privacy, and Notification and Distance\nEducation Courses .",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Student Verification"
+    },
+    "id": "chunk-0200",
+    "tokens": 120
+  },
+  {
+    "text": "Use of Student Work\nA student owns the copyright for all work (e.g. software, photographs, reports, presentations, and email\npostings) he or she creates within a class and the University is not entitled to use any student work\nwithout the student’s permission unless all of the following criteria are met:\nThe work is used only once.\nThe work is not used in its entirety.\nUse of the work does not affect any potential profits from the work.\nThe student is not identified.\nThe work is identified as student work.\n\nIf the use of the work does not meet all of the above criteria, then the University office or department\nusing the work must obtain the student’s written permission.\nDownload the UNT System Permission, Waiver and Release Form",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Use of Student Work"
+    },
+    "id": "chunk-0201",
+    "tokens": 184
+  },
+  {
+    "text": "Transmission and Recording of Student Images in Electronically-Delivered Courses\n1. No permission is needed from a student for his or her image or voice to be transmitted live via\nvideoconference or streaming media, but all students should be informed when courses are to be\nconducted using either method of delivery.\n2. In the event an instructor records student presentations, he or she must obtain permission from the\nstudent using a signed release in order to use the recording for future classes in accordance with the\nUse of Student-Created Work guidelines above.\n3. Instructors who video-record their class lectures with the intention of re-using some or all of\nrecordings for future class offerings must notify students on the course syllabus if students' images\nmay appear on video. Instructors are also advised to provide accommodation for students who do not\nwish to appear in class recordings.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Transmission and Recording of Student Images in Electronically-Delivered Courses"
+    },
+    "id": "chunk-0202",
+    "tokens": 226
+  },
+  {
+    "text": "Required/Recommended Materials\nThis course has digital components. To fully participate in this class, students will need internet access\nto reference content on the Canvas Learning Management System. If circumstances change, you will be\ninformed of other technical needs to access course content. Information on how to be successful in a\ndigital learning environment can be found at Learn Anywhere .\nRequired:",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Required/Recommended Materials"
+    },
+    "id": "chunk-0203",
+    "tokens": 102
+  },
+  {
+    "text": "Security in Computing, 5th Edition\nPfleeger, Pfleeger, & Margulies",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Security in Computing, 5th Edition"
+    },
+    "id": "chunk-0204",
+    "tokens": 16
+  },
+  {
+    "text": "Prentice Hall, 2015, ISBN 978-0-13-408504-3\nRecommended (free/online):",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Prentice Hall, 2015, ISBN 978-0-13-408504-3"
+    },
+    "id": "chunk-0205",
+    "tokens": 17
+  },
+  {
+    "text": "Pearson\n2005, ISBN 0-321-24744-2",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Pearson"
+    },
+    "id": "chunk-0206",
+    "tokens": 8
+  },
+  {
+    "text": "How to Succeed in this Course Netiquette\nNetiquette, or online etiquette, refers to the way students are expected to interact with each other and\nwith their instructors online. Here are some general guidelines:\nTreat your instructor and classmates with respect in email or any other communication.\nRemember that all college level communication should have correct spelling and grammar (this\nincludes discussion boards).\nAvoid slang terms such as “totes magotes” and abbreviations such as “u” instead of “you.”\nHumor and sarcasm are highly encouraged. People who take the world seriously are in for a rough\njourney.\nDon’t lead your emails off with your social security and bank account numbers, password manager\nmaster password, home address, credit score, and dental record jpegs. 3 of those will suffice.\nNo extra credit will be given for mentioning my kitten .\nSee these Netiquette Guidelines\nfor more information.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "How to Succeed in this Course Netiquette"
+    },
+    "id": "chunk-0207",
+    "tokens": 229
+  },
+  {
+    "text": "Communication Expectations\nPlease send all communication as email via your official student UNT email (my.unt.edu).\nJust like you, I receive a virtual ton of spam to my email address, and if it has [EXT] in the subject line,\nthere's a ~95% chance I'm just deleting it. Additionally, I cannot discuss any student issues through\nexternal email due to FERPA, i.e. I cannot confirm that I know it's you I'm conversing with.\nI have a 48 hour reply policy on all emails, excepting weekends and holidays. All grades will be posted\npromptly after grading has been completed.\nPlease come to me with any issues. Sending an email is free and if I can’t resolve it, we can move the\nissue up the chain.\nIn your emails please include:\n\nthe course (e.g. CSCE3550) that you are emailing about and a few words (aka, the",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Communication Expectations"
+    },
+    "id": "chunk-0208",
+    "tokens": 200
+  },
+  {
+    "text": "Subject\nSubject)\nBody a signature with your email with your name and UNT ID number.\nThis helps me not only help you, but if there are multiple issues with the course (i.e. a module is broken\nfor instance), I can quickly collate the issue. I flag these emails with my preferred color\n.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Subject"
+    },
+    "id": "chunk-0209",
+    "tokens": 71
+  },
+  {
+    "text": "ODA\nThe University of North Texas makes reasonable academic accommodation for students with disabilities.\nStudents seeking reasonable accommodation must first register with the Office of Disability Access\n(ODA) to verify their eligibility. If a disability is verified, the ODA will provide you with a reasonable\naccommodation letter to be delivered to faculty to begin a private discussion regarding your specific\nneeds in a course. You may request reasonable accommodations at any time; however, ODA notices of\nreasonable accommodation should be provided as early as possible in the semester to avoid any delay\nin implementation. Note that students must obtain a new letter of reasonable accommodation for every\nsemester and must meet with each faculty member prior to implementation in each class. Students are\nstrongly encouraged to deliver letters of reasonable accommodation during faculty office hours or by\nappointment. Faculty members have the authority to ask students to discuss such letters during their\ndesignated office hours to protect the privacy of the student. For additional information, refer to the\nOffice of Disability Access website\n. You may also contact ODA by phone at (940) 565-4323.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "ODA"
+    },
+    "id": "chunk-0210",
+    "tokens": 302
+  },
+  {
+    "text": "Supporting Your Success and Creating an Inclusive Learning Environment\nI value the many perspectives students bring to our campus. Please work with me to create a classroom\nculture of open communication, mutual respect, and inclusion. All discussions should be respectful and\ncivil. Although disagreements and debates are encouraged, personal attacks are unacceptable.\nTogether, we can ensure a safe and welcoming classroom for all. If you ever feel like this is not the case,\nplease stop by my office and let me know. We are all learning together.\n\nEvery student in this class should have the right to learn and engage within an environment of respect\nand courtesy from others. We will discuss our classroom’s habits of engagement and I also encourage\nyou to review UNT’s student code of conduct so that we can all start with the same baseline civility\nunderstanding (Code of Student Conduct ).",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Supporting Your Success and Creating an Inclusive Learning Environment"
+    },
+    "id": "chunk-0211",
+    "tokens": 223
+  },
+  {
+    "text": "Technical Assistance\nPart of working in the online environment involves dealing with the inconveniences and frustration that\ncan arise when technology breaks down or does not perform as expected. Here at UNT we have a\nStudent Help Desk that you can contact for help with Canvas or other technology issues.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Technical Assistance"
+    },
+    "id": "chunk-0212",
+    "tokens": 76
+  },
+  {
+    "text": "UNT Help Desk Call: 940-565-2324\nEmail: helpdesk@unt.edu",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "UNT Help Desk Call: 940-565-2324"
+    },
+    "id": "chunk-0213",
+    "tokens": 14
+  },
+  {
+    "text": "Walk-in: Sage Hall, Room 330 Walk-in Hours: Monday–Friday: 8am - 5pm\nTelephone Availability:\nMonday–Thursday: 8am – 9pm",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Walk-in: Sage Hall, Room 330 Walk-in Hours: Monday–Friday: 8am - 5pm"
+    },
+    "id": "chunk-0214",
+    "tokens": 29
+  },
+  {
+    "text": "Friday: 8am- 5pm Saturday: 11am- 3pm\nFor additional support, visit Canvas Technical Help",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Friday: 8am- 5pm Saturday: 11am- 3pm"
+    },
+    "id": "chunk-0215",
+    "tokens": 22
+  },
+  {
+    "text": "Laptop Checkouts\nThe following library service desks provide laptop checkouts during hours of operation\n. MacBooks are only available at Willis Library.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Laptop Checkouts"
+    },
+    "id": "chunk-0216",
+    "tokens": 38
+  },
+  {
+    "text": "Assessing Your Work\nPercentages of final grade are approximate and subject to change.\nAssignment percentages",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Assessing Your Work"
+    },
+    "id": "chunk-0217",
+    "tokens": 27
+  },
+  {
+    "text": "Category Percentage of Final Grade\nQuizzes (12) 12%\nHomework (7) 24%\nLab Assignments (6) 20%\nProjects (3) 14%\nExams (3) 30%\nGrading scale",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Category Percentage of Final Grade"
+    },
+    "id": "chunk-0218",
+    "tokens": 34
+  },
+  {
+    "text": "Grade\n90 - 100 A\n\nGrading scale",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Grade"
+    },
+    "id": "chunk-0219",
+    "tokens": 7
+  },
+  {
+    "text": "Grade\n80 - 89 B\n70 –79 C\n60 –69 D\n< 60 F\nGrades are rounded to the nearest whole integer.\nThere is no curving of grades, nor “extra” credit, as it is unfair to the other\nstudents.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Grade"
+    },
+    "id": "chunk-0220",
+    "tokens": 44
+  },
+  {
+    "text": "Course Schedule/Assignments Module/Chapter Title Major Assignments Tentative Week\n0 Course Overview January 12\n1 Introduction January 19\nToolbox: Authentication,\n2 Access Control and January 26",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Course Schedule/Assignments Module/Chapter Title Major Assignments Tentative Week"
+    },
+    "id": "chunk-0221",
+    "tokens": 48
+  },
+  {
+    "text": "Cryptography\n3 Programs and Programming February 2\n4 The Web – User Side Exam 1/ Project 1 February 9\n\n5 Operating Systems February 16\n6 Networks February 23\n7 Databases March 2\n- Spring Break March 9\n8 Cloud Computing March 16\n9 Privacy Exam 2 / Project 2 March 23\n10 Management and Incidents March 30\n11 Legal Issues and Ethics April 6\n12 Details of Cryptography April 13\n13 Emerging Topics April 20\n- Exam 3 / Project 3 April 27\nStudents will be notified by Eagle Alert if there is a campus closing that will impact a class, website\navailable at Emergency Notifications and Procedures website\n.\nThe policy for academic integrity is available at Academic Integrity Policy (PDF)\n,",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Cryptography"
+    },
+    "id": "chunk-0222",
+    "tokens": 170
+  },
+  {
+    "text": "Attendance and Participation\nI have great respect for students who are balancing the demands of their coursework with the\nresponsibilities of caring for family members. If you run into challenges that require you to miss\n\nassignment deadlines, please contact me or my TA. There may be some flexibility we can offer to\nsupport your academic success.\nIf you are experiencing any symptoms of COVID please seek medical attention from the Student Health and Wellness Center (940-\n565-2333 or askSHWC@unt.edu ) or your health care provider PRIOR to\ncoming to campus. UNT also requires you to contact the UNT COVID Team at COVID@unt.edu\nfor guidance on actions to take due to symptoms, pending or positive test\nresults, or potential exposure.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Attendance and Participation"
+    },
+    "id": "chunk-0223",
+    "tokens": 183
+  },
+  {
+    "text": "Course Evaluation\nStudent Perceptions of Teaching (SPOT) is the student evaluation system for UNT and allows students\nthe ability to confidentially provide constructive feedback to their instructor and department to improve\nthe quality of student experiences in the course.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Course Evaluation"
+    },
+    "id": "chunk-0224",
+    "tokens": 68
+  },
+  {
+    "text": "Assignment Policies Submittal Policy\nAll assignments are posted to Canvas and should be submitted to Canvas. Assignments cannot be\naccepted through email. Students are responsible for submitting the correct assignment to the applicable\nassignment submission in Canvas.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Assignment Policies Submittal Policy"
+    },
+    "id": "chunk-0225",
+    "tokens": 67
+  },
+  {
+    "text": "Late Work Policy\nNo late submissions will be accepted for any reason. Please start work on assignments and quizzes well\nbefore the deadline and on a stable Internet connection to avoid any submission delays due to technical\ndifficulties.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Late Work Policy"
+    },
+    "id": "chunk-0226",
+    "tokens": 59
+  },
+  {
+    "text": "Canvas File Upload Policy\nAssignments may require multiple file uploads.\nDo not archive/compress/zip these into one file: Attach them individually.\nThe only acceptable file type for upload is what can be previewed automatically by DocViewer in\nCanvas .\nPlease ensure you have actually submitted your files to Canvas; it is your responsibility to verify that\nthe file has been uploaded and accepted.\nAI (Artificial Intelligence) with AI (Academic Integrity) Policy\n\nI expect you to use AI (GitHub Copilot, Cody, Ghostwriter, ChatGPT, etc.), in this class. Learning to use\nAI is an emerging skill, and I am happy to meet and help with these tools during office hours or after\nclass.\nBe aware of the limits of AI-based code generators:\nIf you provide minimum effort prompts, you will get low quality results. You will need to refine your\nprompts to produce good outcomes. This will take work.\nDon't trust anything it says. If it gives you a number or fact, assume it is wrong unless you either\nknow the answer or can check in with another source. You will be responsible for any errors or\nomissions provided by the tool. It works best for topics you understand.\nAI is a tool, but one that you need to acknowledge using. Please include a paragraph at the end of\nany assignment that uses AI explaining what you used the AI for and what prompts you used to get\nthe results. Failure to do so is in violation of academic honesty policies.\nDo not use AI to generate screenshots.\nBe thoughtful about when this tool is useful. Don't use it if it isn't appropriate for the case or\ncircumstance.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Canvas File Upload Policy"
+    },
+    "id": "chunk-0227",
+    "tokens": 395
+  },
+  {
+    "text": "Screenshot Submission Policy\nMany assignments will have you submit screenshots to show you completed the work.\nDo not use AI to generate screenshots.\nDo not take a photo with your phone. Take a native screenshot with your operating system\n.\nThis screenshot should show identifying information: No need to overthink this. The easiest way is\njust to open up a Notepad.exe (Windows) or Stickies (macOS) and enter your EUID, then take the\nscreenshot of the assignment. Or you can open up university webmail in a browser tab and have\nyour profile open in the screenshot.\nIf you have a 48\" wide monitor, and the assignment only takes up 10% of your screen, please crop\ndown the screenshot to only what is needed and no more.",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Screenshot Submission Policy"
+    },
+    "id": "chunk-0228",
+    "tokens": 179
+  },
+  {
+    "text": "Examination Policy\nYou may use the Internet or any printed resources during exams, but please do not rely on this as the\nexams and quizzes have a time limit and many questions are not easily ‘Google-able’.\nDO NOT POST quiz questions to any online venue (Quizlet, Chegg, CourseHero, CheatMyDegree, etc.)\nor share quiz questions with other students (GroupMe, Discord, etc.).\nViolation of this policy will result in a zero for the assignment or exam.\nCourse Summary:",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Examination Policy"
+    },
+    "id": "chunk-0229",
+    "tokens": 115
+  },
+  {
+    "text": "Date Details Due\n Student Academic Integrity\nPolicy Quiz due by 11:59pm",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Date Details Due"
+    },
+    "id": "chunk-0230",
+    "tokens": 18
+  },
+  {
+    "text": "Sun Jan 25, 2026\n Syllabus quiz\ndue by 11:59pm\n\n Exam 1 (Modules 01-04)\ndue by 11:59pm\n\n Module 01 Quiz\ndue by 11:59pm\n\n Module 02 HW: Authentication\n& Passwords due by 11:59pm\n\n Module 02 Quiz\ndue by 11:59pm\n\n Module 03 HW: Programs and\nProgramming due by 11:59pm",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Sun Jan 25, 2026"
+    },
+    "id": "chunk-0231",
+    "tokens": 67
+  },
+  {
+    "text": "Sun Feb 15, 2026\n Module 03 Quiz\ndue by 11:59pm\n\n Over The Wire: Bandit\ndue by 11:59pm\n\n Project 1: JWKS server\ndue by 11:59pm\n\n Reflections on the PBS",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Sun Feb 15, 2026"
+    },
+    "id": "chunk-0232",
+    "tokens": 38
+  },
+  {
+    "text": "Documentary on Edward Snowden due by 11:59pm\n Module 01 HW: Cybersecurity\nOverview due by 11:59pm",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Documentary on Edward Snowden due by 11:59pm"
+    },
+    "id": "chunk-0233",
+    "tokens": 24
+  },
+  {
+    "text": "Date Details Due\n Lab 0: Installing Linux\ndue by 11:59pm\n\n Lab 1: Networks\ndue by 11:59pm\n\n Lab 2: Privacy with Wireshark\nand TLS due by 11:59pm\n\n Module 05 Quiz\ndue by 11:59pm\n\n Module 06 HW: Networks\ndue by 11:59pm\n\n Module 06 Quiz",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Date Details Due"
+    },
+    "id": "chunk-0234",
+    "tokens": 59
+  },
+  {
+    "text": "Sun Mar 29, 2026 due by 11:59pm\n Module 07 Quiz\ndue by 11:59pm\n\n Module 08 Quiz\ndue by 11:59pm\n\n Module 09 HW: Privacy\ndue by 11:59pm\n\n Project 2: Extending the JWKS\nserver due by 11:59pm\n\n Exam 2 (Modules 05-09)\ndue by 11:59pm",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Sun Mar 29, 2026 due by 11:59pm"
+    },
+    "id": "chunk-0235",
+    "tokens": 58
+  },
+  {
+    "text": "Sun May 3, 2026\n Exam 3 (Modules 10-13)\ndue by 11:59pm\n\n Module 10 HW: Management\nand Incidents due by 11:59pm",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Sun May 3, 2026"
+    },
+    "id": "chunk-0236",
+    "tokens": 28
+  },
+  {
+    "text": "Date Details Due\n Module 10 Quiz\ndue by 11:59pm\n\n Module 11 Quiz\ndue by 11:59pm\n\n Module 12 HW: Details of\nCryptography due by 11:59pm\n\n Module 12 Quiz\ndue by 11:59pm\n\n Project 3: Bulking up our\nJWKS server due by 11:59pm\n\n Lab 3: Password auditing\ndue by 11:59pm",
+    "metadata": {
+      "professor": "Dr. Jacob Hochstetler",
+      "course_code": "CSCE 3550",
+      "source": "foundations_of_cybersecurity.pdf",
+      "type": "syllabus",
+      "section": "Date Details Due"
+    },
+    "id": "chunk-0237",
+    "tokens": 67
+  },
+  {
+    "text": "Office Location: VIA ZOOM THIS SEMESTER\nOffice Hours: See Canvas. Please schedule in advance via email.\nEmail: garlick@unt.edu\nTA: Arup Datta:\nOffice Hours: TBD, via Zoom:\nIf you need to meet in person, please email beforehand to set up a time and place that\nworks for both of you.\nI reserve the right to modify course policies, the course calendar, assignment or project\npoint values, and due dates.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Office Location: VIA ZOOM THIS SEMESTER"
+    },
+    "id": "chunk-0238",
+    "tokens": 100
+  },
+  {
+    "text": "Late Work Policy\nLate work cannot be accepted for any reason. You will have several weeks or even a month\nor more to complete assignments. Please do not email late assignments to the instructor\nor the TA - they will not be graded.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Late Work Policy"
+    },
+    "id": "chunk-0239",
+    "tokens": 57
+  },
+  {
+    "text": "Communication Expectations\nPlease send all communication as email via your official student UNT email (my.unt.edu),\nand if applicable, CC the TA for the class. I see emails before I see Canvas notifications.\nJust like you, I get a ton of spam to my email address, and if it has [EXT] in the subject line,\nthere's a ~95% chance I'm just deleting it. Additionally, I cannot discuss any student issues\nthrough external email due to FERPA, .e.g how do I know it's you I'm conversing with.\nI have a 48 hour reply policy on all emails, excepting weekends and holidays.\nPlease come to me with any issues. An email is free and if I can’t resolve it, we can move\nthe issue up the chain.\nAll grades will be posted promptly after grading has been completed.\n\nIn your emails please include:\n• Subject line: the course (e.g. CSCE 4350) that you are emailing about and a few\nwords (aka, the Subject)\n• Body: a signature with your email with your name and UNT ID number.\nThis helps me not only help you, but if there are multiple issues with the course (i.e. a\nmodule is broken for instance), I can quickly collate the issue.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Communication Expectations"
+    },
+    "id": "chunk-0240",
+    "tokens": 277
+  },
+  {
+    "text": "Course Description\nThis course covers topics including logical and physical database system organization,\nlogical models, design issues, and secondary storage considerations. Students develop\nand practice skills through the use of projects and real-world database creation. This\ncourse is online and instruction and assignment submission will occur online through\nCanvas.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Course Description"
+    },
+    "id": "chunk-0241",
+    "tokens": 92
+  },
+  {
+    "text": "Course Structure\nThis is an online course with a weekly module structure. Each week will have a reading /\nvideo / assignment to complete and most weeks will have a quiz, homework or exam.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Course Structure"
+    },
+    "id": "chunk-0242",
+    "tokens": 46
+  },
+  {
+    "text": "Course Prerequisites or Other Restrictions\nCSCE 2110 is an enforced pre-requisite.\nThis course has digital components. To fully participate in this class, students will need\ninternet access to reference content on the Canvas Learning Management System. If\ncircumstances change, you will be informed of other technical needs to access course\ncontent. Information on how to be successful in a digital learning environment can be\nfound at Learn Anywhere .",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Course Prerequisites or Other Restrictions"
+    },
+    "id": "chunk-0243",
+    "tokens": 113
+  },
+  {
+    "text": "Course Objectives\nBy the end of this course, students will be able to:\n1. Analyze a problem to determine its data requirements.\n2. Create a database that satisfies the given data requirements.\n3. Create, maintain and access data in a database using SQL.\n4. Describe and demonstrate how B+-tree and hashing speed data access.\n\n5. Describe and implement the theory of functional dependencies for Database\ndesign.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Course Objectives"
+    },
+    "id": "chunk-0244",
+    "tokens": 102
+  },
+  {
+    "text": "Materials\nThere is no text required for the course – all resources are online\nTechnical Requirements & Skills",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Materials"
+    },
+    "id": "chunk-0245",
+    "tokens": 27
+  },
+  {
+    "text": "Minimum Technology Requirements\n• A computer with Internet access\n• Canvas Technical Requirements ()",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Minimum Technology Requirements"
+    },
+    "id": "chunk-0246",
+    "tokens": 25
+  },
+  {
+    "text": "Netiquette\nNetiquette, or online etiquette, refers to the way students are expected to interact with\neach other and with their instructors online. Here are some general guidelines:\n• Treat your instructor and classmates with respect in email or any other\ncommunication.\n• Remember that all college level communication should have correct spelling and\ngrammar (this includes discussion boards).\n• Avoid slang terms such as “totes magotes” and texting abbreviations such as “u”\ninstead of “you.”\n• Humor and sarcasm are highly encouraged. People who take the world seriously are\nin for a rough journey.\n• Don’t lead your emails off with your social security and bank account numbers,\npassword manager master password, home address, credit score, and dental\nrecord jpegs. 3 of those will suffice.\nSee these Netiquette Guidelines () for more information.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Netiquette"
+    },
+    "id": "chunk-0247",
+    "tokens": 212
+  },
+  {
+    "text": "Success in an Online Course\nThe key to success in the course is to keep up with the due dates and material, and work a\nweek or so ahead so that you have a buffer if any unexpected situations come up with work,\nillness and so on.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Success in an Online Course"
+    },
+    "id": "chunk-0248",
+    "tokens": 57
+  },
+  {
+    "text": "Technical Assistance\nPart of working in the online environment involves dealing with the inconveniences and\nfrustration that can arise when technology breaks down or does not perform as expected.\nHere at UNT we have a Student Help Desk that you can contact for help with Canvas or\nother technology issues.\nUNT Help Desk ()",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Technical Assistance"
+    },
+    "id": "chunk-0249",
+    "tokens": 80
+  },
+  {
+    "text": "Call: 940-565-2324\nEmail: helpdesk@unt.edu",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Call: 940-565-2324"
+    },
+    "id": "chunk-0250",
+    "tokens": 10
+  },
+  {
+    "text": "Walk-in: Sage Hall, Room 330 Walk-in Hours: Monday–Friday: 8am - 5pm\nTelephone Availability:\n• Spring Hours\no Monday–Thursday: 8am – 9pm\no Friday: 8am- 5pm\no Saturday: 11am- 3pm\nFor additional support, visit Canvas Technical Help",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Walk-in: Sage Hall, Room 330 Walk-in Hours: Monday–Friday: 8am - 5pm"
+    },
+    "id": "chunk-0251",
+    "tokens": 57
+  },
+  {
+    "text": "Laptop Checkouts\nThe following library service desks provide laptop checkouts during hours of operationLinks\nto an external site.. MacBooks are only available at Willis Library.\n• Willis Library: The Spark, First Floor\n• Sycamore Library: Sycamore Service Desk\n• Discovery Park: Library Service Desk, Room B112\n1 ()",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Laptop Checkouts"
+    },
+    "id": "chunk-0252",
+    "tokens": 78
+  },
+  {
+    "text": "Student Support Services\no Registrar\no Financial Aid ()\n\no Student Legal Services ()\no Career Center()\no Counseling and Testing Services ()\no Student Affairs Care Team ()\no Student Health and Wellness Center ()",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Student Support Services"
+    },
+    "id": "chunk-0253",
+    "tokens": 52
+  },
+  {
+    "text": "Academic Support Services\n• Academic Resource Center ()\n• Academic Success Center ()\n• UNT Libraries ()\n• Writing Lab ()\n• MathLab ()",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Academic Support Services"
+    },
+    "id": "chunk-0254",
+    "tokens": 33
+  },
+  {
+    "text": "Course Requirements\nPercentages of final grade are approximate and subject to change.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Course Requirements"
+    },
+    "id": "chunk-0255",
+    "tokens": 21
+  },
+  {
+    "text": "Category Final Grade\nHomework 35%\nQuizzes 35%\nMidterm 15%\nFinal Exam 15%\nTotal 100%",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Category Final Grade"
+    },
+    "id": "chunk-0256",
+    "tokens": 20
+  },
+  {
+    "text": "Grading\nGrading scale",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Grading"
+    },
+    "id": "chunk-0257",
+    "tokens": 5
+  },
+  {
+    "text": "Final Grade Letter\n90.0 - 100 A\n80.0 - 89.9 B\n70.0 - 79.9 C\n60.0 - 69.9 D\n0.0 - 59.9 F\nThere is no curving of grades.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Final Grade Letter"
+    },
+    "id": "chunk-0258",
+    "tokens": 29
+  },
+  {
+    "text": "Module Topics\n01 Introduction and Tools\n02 Database Design and Entity Relationship Diagrams\n03 SQL Part 1\n04 SQL Part 2\n05 SQL Hands-On 1\n06 SQL Hands-On 2\n\n07 Indexes and B-Trees\n08 Midterm\n09 phpMyAdmin\n10 NoSQL\n11 APIs / REST\n12 AWS Data Management\n13 AWS Part 2\n14 Final Review\n15 Final Exam",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Module Topics"
+    },
+    "id": "chunk-0259",
+    "tokens": 73
+  },
+  {
+    "text": "Course Evaluation\nStudent Perceptions of Teaching (SPOT) is the student evaluation system for UNT and\nallows students the ability to confidentially provide constructive feedback to their\ninstructor and department to improve the quality of student experiences in the course.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Course Evaluation"
+    },
+    "id": "chunk-0260",
+    "tokens": 68
+  },
+  {
+    "text": "Course Policies Assignment Policy\nAll assignments are posted to Canvas and should be submitted to Canvas. No late\nsubmissions will be accepted for any reason and I do not assign extra credit. Please\nstart work on assignments and quizzes well before the deadline and on a stable Internet\nconnection to avoid any submission delays due to technical difficulties. It is also\nconsidered good practice to refresh the page when you submit an assignment to make sure\nCanvas actually accepted it.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Course Policies Assignment Policy"
+    },
+    "id": "chunk-0261",
+    "tokens": 121
+  },
+  {
+    "text": "Examination Policy\nYou may use the Internet or any printed resources during exams, but please do not rely on\nthis as the exams and quizzes have a time limit and the questions are not easily ‘Google-\n\nable’. DO NOT POST quiz questions to any online venue or share quiz questions with other\nstudents. Violation of this policy will result in a zero for the assignment or exam. You may\nuse online resources during the exam, but all quizzes and exams must be taken by yourself\nwithout human help.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Examination Policy"
+    },
+    "id": "chunk-0262",
+    "tokens": 122
+  },
+  {
+    "text": "Late Work\nNo late work is accepted. All submissions to Canvas must occur before the\ndeadline. The instructor or TA cannot accept assignments via email.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Late Work"
+    },
+    "id": "chunk-0263",
+    "tokens": 37
+  },
+  {
+    "text": "Attendance Policy and Participation\nStudents are expected to regularly login to Canvas, keep up with assignments and due\ndates, and actively participate in online discussions and activities as posted.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Attendance Policy and Participation"
+    },
+    "id": "chunk-0264",
+    "tokens": 50
+  },
+  {
+    "text": "Syllabus Change Policy\nThis syllabus, the grading scale, grades given on assignments, due dates, and any other\ncourse details are subject to change at any time without prior notice or consent.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Syllabus Change Policy"
+    },
+    "id": "chunk-0265",
+    "tokens": 48
+  },
+  {
+    "text": "UNT Policies Academic Integrity Policy\nAcademic Integrity Standards and Consequences. According to UNT Policy 06.003,\nStudent Academic Integrity, academic dishonesty occurs when students engage in\nbehaviors including, but not limited to cheating, fabrication, facilitating academic\ndishonesty, forgery, plagiarism, and sabotage. A finding of academic dishonesty may result\nin a range of academic penalties or sanctions ranging from admonition to expulsion from\nthe University.\nStudents taking this course implicitly agree to uphold the UNT honor code:\n“I commit myself to honor, integrity, and responsibility as a student representing the\nUniversity of North Texas community. I understand and pledge to uphold academic integrity\nas set forth by UNT Student Academic Integrity Policy, 06.003\n. I affirm that the work I submit will always be my\nown, and the support I provide and receive will always be honorable.”\nIt is highly important that you are familiar with the University’s academic integrity policy\nand the CSE department’s guidelines on academic integrity:\nUNT Academic Integrity Policy (PDF)",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "UNT Policies Academic Integrity Policy"
+    },
+    "id": "chunk-0266",
+    "tokens": 275
+  },
+  {
+    "text": "CSE Academic Integrity\nGuidelines:\nintegrity.html",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "CSE Academic Integrity"
+    },
+    "id": "chunk-0267",
+    "tokens": 12
+  },
+  {
+    "text": "ADA Policy\nUNT makes reasonable academic accommodation for students with disabilities. Students\nseeking accommodation must first register with the Office of Disability Accommodation\n(ODA) to verify their eligibility. If a disability is verified, the ODA will provide a student with\nan accommodation letter to be delivered to faculty to begin a private discussion regarding\none’s specific course needs. Students may request accommodations at any time, however,\nODA notices of accommodation should be provided as early as possible in the semester to\navoid any delay in implementation. Note that students must obtain a new letter of\naccommodation for every semester and must meet with each faculty member prior to\nimplementation in each class. For additional information see the ODA website (Links to an\nexternal site.).\nEmergency Notification & Procedures\nUNT uses a system called Eagle Alert to quickly notify students with critical information in\nthe event of an emergency (i.e., severe weather, campus closing, and health and public\nsafety emergencies like chemical spills, fires, or violence). students will be notified by\nEagle Alert if there is a campus closing that will impact a class and describe that the\ncalendar is subject to change, citing the Campus Closures PolicyLinks to an external\nsite. .",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "ADA Policy"
+    },
+    "id": "chunk-0268",
+    "tokens": 326
+  },
+  {
+    "text": "Retention of Student Records\nStudent records pertaining to this course are maintained in a secure location by the\ninstructor of record. All records such as exams, answer sheets (with keys), and written\npapers submitted during the duration of the course are kept for at least one calendar year\nafter course completion. Course work completed via the Blackboard online system,\nincluding grading information and comments, is also stored in a safe electronic\nenvironment for one year. Students have the right to view their individual record; however,\ninformation about student’s records will not be divulged to other individuals without proper\nwritten consent. Students are encouraged to review the Public Information Policy and the\nFamily Educational Rights and Privacy Act (FERPA) laws and the University’s policy. See\nUNT Policy 10.10, Records Management and Retention for additional information.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Retention of Student Records"
+    },
+    "id": "chunk-0269",
+    "tokens": 223
+  },
+  {
+    "text": "Acceptable Student Behavior\nStudent behavior that interferes with an instructor’s ability to conduct a class or other\nstudents' opportunity to learn is unacceptable and disruptive and will not be tolerated in\nany instructional forum at UNT. Students engaging in unacceptable behavior will be\ndirected to leave the classroom and the instructor may refer the student to the Dean of\nStudents to consider whether the student's conduct violated the Code of Student Conduct.\nThe University's expectations for student conduct apply to all instructional forums,\nincluding University and electronic classroom, labs, discussion groups, field trips, etc.\nWhat is the square root of nine? Visit UNT’s Code of Student Conduct (Links to an external\nsite.) to learn more.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Acceptable Student Behavior"
+    },
+    "id": "chunk-0270",
+    "tokens": 189
+  },
+  {
+    "text": "Access to Information - Eagle Connect\nStudents’ access point for business and academic services at UNT is located\nat: my.unt.edu (). All official communication from the University\nwill be delivered to a student’s Eagle Connect account. For more information, please visit\nthe website that explains Eagle Connect and how to forward e-mail Eagle Connect (Links to\nan external site.).",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Access to Information - Eagle Connect"
+    },
+    "id": "chunk-0271",
+    "tokens": 95
+  },
+  {
+    "text": "Student Evaluation Administration Dates\nStudent feedback is important and an essential part of participation in this course. The\nstudent evaluation of instruction is a requirement for all organized classes at UNT. The\nsurvey will be made available during weeks 13, 14 and 15 of the long semesters to provide\nstudents with an opportunity to evaluate how this course is taught. Students will receive an\nemail from \"UNT SPOT Course Evaluations via IASystem Notification\" (no-\nreply@iasystem.org) with the survey link. Students should look for the email in their UNT\nemail inbox. Simply click on the link and complete the survey. Once students complete the\nsurvey they will receive a confirmation email that the survey has been submitted. For\nadditional information, please visit the SPOT website () or email\nspot@unt.edu.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Student Evaluation Administration Dates"
+    },
+    "id": "chunk-0272",
+    "tokens": 204
+  },
+  {
+    "text": "Sexual Assault Prevention\nUNT is committed to providing a safe learning environment free of all forms of sexual\nmisconduct, including sexual harassment sexual assault, domestic violence, dating\nviolence, and stalking. Federal laws (Title IX and the Violence Against Women Act) and UNT\npolicies prohibit discrimination on the basis of sex, and therefore prohibit sexual\nmisconduct. If you or someone you know is experiencing sexual harassment, relationship\nviolence, stalking, and/or sexual assault, there are campus resources available to provide\nsupport and assistance. UNT’s Survivor Advocates can assist a student who has been\nimpacted by violence by filing protective orders, completing crime victim’s compensation\n\napplications, contacting professors for absences related to an assault, working with\nhousing to facilitate a room change where appropriate, and connecting students to other\nresources available both on and off campus. The Survivor Advocates can be reached at\nSurvivorAdvocate@unt.edu or by calling the Dean of Students Office at 940-565- 2648.\nAdditionally, alleged sexual misconduct can be non-confidentially reported to the Title IX\nCoordinator at oeo@unt.edu or at (940) 565 2759.\nImportant Notice for F-1 Students taking Distance Education Courses",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Sexual Assault Prevention"
+    },
+    "id": "chunk-0273",
+    "tokens": 317
+  },
+  {
+    "text": "Federal Regulation\nTo read detailed Immigration and Customs Enforcement regulations for F-1 students taking\nonline courses, please go to the Electronic Code of Federal Regulations website. The\nspecific portion concerning distance education courses is located at Title 8 CFR 214.2\nParagraph (f)(6)(i)(G).\nThe paragraph reads:\n(G) For F-1 students enrolled in classes for credit or classroom hours, no more than the\nequivalent of one class or three credits per session, term, semester, trimester, or quarter\nmay be counted toward the full course of study requirement if the class is taken on-line or\nthrough distance education and does not require the student's physical attendance for\nclasses, examination or other purposes integral to completion of the class. An on-line or\ndistance education course is a course that is offered principally through the use of\ntelevision, audio, or computer transmission including open broadcast, closed circuit,\ncable, microwave, or satellite, audio conferencing, or computer conferencing. If the F-1\nstudent's course of study is in a language study program, no on-line or distance education\nclasses may be considered to count toward a student's full course of study requirement.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Federal Regulation"
+    },
+    "id": "chunk-0274",
+    "tokens": 303
+  },
+  {
+    "text": "University of North Texas Compliance\nTo comply with immigration regulations, an F-1 visa holder within the United States may\nneed to engage in an on-campus experiential component for this course. This component\n(which must be approved in advance by the instructor) can include activities such as taking\nan on-campus exam, participating in an on-campus lecture or lab activity, or other on-\ncampus experience integral to the completion of this course.\nIf such an on-campus activity is required, it is the student’s responsibility to do the\nfollowing:\n(1) Submit a written request to the instructor for an on-campus experiential component\nwithin one week of the start of the course.\n\n(2) Ensure that the activity on campus takes place and the instructor documents it in\nwriting with a notice sent to the International Student and Scholar Services Office. ISSS\nhas a form available that you may use for this purpose.\nBecause the decision may have serious immigration consequences, if an F-1 student is\nunsure about his or her need to participate in an on-campus experiential component for\nthis course, s/he should contact the UNT International Student and Scholar Services Office\n(telephone 940-565-2195 or email internationaladvising@unt.edu) to get clarification\nbefore the one-week deadline.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "University of North Texas Compliance"
+    },
+    "id": "chunk-0275",
+    "tokens": 322
+  },
+  {
+    "text": "Student Verification\nUNT takes measures to protect the integrity of educational credentials awarded to\nstudents enrolled in distance education courses by verifying student identity, protecting\nstudent privacy, and notifying students of any special meeting times/locations or\nadditional charges associated with student identity verification in distance education\ncourses.\nSee UNT Policy 07-002 Student Identity Verification, Privacy, and Notification and Distance\nEducation Courses () .",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Student Verification"
+    },
+    "id": "chunk-0276",
+    "tokens": 121
+  },
+  {
+    "text": "Use of Student Work\nA student owns the copyright for all work (e.g. software, photographs, reports,\npresentations, and email postings) he or she creates within a class and the University is not\nentitled to use any student work without the student’s permission unless all of the\nfollowing criteria are met:\n• The work is used only once.\n• The work is not used in its entirety.\n• Use of the work does not affect any potential profits from the work.\n• The student is not identified.\n• The work is identified as student work.\nIf the use of the work does not meet all of the above criteria, then the University office or\ndepartment using the work must obtain the student’s written permission.\nDownload the UNT System Permission, Waiver and Release Form\nTransmission and Recording of Student Images in Electronically-Delivered Courses",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Use of Student Work"
+    },
+    "id": "chunk-0277",
+    "tokens": 207
+  },
+  {
+    "text": "Use of Student Work\n1. No permission is needed from a student for his or her image or voice to be\ntransmitted live via videoconference or streaming media, but all students should be\ninformed when courses are to be conducted using either method of delivery.\n2. In the event an instructor records student presentations, he or she must obtain\npermission from the student using a signed release in order to use the recording for\nfuture classes in accordance with the Use of Student-Created Work guidelines\nabove.\n3. Instructors who video-record their class lectures with the intention of re-using some\nor all of recordings for future class offerings must notify students on the course\nsyllabus if students' images may appear on video. Instructors are also advised to\nprovide accommodation for students who do not wish to appear in class recordings.\nExample: This course employs lecture capture technology to record class sessions.\nStudents may occasionally appear on video. The lecture recordings will be available to you\nfor study purposes and may also be reused in future course offerings.\nNo notification is needed if only audio and slide capture is used or if the video only records\nthe instructor's image. However, the instructor is encouraged to let students know the\nrecordings will be available to them for study purposes.",
+    "metadata": {
+      "professor": "Ryan Garlick",
+      "course_code": "CSCE 4350",
+      "source": "fundamentals_database_managemnet_systems.pdf",
+      "type": "syllabus",
+      "section": "Use of Student Work"
+    },
+    "id": "chunk-0278",
+    "tokens": 331
+  }
+]

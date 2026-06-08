@@ -1,0 +1,354 @@
+Professor: Amar Maharjan
+Department: Computer Science and Engineering
+University: University of North Texas
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2649807
+
+---
+
+Course: CSCE 1040
+Date: Mar 18th, 2026
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: A
+Review: Please take someone else.
+
+---
+
+Course: CSCE 1040
+Date: Dec 27th, 2025
+Rating: 5
+Difficulty: 4
+Would Take Again: Yes
+Grade: B
+Review: He was a nice professor. I took him for two 
+semesters. The professor himself is really calm, nice 
+and very helpful. Although you need to do your own 
+code practice for the lab exam. If you know what you 
+are doing then you will be good.
+
+---
+
+Course: CSCE 1040
+Date: Oct 12th, 2025
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: A-
+Review: His lectures are very boring and hard to sit 
+through. Going to class is pointless and a waste of 
+time. The ZyBooks is also a waste of time. Learn on 
+your own with plenty of resources on YouTube and do 
+your own coding problems separate from the labs. I 
+wish he wasn't the only option for this class.
+
+---
+
+Course: CSCE 1030
+Date: Oct 12th, 2025
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: A-
+Review: His lectures are uninteresting. ZyBooks is 
+easy to get through but you feel like you are wasting 
+your time doing them and they personally didn't help 
+me learn. Most of the learning I did on my own. He 
+will have projects and labs due the week of the exam. 
+If you take him stick to YouTube and practice coding 
+on your own outside of labs.
+
+---
+
+Course: CSCE 1030
+Date: May 15th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: A
+Review: DO NOT TAKE.
+
+---
+
+Course: CSCE 1030
+Date: May 9th, 2025
+Rating: 3
+Difficulty: 3
+Would Take Again: No
+Grade: A
+Review: Going to class is useless. The homework was 
+very helpful for learning content and the exams were 
+similar to labs so know both very well. The exams are 
+weighted heavily with no drops but doing homework, 
+projects, and labs can make up a bad exam grade. Got 
+a 50 on one exam and ended with a 96 in the class.
+
+---
+
+Course: CSCE 1030
+Date: May 8th, 2025
+Rating: 1
+Difficulty: 3
+Would Take Again: No
+Grade: B-
+Review: This professor was terrible and unfortunately 
+the only person teaching both CSCE 1030 and 1040. 
+Lectures were useless to the point where only 9 
+people out of 80 from the start were left by the end.
+
+---
+
+Course: CSCE 1030
+Date: May 8th, 2025
+Rating: 1
+Difficulty: 3
+Would Take Again: No
+Grade: Rather not say
+Review: Don't take this professor. Exams are much 
+harder than the study material, lectures are stale, 
+and he is never helpful during office hours and will 
+not respond to emails no matter how long you wait 
+for a reply.
+
+---
+
+Course: CSCE 1030
+Date: May 8th, 2025
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: B+
+Review: Terrible professor — if you can avoid taking 
+him please look for any other option. Professor 
+Maharjan really does not care if his students learn 
+anything. His lectures are useless. Also he does not 
+round grades even if they are 0.1 away from the next 
+letter grade.
+
+---
+
+Course: CSCE 1030
+Date: May 6th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: B
+Review: His lectures are not helpful, there are no 
+drops for his exams, and what he teaches is not what 
+is tested — he makes exams harder than the material 
+covered.
+
+---
+
+Course: CSCE 1030
+Date: May 3rd, 2025
+Rating: 3
+Difficulty: 2
+Would Take Again: Yes
+Grade: A+
+Review: Lectures and online resources were well 
+organized.
+
+---
+
+Course: CSCE 1030
+Date: Feb 6th, 2025
+Rating: 3
+Difficulty: 3
+Would Take Again: Yes
+Grade: F
+Review: Decent professor, he would sidetrack a lot 
+during lectures which is why I rarely attended them. 
+Always gave clear instructions though.
+
+---
+
+Course: CSCE 1030
+Date: Dec 20th, 2024
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: C+
+Review: Horrible professor. He pawns everything on 
+his TAs and believes everything they say. TAs in 
+this class were caught helping students use ChatGPT 
+during exams. He accused students of cheating based 
+solely on TA reports. Be cautious.
+
+---
+
+Course: CSCE 1030
+Date: Jun 24th, 2024
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: Rather not say
+Review: Taking this course was the worst mistake. He 
+was terrible and so difficult to work with. He is 
+never in the lab to help so labs were hard to 
+understand. Exams accounted for more than 60% of 
+your grade. If you have a feeling you won't pass 
+drop the class — it is not worth repeating. Please 
+avoid if possible.
+
+---
+
+Course: CSCE 1030
+Date: May 8th, 2024
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: F
+Review: Even if you study a lot outside of class you 
+will still somehow fail. Each test is worth 55% of 
+your grade.
+
+---
+
+Course: CSCE 1030
+Date: May 3rd, 2024
+Rating: 3
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: Classes are not compulsory but if you don't 
+understand anything just go to class. He is 
+knowledgeable but just reads off the slides which 
+is boring. There are no quizzes but homework is 
+heavy. There are three group projects and four exams 
+including the final. Solo learning is required for 
+getting a good grade.
+
+---
+
+Course: CSCE 1030
+Date: Apr 28th, 2024
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: C
+Review: The lectures are very boring and the professor 
+is not friendly. None of the exams are dropped and 
+each exam is worth 15%. I recommend taking this course 
+with a different professor.
+
+---
+
+Course: CSCE 1030
+Date: Nov 16th, 2023
+Rating: 2
+Difficulty: 1
+Would Take Again: No
+Grade: A+
+Review: Lectures were extremely boring but he posts 
+the slideshows on Canvas so there is not really much 
+reason to attend. Labs were actually useful but beware 
+the lab exams and projects — they are very heavily 
+weighted and you don't get any drops on them.
+
+---
+
+Course: CSCE 1040
+Date: May 14th, 2023
+Rating: 3
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: Lectures were pretty boring so I didn't 
+attend. Lots of busywork on ZyBooks so I mainly used 
+that to study. Tests weren't too bad and were similar 
+to labs. The class wasn't hard but had a lot of 
+tedious homework. I've heard the teacher is helpful 
+if you email him. Overall an okay experience — you 
+will be perfectly fine as long as you do your work.
+
+---
+
+Course: CSCE 1040
+Date: May 10th, 2023
+Rating: 2
+Difficulty: 4
+Would Take Again: No
+Grade: Not sure yet
+Review: Very exam heavy. All homeworks are basically 
+week-long projects you do by yourself. ZyBooks 
+homework is easy just pay attention to the 
+participation. Don't be afraid to ask questions 
+because they will help you. Don't recommend taking 
+this teacher for more complex classes but for the 
+basics he is average.
+
+---
+
+Course: CSCE 1030
+Date: Apr 20th, 2023
+Rating: 3
+Difficulty: 3
+Would Take Again: No
+Grade: A-
+Review: Very dull lectures but I think that is just 
+computer science. He speaks really quietly so be sure 
+to sit in the front. A very kind man and easy to get 
+a hold of. The homework is a lot but as long as you 
+don't do it at the last minute you are good. He has 
+also pushed deadlines back by a day to help students.
+
+---
+
+Course: CSCE 5640
+Date: Mar 20th, 2023
+Rating: 2
+Difficulty: 3
+Would Take Again: No
+Grade: A-
+Review: This professor follows his key sheet to 
+validate answers. If your answer is correct and 
+provides a proper solution he still checks his key 
+sheet for exact word matches. Grading feels very 
+rigid and inflexible.
+
+---
+
+Course: CSCE 1030
+Date: Jan 17th, 2023
+Rating: 3
+Difficulty: 1
+Would Take Again: Yes
+Grade: A-
+Review: Reading the ZyBooks is essential. It will 
+help you on the exams a ton which are worth 67% of 
+the grade in total.
+
+---
+
+Course: CSCE 1030
+Date: Dec 31st, 2022
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: D
+Review: Bunch of homework due each week with projects 
+that can take multiple days of work all worth almost 
+nothing. There are four tests including the final 
+worth a total of 70% of your grade. You will not know 
+what you made on any of the tests for several weeks. 
+Don't take this class if possible.
+
+---
+
+Course: CSCE 1030
+Date: Dec 16th, 2022
+Rating: 2
+Difficulty: 5
+Would Take Again: Yes
+Grade: B
+Review: Canvas lab average will be wrong the entire 
+semester until the very end when he combines the 
+grades — your grade will drop significantly so beware. 
+Grades are unreliable all semester. This course is 
+very hard unless you already have experience in CSCE. 
+Final is comprehensive and open book but worth 20%. 
+Projects weigh less than 3% but help a lot.
+
+---

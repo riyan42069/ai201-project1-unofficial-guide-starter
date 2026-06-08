@@ -1,0 +1,379 @@
+Professor: David Keathly
+Department: Computer Science and Engineering
+University: University of North Texas
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/702560
+
+---
+
+Course: CSCE 4902
+Date: Jun 7th, 2026
+Rating: 4
+Difficulty: 2
+Would Take Again: Yes
+Grade: A+
+Review: Capstone is a very different experience from 
+most classes so keep that in mind. Overall he seemed 
+fine, though my interaction with him was limited as 
+my group was assigned to work with a TA. Seems good 
+about responding to emails. Canvas announcements were 
+shockingly illiterate, but it was funny at least. 
+Most important thing is finding a good group.
+
+---
+
+Course: CSCE 1030
+Date: May 1st, 2025
+Rating: 2
+Difficulty: 3
+Would Take Again: No
+Grade: A
+Review: Really quiet, even with a microphone I could 
+barely hear him. Group projects and lots of homework. 
+Beware of pop quizzes.
+
+---
+
+Course: CSCE 2110
+Date: Apr 30th, 2025
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: A+
+Review: First professor where I wanted to rip my eyes 
+out. He is very inconsiderate and does not care that 
+you have other classes and other assignments. He will 
+keep piling homework on you until you actually start 
+crying. This is the first professor after 4 years that 
+I actually wanted to drop out of college. Be prepared.
+
+---
+
+Course: CSCE 1040
+Date: Jan 15th, 2024
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: B-
+Review: The exams and homework all build on each other 
+and are quite difficult and time consuming. No useful 
+feedback is given which makes it hard to improve.
+
+---
+
+Course: CSCE 1040
+Date: Nov 27th, 2023
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: A
+Review: Terrible professor and ideologies.
+
+---
+
+Course: CSCE 1040
+Date: Oct 19th, 2023
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A-
+Review: Taught the material very well. Class is decided 
+by 3 projects that are outlined and explained very well 
+and 3 tests that are also explained very well ahead of 
+time. During lectures he also gives great life advice 
+on how to make it in the computer science field which 
+was very nice.
+
+---
+
+Course: CSCE 1040
+Date: Jul 5th, 2023
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: B
+Review: Keathly's teaching style represents the 
+degrading quality of the CS programs at UNT. All or 
+nothing grading. Zero guidance except for old timey 
+anecdotes. Loves to rant about previous students and 
+the ways he failed them. Meanwhile he literally cannot 
+compile his own code in front of us. Yet we get 
+punished if it happens to us during an exam.
+
+---
+
+Course: CSCE 1040
+Date: May 16th, 2023
+Rating: 3
+Difficulty: 5
+Would Take Again: Yes
+Grade: A+
+Review: He wasn't easy to talk to but answered any 
+questions very well. Taking this class as a freshman 
+is hard because he doesn't leave room for you to adapt 
+to college. He didn't seem to set clear standards for 
+his TAs or communicate with them well. But he was very 
+good at giving you an idea of what a job in programming 
+will be like.
+
+---
+
+Course: CSCE 1040
+Date: May 14th, 2023
+Rating: 3
+Difficulty: 4
+Would Take Again: Yes
+Grade: A
+Review: As someone who returned to university for a 
+second major, the difference between those who perform 
+well in this class and those who don't boils down to 
+mental preparedness for college. Dr. Keathly admittedly 
+doesn't do the best job at helping freshmen adapt but 
+this class is very doable with some studying and 
+occasional office hours.
+
+---
+
+Course: CSCE 1040
+Date: May 8th, 2023
+Rating: 2
+Difficulty: 3
+Would Take Again: No
+Grade: B+
+Review: Although this was an online course, no resources 
+beyond the textbook were provided. Instructions for 
+projects were significantly lacking and homework 
+assignments were extraordinarily lengthy with just a 
+week to complete them. Requests for clarification were 
+often met with one-sentence replies and little 
+elaboration. Thankfully the textbook is sufficient 
+to pass.
+
+---
+
+Course: CSCE 1040
+Date: Mar 30th, 2023
+Rating: 3
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Prof. Keathly is good at explaining the problems 
+you bring up but he isn't very approachable. The projects 
+were difficult but he went over them in lectures. He 
+offers good extra credit but you need to score a minimum 
+of 70 before he applies it. Exams weren't hard though. 
+Only take him if you're decent at coding and willing to 
+put in the effort.
+
+---
+
+Course: CSCE 1040
+Date: Feb 4th, 2023
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: Drop/Withdrawal
+Review: If you don't have a coding background or this 
+is your first coding class at UNT don't take it with 
+him. His instructions are unclear as are his lectures. 
+He says he doesn't expect you to know coding but wants 
+to make you fail assignments and labs for anything. 
+Too much work in too little time.
+
+---
+
+Course: CSCE 1040
+Date: Dec 26th, 2022
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Gave excellent career and industry advice. 
+Genuinely cares about the subjects he teaches and 
+creating competent individuals. Hard work wins in 
+this class, don't procrastinate assignments and watch 
+content on what you are learning outside of lectures 
+and you'll be fine. Interacting with him by asking 
+questions will help a ton.
+
+---
+
+Course: CSCE 1040
+Date: Aug 23rd, 2022
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: B+
+Review: Got an 89.9 but he didn't want to round up 
+to a 90. Tough grader with lots of homework and 
+heavy exams.
+
+---
+
+Course: CSCE 1040
+Date: Oct 29th, 2021
+Rating: 2
+Difficulty: 2
+Would Take Again: No
+Grade: A
+Review: Dr. Keathly is a bit sarcastic with a hint 
+of arrogance, like he needs to prove his worth to 
+his freshman students. The material isn't difficult 
+but there is a lot of it. The assignments are 
+repetitive and time consuming without really teaching 
+anything. I would not recommend.
+
+---
+
+Course: CSCE 3615
+Date: May 8th, 2021
+Rating: 4
+Difficulty: 1
+Would Take Again: Yes
+Grade: A+
+Review: Professor did not really teach the class 
+since it was online. However he had a few remote 
+sessions set up to explain the material that was 
+not included in a textbook. Do your assignments and 
+you will pass. Exams are open-notes and open-book. 
+Almost all assignments had confusing instructions 
+so I needed to clarify them with the professor.
+
+---
+
+Course: CSCE 1040
+Date: May 3rd, 2021
+Rating: 2
+Difficulty: 2
+Would Take Again: No
+Grade: A
+Review: Not a very interesting instructor. Class is 
+pretty basic and you pretty much only need the 
+information presented in the zyBook. Some labs are 
+intentionally significantly more challenging than 
+others so make sure to carve out some time for them. 
+Homeworks are almost all incredibly lengthy but exams 
+are all coding exams except for the final which is 
+multiple choice.
+
+---
+
+Course: CSCE 1040
+Date: Apr 23rd, 2021
+Rating: 3
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Though some people may dislike the way he 
+teaches I found his class to be fine. You don't need 
+to show up to the lectures and they are always 
+recorded. The benefit of showing up is that he has 
+lots of opportunities for questions which can help 
+a lot. Overall he was much more lenient than what 
+others said and his class is easy if you just try.
+
+---
+
+Course: CSCE 1040
+Date: Apr 15th, 2021
+Rating: 3
+Difficulty: 3
+Would Take Again: Yes
+Grade: B+
+Review: Had him through Zoom, not terrible but not 
+great either. If you watch the YouTube videos he 
+links and know how to Google, the class isn't bad. 
+Be wary of the homework — the first one is easy but 
+the rest are hard so start them at least 1 week 
+before they are due. He lets you look at labs and 
+have one sheet of notes during exams which helps.
+
+---
+
+Course: CSCE 3615
+Date: Apr 1st, 2021
+Rating: 4
+Difficulty: 2
+Would Take Again: Yes
+Grade: A
+Review: Good class with a bunch of case studies that 
+taught relevant material. Group projects were a bit 
+extensive however alright in the long term.
+
+---
+
+Course: CSCE 1040
+Date: Mar 1st, 2021
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: Not sure yet
+Review: Do not take him. He expects you to know 
+everything day one. There is a homework assignment 
+due every month that you constantly need to work on 
+but you also have assignments in the book and a lab 
+every week. He doesn't teach the content at all and 
+if you need help he provides no help.
+
+---
+
+Course: CSCE 1040
+Date: Jan 26th, 2021
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: Drop/Withdrawal
+Review: Guy was a horrible teacher. Doesn't teach, 
+just expects you to know how to do everything 
+flawlessly before doing it. He grades harshly. 
+You're only allowed to use the textbook for help 
+or ask a classmate for help. He expects you to code 
+in a vacuum. He is unhelpful in his office hours. 
+Unfortunately the only CSCE 1040 professor.
+
+---
+
+Course: CSCE 1040
+Date: Jan 26th, 2021
+Rating: 2
+Difficulty: 5
+Would Take Again: No
+Grade: B+
+Review: I created an account just to rate this 
+professor. By far the most disappointing professor 
+I have ever had. I almost changed my major because 
+he made no effort to teach and there are no other 
+teachers for this class. The main difficulty is the 
+workload — zybooks plus one coding assignment a week 
+with a large project every month. Open notes tests 
+but no leniency.
+
+---
+
+Course: CSCE 1040
+Date: Oct 19th, 2020
+Rating: 2
+Difficulty: 2
+Would Take Again: Yes
+Grade: A+
+Review: Definitely one of the most condescending 
+professors I've had. Really contributes to the 
+elitist STEM stereotype. Like everyone else says 
+he knows what he is doing but does not teach it 
+well. I learned all the material through the YouTube 
+videos he links. Not the worst professor ever but 
+completely dispassionate.
+
+---
+
+Course: CSCE 2110
+Date: Aug 23rd, 2020
+Rating: 1
+Difficulty: 3
+Would Take Again: No
+Grade: Not sure yet
+Review: Lectures are boring, he barely explains 
+topics, talks nonsense about the topic, and is a 
+tough grader. I would not recommend taking his class.
+
+---

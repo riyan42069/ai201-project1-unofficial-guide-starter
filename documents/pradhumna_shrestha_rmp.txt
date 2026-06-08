@@ -1,0 +1,373 @@
+Professor: Pradhumna Shrestha
+Department: Computer Science and Engineering
+University: University of North Texas
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2174392
+
+---
+
+Course: CSCE 1030
+Date: May 6th, 2026
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: A+
+Review: This is by far the worst professor I have ever 
+taken. The TAs did all the grading, he does not show 
+up for labs, his practice exam review was lackadaisical 
+and did not reflect the exam in any way. His office 
+hours was 1 hour every week and if you asked a question 
+during class he would give an indolent response. He 
+puts forth zero effort.
+
+---
+
+Course: CSCE 2610
+Date: May 13th, 2024
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: D
+Review: Do not take this professor if you want to have 
+time for other classes.
+
+---
+
+Course: CSCE 2610
+Date: May 12th, 2024
+Rating: 3
+Difficulty: 4
+Would Take Again: Yes
+Grade: Not sure yet
+Review: I wouldn't recommend taking CSCE 2610 with him 
+if you have to work outside of class. The assignments 
+required a lot of time to complete with little time to 
+actually do the homework. He is great for CSCE 1030 
+though.
+
+---
+
+Course: CSCE 1030
+Date: Dec 10th, 2023
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A
+Review: No attendance required for lectures. Attendance 
+taken for labs. Very chill with assignments. Assignments 
+due every week on ZyBooks. Lab exams make most of the 
+grade. Final exam is easy, multiple choice and online. 
+The other exams are graded leniently and receive a lot 
+of partial credit.
+
+---
+
+Course: CSCE 1030
+Date: May 22nd, 2023
+Rating: 2
+Difficulty: 5
+Would Take Again: No
+Grade: C
+Review: The lab exams were hard and they made up 60% 
+of the grade. The online homework could be difficult 
+and the labs often needed more time than allowed to 
+complete. The group projects were quite difficult but 
+they only made up a small portion of the final grade. 
+The final is also not worth much so it really can only 
+help you pass. Lectures were boring.
+
+---
+
+Course: CSCE 1030
+Date: May 8th, 2023
+Rating: 2
+Difficulty: 4
+Would Take Again: No
+Grade: A-
+Review: Basically you are going to teach yourself. 
+Tests are worth most of your grade — you fail tests 
+you fail the class. Professors like that are horrible.
+
+---
+
+Course: CSCE 1030
+Date: Mar 12th, 2023
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: The textbook is ZyBooks, it may be hard for 
+a beginner in programming however it is because of 
+its difficulty itself, nothing related to the professor. 
+Professor teaches well. Maybe the best professor in 
+UNT as CS professors at UNT tend to be poor.
+
+---
+
+Course: CSCE 1030
+Date: Feb 13th, 2023
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Everyone complains about Shrestha but once 
+you get into CSCE 1040 you will miss the in-class 
+examples that he does in class. As long as you show 
+up to the lecture rest assured that you will make it 
+out knowing code.
+
+---
+
+Course: CSCE 1030
+Date: Dec 4th, 2022
+Rating: 2
+Difficulty: 4
+Would Take Again: No
+Grade: A
+Review: While the material presented did help to learn 
+the course for the most part, the amount of assignments 
+was incredibly excessive especially considering labs, 
+homework and projects only make a small portion of your 
+grade compared to the excessively weighted 60% for only 
+3 tests.
+
+---
+
+Course: CSCE 1030
+Date: Oct 10th, 2022
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: A
+Review: Dr. Shrestha is impossible to learn from. His 
+lectures lack structure and you can learn almost all 
+of the material from the ZyBooks homework. The tests 
+and lab assessments are 60% of your grade and not open 
+book. Steer clear of him if you can and be prepared 
+to primarily teach yourself if you end up with him.
+
+---
+
+Course: CSCE 1030
+Date: May 4th, 2022
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: C+
+Review: The structure of this course was unfair. Tests 
+making up 60% of the grade means that basically 
+everything else is pointless unless you do well on 
+the exams. The material wasn't that hard — the problem 
+was that the tests were graded so heavily.
+
+---
+
+Course: CSCE 1030
+Date: Apr 29th, 2022
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: A
+Review: The course is not structured at all and lacks 
+quality. You will basically be teaching yourself how 
+to code on your own. They basically gloss over the 
+material which is not helpful. Unless you already 
+know C++ it is going to be quite difficult.
+
+---
+
+Course: CSCE 1030
+Date: Apr 25th, 2022
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: B
+Review: The syllabus makes this course tougher than 
+it should be. There are 3 lab exams that make up 60% 
+of the total grade. Besides that there are numerous 
+other assignments that are challenging. The fact that 
+more than half of the grade is from lab exams makes 
+the effort put into other assignments seem worthless. 
+Would not recommend.
+
+---
+
+Course: CSCE 1030
+Date: Dec 5th, 2021
+Rating: 2
+Difficulty: 3
+Would Take Again: No
+Grade: C
+Review: Lectures are boring and you can't really take 
+notes on them or stay awake long enough to pay 
+attention. Projects are unnecessarily complicated and 
+the lab assessments are 50% of the grade. Would 
+recommend knowing code before having the class 
+otherwise you may struggle.
+
+---
+
+Course: CSCE 3550
+Date: Jul 26th, 2021
+Rating: 2
+Difficulty: 3
+Would Take Again: No
+Grade: A+
+Review: This class was a drag. The assignments 
+themselves are challenging but doable but learning 
+class concepts wasn't really aided by the professor's 
+3 hour lectures twice a week. Another con is his 
+insistence on having an attendance quiz at the end 
+of each lecture which shows his inability to retain 
+students attention without the threat of losing points.
+
+---
+
+Course: CSCE 1030
+Date: Jul 25th, 2021
+Rating: 4
+Difficulty: 5
+Would Take Again: No
+Grade: C+
+Review: One of the tougher professors you will take. 
+About half of my summer class failed or dropped. Great 
+teacher though and very smart. ZyBook is great practice 
+but lecture material will show up on tests and labs. 
+Projects and labs are brutal but if you can really do 
+them you can pass tests. Just make sure you can type 
+fast — by the end you will know some programming.
+
+---
+
+Course: CSCE 1030
+Date: Jun 6th, 2021
+Rating: 4
+Difficulty: 4
+Would Take Again: Yes
+Grade: A
+Review: The class is run very well and you will 
+definitely need to master the material covered to do 
+well in future courses. Project guidelines were quite 
+vague sometimes so please start early. Labs were great 
+but that may depend on your TA.
+
+---
+
+Course: CSCE 1030
+Date: Apr 30th, 2021
+Rating: 2
+Difficulty: 3
+Would Take Again: No
+Grade: B-
+Review: Dr. Shrestha is a newer professor and is 
+cheerful in nature but very obscure in a lot of his 
+examples. The projects were tough and so were the lab 
+exams but graded generously. However the final is 
+multiple choice and done in an incredibly poor format. 
+The majority of my class failed it and he refused to 
+curve the grade. Would look elsewhere.
+
+---
+
+Course: CSCE 1030
+Date: Apr 29th, 2021
+Rating: 4
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Dr. Shrestha was a great professor. I had no 
+prior coding experience and I enjoyed his teaching 
+style. The final exam was the most difficult as it 
+was through lockdown browser and did not involve 
+actual coding like the lab exams. Start on projects 
+early. I found it easiest to do ZyBooks chapters 
+first so lectures could clear up any confusion.
+
+---
+
+Course: CSCE 1030
+Date: Jan 5th, 2021
+Rating: 4
+Difficulty: 4
+Would Take Again: Yes
+Grade: A
+Review: Most information could be gotten from the 
+online ZyBook. I stayed for many of the lectures but 
+often I couldn't read ahead of time and would get 
+confused so I came back after completing the ZyBook 
+and played the recording at 1.5x speed. Big coding 
+projects require knowing the ZyBook well.
+
+---
+
+Course: CSCE 1030
+Date: Dec 18th, 2020
+Rating: 3
+Difficulty: 2
+Would Take Again: Yes
+Grade: A-
+Review: Professor Shrestha was very knowledgeable in 
+C++ and did well at providing advice for programming 
+in real life application. All of his lectures were 
+recorded so I never needed to attend class on time. 
+The lab assessments were graded pretty lightly and 
+were very directly connected to the material taught 
+in class lectures.
+
+---
+
+Course: CSCE 1030
+Date: Dec 9th, 2020
+Rating: 5
+Difficulty: 4
+Would Take Again: Yes
+Grade: A-
+Review: Definitely need to attend lecture to understand 
+the material. He goes over a lot of programs that you 
+will most likely see in the labs or exams so make sure 
+to pay attention and take notes. Final is not like 
+writing a program so make sure to understand the logic 
+behind the code being written.
+
+---
+
+Course: CSCE 1030
+Date: Nov 24th, 2020
+Rating: 3
+Difficulty: 2
+Would Take Again: No
+Grade: A
+Review: Having him for CSCE 1030 was alright. I had 
+never written a single line of code before I joined 
+his class. I learned a lot by self-studying and 
+ZyBooks. However sometimes his lectures can be quite 
+helpful so pay attention here and there.
+
+---
+
+Course: CSCE 1030
+Date: Sep 17th, 2020
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: C+
+Review: Dr. Prad knows his stuff. Younger professor 
+with great lectures, very informative on a subject 
+a lot of people are taking for the first time.
+
+---
+
+Course: CSCE 3020
+Date: May 12th, 2020
+Rating: 4
+Difficulty: 3
+Would Take Again: Yes
+Grade: B+
+Review: The hardest thing about this class is the 
+weekly online quiz. Reviews are on point for what 
+the exam is going to be over. Exam questions are 
+very similar to homework problems. He is a very 
+fair grader and gives partial credit so just do all 
+the assignments and you will do well.
+
+---

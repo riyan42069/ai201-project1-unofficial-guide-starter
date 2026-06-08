@@ -1,0 +1,346 @@
+Professor: Hadiseh Gooran
+Department: Computer Science and Engineering
+University: University of North Texas
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2940069
+
+---
+
+Course: CSCE 3444
+Date: Dec 5th, 2025
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A+
+Review: Great professor, always very happy to teach 
+during asynchronous lectures. Slides were helpful 
+and assignments were decently easy.
+
+---
+
+Course: CSCE 1035
+Date: Nov 4th, 2025
+Rating: 4
+Difficulty: 3
+Would Take Again: Yes
+Grade: B
+Review: Amazing instruction and very understanding 
+and flexible professor. ZyBooks however is mandatory 
+and awful. If you understand content quickly this 
+class will be hell. One ZyBooks chapter due per week 
+including all challenges and labs. She is the best 
+CS instructor I've had to date but this is the most 
+work I've ever had to do for a course.
+
+---
+
+Course: CSCE 3055
+Date: Nov 2nd, 2025
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: Not sure yet
+Review: I took this class online and honestly it was 
+really smooth. The workload wasn't heavy but I still 
+learned the basics of project management in a way 
+that actually made sense. The stuff we covered is 
+super useful for organizing small team projects as 
+a developer.
+
+---
+
+Course: CSCE 1045
+Date: Sep 22nd, 2025
+Rating: 5
+Difficulty: 1
+Would Take Again: No
+Grade: A+
+Review: Look carefully at all of the reviews for this 
+professor. All of the positive reviews are heavily 
+down-voted and all of the negative reviews are heavily 
+upvoted. She manipulates the RMP ratings by flooding 
+them with fake ratings and gets almost every real 
+student rating removed by flagging them. Do not take 
+this professor.
+
+---
+
+Course: CSCE 1045
+Date: Sep 16th, 2025
+Rating: 5
+Difficulty: 1
+Would Take Again: Yes
+Grade: A+
+Review: Great professor!
+
+---
+
+Course: CSCE 3444
+Date: Jul 24th, 2025
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: Not sure yet
+Review: This class was super helpful and I learned 
+all the steps. The only part I didn't really enjoy 
+was the group project — one of our teammates wasn't 
+responsive so it made things harder for the rest of 
+us. Other than that everything about the course 
+was great.
+
+---
+
+Course: CSCE 3055
+Date: Jul 24th, 2025
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A
+Review: I loved the summer project management class. 
+The group project was fun and realistic and the course 
+ended with real interview questions which really helped 
+me feel prepared for future roles. She wasn't strict 
+but offered a clear supportive path for anyone 
+interested in project management careers.
+
+---
+
+Course: CSCE 3055
+Date: Jul 21st, 2025
+Rating: 4
+Difficulty: 1
+Would Take Again: Yes
+Grade: A
+Review: Took her for CSCE 3055 IT Project Management 
+for summer 2025. Very easy class and she is an easy 
+grader. My only two complaints are that she doesn't 
+respond to emails and the instructions on assignments 
+were unclear sometimes.
+
+---
+
+Course: CSCE 1035
+Date: Apr 29th, 2025
+Rating: 3
+Difficulty: 2
+Would Take Again: Yes
+Grade: A
+Review: She is a kind well-meaning professor but the 
+course itself was very disorganized. Class was often 
+cancelled or moved online with very short notice. When 
+we did have class in person it was a 50/50 as to 
+whether the professor would show up or we would be 
+taught by a TA. Because of this probably best to avoid 
+if you have no prior programming experience.
+
+---
+
+Course: CSCE 3444
+Date: Feb 1st, 2025
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: Kind professor, class is enjoyable and you 
+don't have to worry about professor issues. Class is 
+very self driven and professor is supportive. Follow 
+instructions and deliver and you will get an A. One 
+of the best professors at UNT for CS.
+
+---
+
+Course: CSCE 1035
+Date: Jan 30th, 2025
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A
+Review: She made ZyBooks mandatory and it was actually 
+pretty helpful. Her teaching style just made things 
+click in class so homework was easy practice after. 
+Participation was key but it kept things interesting. 
+She is really chill, understanding, and cares about 
+her students. Easily one of the best profs I've had.
+
+---
+
+Course: CSCE 3444
+Date: Jan 24th, 2025
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Honestly one of the best professors I've had 
+at UNT. She is super nice and really knows her stuff. 
+She explains everything clearly and her lectures are 
+interactive which is rare. Group projects are a big 
+part but she makes them fun and keeps everything 
+organized. Practical assignments teach real-world 
+skills. Highly recommend.
+
+---
+
+Course: CSCE 3615
+Date: Nov 12th, 2024
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: Not sure yet
+Review: Fun class. She kept things easygoing but still 
+made sure we learned a ton about project management. 
+We had a great mix of hands-on projects and real-world 
+examples. Highly recommend if you want a low-stress 
+interesting class.
+
+---
+
+Course: CSCE 1035
+Date: Oct 28th, 2024
+Rating: 5
+Difficulty: 1
+Would Take Again: Yes
+Grade: A+
+Review: Best professor I ever had, actually teaches 
+the class. Attendance is not really mandatory. Extra 
+credit opportunities available.
+
+---
+
+Course: CSCE 3444
+Date: Jul 25th, 2024
+Rating: 5
+Difficulty: 1
+Would Take Again: Yes
+Grade: A+
+Review: She had one project the whole semester which 
+was building an app. I enjoyed this class out of all 
+the CSCE classes I have taken so far — this is my 
+favorite. She is super nice and sweet. As long as you 
+do your work you will do extremely well in the class.
+
+---
+
+Course: CSCE 3444
+Date: Jul 21st, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: Not sure yet
+Review: We worked on one project for the entire 
+semester and had a lot of homework but I learned how 
+to create an application and she provided hands-on 
+teaching of the process. I really enjoyed the class 
+even though the summer semester is short.
+
+---
+
+Course: CSCE 1035
+Date: Jul 17th, 2024
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: B+
+Review: She is very caring to her students and goes 
+out of her way to ensure you get the help you need. 
+Extra credit available.
+
+---
+
+Course: CSCE 3615
+Date: Jun 10th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: I am an IT student and the programming part 
+was hard for me since it was my first time coding 
+this much for a project. But I can't believe I did 
+it and I learned a lot. She is so nice, the classes 
+are fun, and although attendance was not mandatory 
+I showed up almost always.
+
+---
+
+Course: CSCE 3055
+Date: May 16th, 2024
+Rating: 5
+Difficulty: 1
+Would Take Again: Yes
+Grade: A
+Review: Her class is fantastic, easy, and fun. Class 
+discussions are always interesting and thought-
+provoking. What you need to learn you will learn in 
+class. I had no idea about project management before 
+and now I know how to manage projects effectively. 
+Highly recommend this class.
+
+---
+
+Course: CSCE 1035
+Date: May 13th, 2024
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A
+Review: I loved Professor Gooran's class. She is so 
+approachable, super supportive and always ready to 
+assist with any questions.
+
+---
+
+Course: CSCE 1035
+Date: May 6th, 2024
+Rating: 5
+Difficulty: 1
+Would Take Again: Yes
+Grade: A+
+Review: Really great professor, made the class easy. 
+Amazing lectures and clear grading criteria.
+
+---
+
+Course: CSCE 3055
+Date: Mar 27th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: Not sure yet
+Review: Took this project management class this 
+semester and it was awesome. Professor is super caring 
+and fun, and the class is chill but super informative. 
+She is super flexible with how the class runs. You 
+just need to keep up with your activities and projects 
+for a good grade. Totally recommend.
+
+---
+
+Course: CSCE 1035
+Date: Mar 21st, 2024
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A+
+Review: She made a Discord server for communications 
+which is so much more convenient than Canvas or 
+emails. She was also available at all times through 
+Discord. Other professors take days to respond but 
+that is not the case with her. Plus she is super 
+sweet and chill.
+
+---
+
+Course: CSCE 1035
+Date: Mar 6th, 2024
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: Not sure yet
+Review: Absolutely love this Python class. Feels like 
+an interactive lab with the professor offering hands-on 
+help making sure we grasp everything. Sessions are 
+engaging, fun, and demystify coding, leaving me 
+confident and eager to learn more. Highly recommend 
+for anyone curious about coding. The atmosphere is 
+incredibly supportive and friendly.
+
+---

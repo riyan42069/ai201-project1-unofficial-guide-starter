@@ -1,0 +1,445 @@
+Course Syllabus
+ Edit
+CSCE3550 / Foundations of Cybersecurity
+Instructor Information
+Name: Dr. Jacob Hochstetler (he/him)
+Office Location: E250D
+Student Hours: T/Th 1500-1600 or via Zoom (please email to schedule)
+Email: Jacob.Hochstetler@unt.edu (mailto:Jacob.Hochstetler@unt.edu)
+TA information:
+Name Email Student Hours
+Asrar Ali H Asrar.Qassem@unt.edu
+Thursday: 1:30 - 4:30 PM, F267
+Qassem (mailto:Asrar.Qassem@unt.edu)
+Wednesday: 3:30 - 5:30 PM, F223
+KhoaHo@my.unt.edu
+Khoa Ho
+Other time by appointment (in office
+(mailto:KhoaHo@my.unt.edu)
+or on Zoom)
+Course Description, Structure, and Objectives
+This course covers cybersecurity terminology, principles, and technologies and introduces students to
+security issues related to hardware, software, cryptography, and policy to make better, safer decisions.
+Topics include cyber threats and vulnerabilities, information security frameworks and policies,
+cryptography, penetration testing, and defense in depth. Many of the techniques will be demonstrated
+and practiced using a modern programming language. The goal is to develop a foundation for further
+study in cybersecurity. This course takes place in-person, and all assignments will be submitted through
+Canvas.
+Course Outcomes
+Course outcomes are measurable achievements to be accomplished by the completion of a course.
+These outcomes are evaluated as part of our ABET accreditation process:
+
+1. Describe basic security terminology and concepts as well as analyze security threats, vulnerabilities,
+and attacks.
+2. Describe the role of computers and networks in a security context.
+3. Develop basic organizational security policies.
+4. Demonstrate basic principles and concepts of cryptography and general cryptanalysis.
+5. Demonstrate various types of penetration testing to measure the security posture.
+6. Discuss the legal and ethical issues involved with securing computer systems, networks, and
+information.
+7. Apply security design principles using a modern programming language to solve various
+cybersecurity problems.
+Prerequisites and Corequisites
+Prerequisite(s): None.
+Corequisite(s): CSCE 2110
+Important Notice for F-1 Students taking Distance
+Education Courses
+Federal Regulation
+To read detailed Immigration and Customs Enforcement regulations for F-1 students taking online
+courses, please go to the Electronic Code of Federal Regulations website (http://www.ecfr.gov/) .
+The specific portion concerning distance education courses is located at Title 8 CFR 214.2 Paragraph (f)
+(6)(i)(G).
+The paragraph reads:
+(G) For F-1 students enrolled in classes for credit or classroom hours, no more than the equivalent of
+one class or three credits per session, term, semester, trimester, or quarter may be counted toward the
+full course of study requirement if the class is taken on-line or through distance education and does not
+require the student's physical attendance for classes, examination or other purposes integral to
+completion of the class. An on-line or distance education course is a course that is offered principally
+through the use of television, audio, or computer transmission including open broadcast, closed circuit,
+cable, microwave, or satellite, audio conferencing, or computer conferencing. If the F-1 student's course
+of study is in a language study program, no on-line or distance education classes may be considered to
+count toward a student's full course of study requirement.
+University of North Texas Compliance
+
+To comply with immigration regulations, an F-1 visa holder within the United States may need to engage
+in an on-campus experiential component for this course. This component (which must be approved in
+advance by the instructor) can include activities such as taking an on-campus exam, participating in an
+on-campus lecture or lab activity, or other on-campus experience integral to the completion of this
+course.
+If such an on-campus activity is required, it is the student’s responsibility to do the following:
+(1) Submit a written request to the instructor for an on-campus experiential component within one week
+of the start of the course.
+(2) Ensure that the activity on campus takes place and the instructor documents it in writing with a notice
+sent to the International Student and Scholar Services Office. ISSS has a form available that you may
+use for this purpose.
+Because the decision may have serious immigration consequences, if an F-1 student is unsure about his
+or her need to participate in an on-campus experiential component for this course, s/he should contact
+the UNT International Student and Scholar Services Office (telephone 940-565-2195 or
+email internationaladvising@unt.edu (mailto:internationaladvising@unt.edu) ) to get clarification before
+the one-week deadline.
+Student Verification
+UNT takes measures to protect the integrity of educational credentials awarded to students enrolled in
+distance education courses by verifying student identity, protecting student privacy, and notifying
+students of any special meeting times/locations or additional charges associated with student identity
+verification in distance education courses.
+See UNT Policy 07-002 Student Identity Verification, Privacy, and Notification and Distance
+Education Courses (https://policy.unt.edu/policy/07-002) (https://policy.unt.edu/policy/07-002).
+Use of Student Work
+A student owns the copyright for all work (e.g. software, photographs, reports, presentations, and email
+postings) he or she creates within a class and the University is not entitled to use any student work
+without the student’s permission unless all of the following criteria are met:
+The work is used only once.
+The work is not used in its entirety.
+Use of the work does not affect any potential profits from the work.
+The student is not identified.
+The work is identified as student work.
+
+If the use of the work does not meet all of the above criteria, then the University office or department
+using the work must obtain the student’s written permission.
+Download the UNT System Permission, Waiver and Release Form
+Transmission and Recording of Student Images in
+Electronically-Delivered Courses
+1. No permission is needed from a student for his or her image or voice to be transmitted live via
+videoconference or streaming media, but all students should be informed when courses are to be
+conducted using either method of delivery.
+2. In the event an instructor records student presentations, he or she must obtain permission from the
+student using a signed release in order to use the recording for future classes in accordance with the
+Use of Student-Created Work guidelines above.
+3. Instructors who video-record their class lectures with the intention of re-using some or all of
+recordings for future class offerings must notify students on the course syllabus if students' images
+may appear on video. Instructors are also advised to provide accommodation for students who do not
+wish to appear in class recordings.
+Required/Recommended Materials
+This course has digital components. To fully participate in this class, students will need internet access
+to reference content on the Canvas Learning Management System. If circumstances change, you will be
+informed of other technical needs to access course content. Information on how to be successful in a
+digital learning environment can be found at Learn Anywhere (https://online.unt.edu/learn) .
+Required:
+Security in Computing, 5th Edition
+Pfleeger, Pfleeger, & Margulies
+Prentice Hall, 2015, ISBN 978-0-13-408504-3
+Recommended (free/online):
+Introduction to Computer Security
+Matt Bishop
+
+Pearson
+2005, ISBN 0-321-24744-2
+How to Succeed in this Course
+Netiquette
+Netiquette, or online etiquette, refers to the way students are expected to interact with each other and
+with their instructors online. Here are some general guidelines:
+Treat your instructor and classmates with respect in email or any other communication.
+Remember that all college level communication should have correct spelling and grammar (this
+includes discussion boards).
+Avoid slang terms such as “totes magotes” and abbreviations such as “u” instead of “you.”
+Humor and sarcasm are highly encouraged. People who take the world seriously are in for a rough
+journey.
+Don’t lead your emails off with your social security and bank account numbers, password manager
+master password, home address, credit score, and dental record jpegs. 3 of those will suffice.
+No extra credit will be given for mentioning my kitten (https://knowyourmeme.com/memes/orange-
+cat-behavior) .
+See these Netiquette Guidelines (https://digitalstrategy.unt.edu/clear/online-communication-tips.html)
+for more information.
+Communication Expectations
+Please send all communication as email via your official student UNT email (my.unt.edu).
+Just like you, I receive a virtual ton of spam to my email address, and if it has [EXT] in the subject line,
+there's a ~95% chance I'm just deleting it. Additionally, I cannot discuss any student issues through
+external email due to FERPA, i.e. I cannot confirm that I know it's you I'm conversing with.
+I have a 48 hour reply policy on all emails, excepting weekends and holidays. All grades will be posted
+promptly after grading has been completed.
+Please come to me with any issues. Sending an email is free and if I can’t resolve it, we can move the
+issue up the chain.
+In your emails please include:
+
+the course (e.g. CSCE3550) that you are emailing about and a few words (aka, the
+Subject
+Subject)
+Body a signature with your email with your name and UNT ID number.
+This helps me not only help you, but if there are multiple issues with the course (i.e. a module is broken
+for instance), I can quickly collate the issue. I flag these emails with my preferred color
+(https://en.wikipedia.org/wiki/Red) .
+ODA
+The University of North Texas makes reasonable academic accommodation for students with disabilities.
+Students seeking reasonable accommodation must first register with the Office of Disability Access
+(ODA) to verify their eligibility. If a disability is verified, the ODA will provide you with a reasonable
+accommodation letter to be delivered to faculty to begin a private discussion regarding your specific
+needs in a course. You may request reasonable accommodations at any time; however, ODA notices of
+reasonable accommodation should be provided as early as possible in the semester to avoid any delay
+in implementation. Note that students must obtain a new letter of reasonable accommodation for every
+semester and must meet with each faculty member prior to implementation in each class. Students are
+strongly encouraged to deliver letters of reasonable accommodation during faculty office hours or by
+appointment. Faculty members have the authority to ask students to discuss such letters during their
+designated office hours to protect the privacy of the student. For additional information, refer to the
+Office of Disability Access (https://studentaffairs.unt.edu/office-disability-access) website
+(http://www.unt.edu/oda). You may also contact ODA by phone at (940) 565-4323.
+Supporting Your Success and Creating an Inclusive
+Learning Environment
+I value the many perspectives students bring to our campus. Please work with me to create a classroom
+culture of open communication, mutual respect, and inclusion. All discussions should be respectful and
+civil. Although disagreements and debates are encouraged, personal attacks are unacceptable.
+Together, we can ensure a safe and welcoming classroom for all. If you ever feel like this is not the case,
+please stop by my office and let me know. We are all learning together.
+
+Every student in this class should have the right to learn and engage within an environment of respect
+and courtesy from others. We will discuss our classroom’s habits of engagement and I also encourage
+you to review UNT’s student code of conduct so that we can all start with the same baseline civility
+understanding (Code of Student Conduct (https://deanofstudents.unt.edu/conduct) ).
+Technical Assistance
+Part of working in the online environment involves dealing with the inconveniences and frustration that
+can arise when technology breaks down or does not perform as expected. Here at UNT we have a
+Student Help Desk that you can contact for help with Canvas or other technology issues.
+UNT Help Desk (https://it.unt.edu/helpdesk)
+Call: 940-565-2324 (tel:940-565-2324)
+Email: helpdesk@unt.edu (mailto:helpdesk@unt.edu)
+Walk-in: Sage Hall, Room 330
+Walk-in Hours: Monday–Friday: 8am - 5pm
+Telephone Availability:
+Monday–Thursday: 8am – 9pm
+Friday: 8am- 5pm
+Saturday: 11am- 3pm
+For additional support, visit Canvas Technical Help
+(https://community.instructure.com/en/categories/canvas-lms)
+Laptop Checkouts (https://library.unt.edu/services/laptop-checkout/)
+The following library service desks provide laptop checkouts during hours of operation
+(https://calendar.library.unt.edu/hours) . MacBooks are only available at Willis Library.
+Willis Library: The Spark (https://guides.library.unt.edu/spark) , First Floor
+Sycamore Library: Sycamore (https://library.unt.edu/sycamore/)
+Discovery Park: Discovery Park (https://library.unt.edu/discovery-park/) , Room B112
+Student Support Services
+Registrar (https://registrar.unt.edu/registration)
+Financial Aid (https://financialaid.unt.edu/)
+Student Legal Services (https://studentaffairs.unt.edu/student-legal-services)
+Career Center (https://studentaffairs.unt.edu/career-center)
+Counseling and Testing Services (https://studentaffairs.unt.edu/counseling-and-testing-services)
+
+Student Affairs Care Team (https://studentaffairs.unt.edu/care)
+Student Health and Wellness Center (https://studentaffairs.unt.edu/student-health-and-wellness-
+center)
+Academic Support Services
+Academic Resource Center (https://clear.unt.edu/canvas/student-resources)
+Academic Success Center (https://success.unt.edu/asc)
+UNT Libraries (https://library.unt.edu/)
+Writing Lab (http://writingcenter.unt.edu/)
+Math Lab (https://math.unt.edu/undergraduate/math-lab.html)
+Assessing Your Work
+Percentages of final grade are approximate and subject to change.
+Assignment percentages
+Category Percentage of Final Grade
+Quizzes (12) 12%
+Homework (7) 24%
+Lab Assignments (6) 20%
+Projects (3) 14%
+Exams (3) 30%
+Grading scale
+Final
+Letter
+Grade
+90 - 100 A
+
+Grading scale
+Final
+Letter
+Grade
+80 - 89 B
+70 –79 C
+60 –69 D
+< 60 F
+Grades are rounded to the nearest whole integer.
+There is no curving of grades, nor “extra” credit, as it is unfair to the other
+students.
+Course Schedule/Assignments
+Module/Chapter Title Major Assignments Tentative Week
+0 Course Overview January 12
+1 Introduction January 19
+Toolbox: Authentication,
+2 Access Control and January 26
+Cryptography
+3 Programs and Programming February 2
+4 The Web – User Side Exam 1/ Project 1 February 9
+
+5 Operating Systems February 16
+6 Networks February 23
+7 Databases March 2
+- Spring Break March 9
+8 Cloud Computing March 16
+9 Privacy Exam 2 / Project 2 March 23
+10 Management and Incidents March 30
+11 Legal Issues and Ethics April 6
+12 Details of Cryptography April 13
+13 Emerging Topics April 20
+- Exam 3 / Project 3 April 27
+Students will be notified by Eagle Alert if there is a campus closing that will impact a class, website
+available at Emergency Notifications and Procedures website
+(https://riskmanagement.unt.edu/emergency/preparedness/emergency-notifications.html) .
+The policy for academic integrity is available at Academic Integrity Policy (PDF)
+(https://policy.unt.edu/sites/default/files/06.003%20Student%20Academic%20Integrity.pdf) ,
+Attendance and Participation
+I have great respect for students who are balancing the demands of their coursework with the
+responsibilities of caring for family members. If you run into challenges that require you to miss
+
+assignment deadlines, please contact me or my TA. There may be some flexibility we can offer to
+support your academic success.
+If you are experiencing any symptoms of COVID (https://www.cdc.gov/covid/signs-
+symptoms/index.html) please seek medical attention from the Student Health and Wellness Center (940-
+565-2333 or askSHWC@unt.edu (mailto:askSHWC@unt.edu) ) or your health care provider PRIOR to
+coming to campus. UNT also requires you to contact the UNT COVID Team at COVID@unt.edu
+(mailto:COVID@unt.edu) for guidance on actions to take due to symptoms, pending or positive test
+results, or potential exposure.
+Course Evaluation
+Student Perceptions of Teaching (SPOT) is the student evaluation system for UNT and allows students
+the ability to confidentially provide constructive feedback to their instructor and department to improve
+the quality of student experiences in the course.
+Assignment Policies
+Submittal Policy
+All assignments are posted to Canvas and should be submitted to Canvas. Assignments cannot be
+accepted through email. Students are responsible for submitting the correct assignment to the applicable
+assignment submission in Canvas.
+Late Work Policy
+No late submissions will be accepted for any reason. Please start work on assignments and quizzes well
+before the deadline and on a stable Internet connection to avoid any submission delays due to technical
+difficulties.
+Canvas File Upload Policy
+Assignments may require multiple file uploads.
+Do not archive/compress/zip these into one file: Attach them individually.
+The only acceptable file type for upload is what can be previewed automatically by DocViewer in
+Canvas (https://community.instructure.com/en/kb/articles/662858-what-types-of-files-can-i-preview-in-
+canvas) .
+Please ensure you have actually submitted your files to Canvas; it is your responsibility to verify that
+the file has been uploaded and accepted.
+AI (Artificial Intelligence) with AI (Academic Integrity) Policy
+
+I expect you to use AI (GitHub Copilot, Cody, Ghostwriter, ChatGPT, etc.), in this class. Learning to use
+AI is an emerging skill, and I am happy to meet and help with these tools during office hours or after
+class.
+Be aware of the limits of AI-based code generators:
+If you provide minimum effort prompts, you will get low quality results. You will need to refine your
+prompts to produce good outcomes. This will take work.
+Don't trust anything it says. If it gives you a number or fact, assume it is wrong unless you either
+know the answer or can check in with another source. You will be responsible for any errors or
+omissions provided by the tool. It works best for topics you understand.
+AI is a tool, but one that you need to acknowledge using. Please include a paragraph at the end of
+any assignment that uses AI explaining what you used the AI for and what prompts you used to get
+the results. Failure to do so is in violation of academic honesty policies.
+Do not use AI to generate screenshots.
+Be thoughtful about when this tool is useful. Don't use it if it isn't appropriate for the case or
+circumstance.
+Screenshot Submission Policy
+Many assignments will have you submit screenshots to show you completed the work.
+Do not use AI to generate screenshots.
+Do not take a photo with your phone. Take a native screenshot with your operating system
+(https://www.take-a-screenshot.org/) .
+This screenshot should show identifying information: No need to overthink this. The easiest way is
+just to open up a Notepad.exe (Windows) or Stickies (macOS) and enter your EUID, then take the
+screenshot of the assignment. Or you can open up university webmail in a browser tab and have
+your profile open in the screenshot.
+If you have a 48" wide monitor, and the assignment only takes up 10% of your screen, please crop
+down the screenshot to only what is needed and no more.
+Examination Policy
+You may use the Internet or any printed resources during exams, but please do not rely on this as the
+exams and quizzes have a time limit and many questions are not easily ‘Google-able’.
+DO NOT POST quiz questions to any online venue (Quizlet, Chegg, CourseHero, CheatMyDegree, etc.)
+or share quiz questions with other students (GroupMe, Discord, etc.).
+Violation of this policy will result in a zero for the assignment or exam.
+Course Summary:
+
+Date Details Due
+ Student Academic Integrity
+Policy Quiz due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942200)
+Sun Jan 25, 2026
+ Syllabus quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942201)
+ Exam 1 (Modules 01-04)
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942172)
+ Module 01 Quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942180)
+ Module 02 HW: Authentication
+& Passwords due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942181)
+ Module 02 Quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942182)
+ Module 03 HW: Programs and
+Programming due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942183)
+Sun Feb 15, 2026
+ Module 03 Quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942184)
+ Over The Wire: Bandit
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942196)
+ Project 1: JWKS server
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942197)
+ Reflections on the PBS
+Documentary on Edward Snowden due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942171)
+ Module 01 HW: Cybersecurity
+Overview due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942179)
+
+Date Details Due
+ Lab 0: Installing Linux
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942175)
+ Lab 1: Networks
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942176)
+ Lab 2: Privacy with Wireshark
+and TLS due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942177)
+ Module 05 Quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942185)
+ Module 06 HW: Networks
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942186)
+ Module 06 Quiz
+Sun Mar 29, 2026 due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942187)
+ Module 07 Quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942188)
+ Module 08 Quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942189)
+ Module 09 HW: Privacy
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942190)
+ Project 2: Extending the JWKS
+server due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942198)
+ Exam 2 (Modules 05-09)
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942173)
+Sun May 3, 2026
+ Exam 3 (Modules 10-13)
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942174)
+ Module 10 HW: Management
+and Incidents due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942191)
+
+Date Details Due
+ Module 10 Quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942192)
+ Module 11 Quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942193)
+ Module 12 HW: Details of
+Cryptography due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942194)
+ Module 12 Quiz
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942195)
+ Project 3: Bulking up our
+JWKS server due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942199)
+ Lab 3: Password auditing
+due by 11:59pm
+(https://unt.instructure.com/courses/138138/assignments/2942178)

@@ -1,0 +1,313 @@
+Professor: Curtis Chambers
+Department: Computer Science and Engineering
+University: University of North Texas
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2174155
+
+---
+
+Course: CSCE 2110
+Date: Nov 8th, 2025
+Rating: 1
+Difficulty: 1
+Would Take Again: Yes
+Grade: A+
+Review: Bro taught so well he got fired.
+
+---
+
+Course: CSCE 2110
+Date: Sep 9th, 2025
+Rating: 5
+Difficulty: 1
+Would Take Again: No
+Grade: Incomplete
+Review: You're reading this looking for a reason to 
+take this prof. There are none. Curtis Chambers 
+teaches so poorly that no one knows exactly how to 
+complete assignments. He regularly fails to attend 
+class, and the syllabus is not updated. He is 
+woefully unprofessional and underprepared.
+
+---
+
+Course: CSCE 2110
+Date: Sep 9th, 2025
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: A
+Review: Brilliant lecturer who doesn't even show up 
+to class. Confusing assignments, syllabus doesn't 
+even include exams, doesn't teach anything, way too 
+much reading and work and assignments, and he doesn't 
+even bother to come to class to lecture.
+
+---
+
+Course: CSCE 2110
+Date: Aug 24th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: Not sure yet
+Review: Very not beginner-friendly for coders, his 
+labs are very unclear direction-wise, and you are 
+expected to know everything he speaks on. You are 
+expected to fully understand GitHub and have explored 
+every cranny of it for a surprise group project where 
+you have to find partners. As an online student, this 
+was absolutely draining.
+
+---
+
+Course: CSCE 2110
+Date: Jul 21st, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: C
+Review: Learned nothing in this class due to the 
+assignments and project due dates being cut in half. 
+This professor did not host any lectures, grade work 
+or assign due dates. Class ended up being taught by 
+the TA. DO NOT ENROLL IN THIS COURSE WITH THIS 
+PROFESSOR. If you have to then make sure to start 
+on the project on day one and ask the TA for help.
+
+---
+
+Course: CSCE 2100
+Date: Jul 7th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: C
+Review: Avoid this professor at all costs. Online 
+course, couldn't get correspondence from him until 
+half the course was over. Had to contact the Dean 
+to even get due dates that weren't from last 
+semester's class. Doesn't explain anything, no 
+office hours. All around horrendous experience.
+
+---
+
+Course: CSCE 2110
+Date: Jun 29th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: Not sure yet
+Review: The worst professor I've ever had. After 
+the first week, it was 2 weeks and 5 days before 
+we heard another word from him, with 0 due dates 
+assigned. There are two very large projects that 
+are intended to be group projects, but he never 
+created groups. Many assignments are clearly ripped 
+from in-person full-term courses and are always 
+vague. AVOID!
+
+---
+
+Course: CSCE 2110
+Date: Jun 15th, 2025
+Rating: 1
+Difficulty: 3
+Would Take Again: No
+Grade: A+
+Review: Not in communication with TAs, so they 
+grade harshly. Once I needed to contact him but he 
+canceled class for 2 straight weeks, he doesn't 
+check his email, and he wasn't at any of his office 
+hours. His projects are the only hard part of the 
+class, do not procrastinate them. Multiple choice 
+easy, lectures useless, and coding exams have 
+cheatsheet.
+
+---
+
+Course: CSCE 2100
+Date: Jun 15th, 2025
+Rating: 1
+Difficulty: 1
+Would Take Again: No
+Grade: A+
+Review: Terrible teacher, reads off of zybooks. 
+Class canceled at least 6-7 times. Won't reply to 
+emails. Often not in office hours. He uses one 
+question bank for quizzes and exams, which are 
+almost all of your grade, so that's extremely easy 
+to get an A in. You might not learn anything though.
+
+---
+
+Course: CSCE 2110
+Date: Jun 2nd, 2025
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: C
+Review: Attendance is mandatory but his lectures 
+are all over the place, he cancelled class a lot 
+and hardly ever responded to emails. You could 
+check the UNT CSCE discord and find more complaints 
+in detail. If you have the opportunity do not take 
+this professor.
+
+---
+
+Course: CSCE 2110
+Date: May 26th, 2025
+Rating: 2
+Difficulty: 4
+Would Take Again: No
+Grade: A+
+Review: Will cancel class 30 mins before lecture 
+so if you commute get ready for some wasted trips. 
+As far as the work goes it's not too bad as long 
+as you stay on top of it and do exactly what he 
+says on the rubric. If code doesn't compile in the 
+exams you will receive a 0 instead of partial 
+credit. These exams were super easy if you can 
+make a cheatsheet.
+
+---
+
+Course: CSCE 2110
+Date: May 12th, 2025
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: B+
+Review: Lectures were disorganized, often canceled 
+or poorly communicated, making it hard to learn. 
+Most of my understanding came from online sources. 
+Project 1 had nearly 4 months while Project 2 had 
+only 2 weeks, yet grading was delayed so long it 
+was hard to recall the assignments. Recitations 
+were mandatory but irrelevant to the main lectures.
+
+---
+
+Course: CSCE 2110
+Date: May 2nd, 2025
+Rating: 1
+Difficulty: 3
+Would Take Again: No
+Grade: Not sure yet
+Review: It's almost the end of the semester and he 
+just hasn't shown up to class in over 2 weeks. He 
+still hasn't announced when the final exam will be 
+taking place and he has no information about it 
+anywhere in Canvas. Believe every bad review you 
+see about him. UNT should be embarrassed to have 
+someone this incompetent and disorganized on their 
+payroll.
+
+---
+
+Course: CSCE 2110
+Date: Apr 20th, 2025
+Rating: 1
+Difficulty: 3
+Would Take Again: No
+Grade: Not sure yet
+Review: He doesn't care about his job, it's as 
+simple as that. The semester is almost over and 
+he's canceled almost 50% of classes. He doesn't 
+answer emails. He talks at you about the career 
+field like he knows something but he's just someone 
+that couldn't make it.
+
+---
+
+Course: CSCE 2110
+Date: Apr 7th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: Not sure yet
+Review: This is the worst class I've ever taken. 
+It's disorganized, frequently canceled with little 
+notice, and assignments are given last-minute 
+sometimes due on weekends. The professor is 
+outdated and rigid, and the TAs are unhelpful. 
+UNT seriously needs better grad students and 
+teaching staff.
+
+---
+
+Course: CSCE 2110
+Date: Mar 21st, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: Rather not say
+Review: This professor is very disorganized, does 
+not teach, and does not explain the assignment or 
+project in full detail. He reads from Zybooks and 
+random questions during his lectures. The TA 
+doesn't know anything about this class and is not 
+very helpful. Mandatory attendance, exams are 
+online.
+
+---
+
+Course: CSCE 2110
+Date: Mar 20th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: Not sure yet
+Review: He's probably the worst professor in UNT's 
+computer science department. The class is very 
+disorganized and the lectures are not useful as he 
+reads off of Zybooks or some mediocre PowerPoint. 
+The assignments, exams, and projects require a ton 
+of work and they need to be perfect due to strict 
+grading. His TAs are also clueless and don't help.
+
+---
+
+Course: CSCE 2110
+Date: Mar 5th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: Not sure yet
+Review: Every review of this class you read is 
+factual. He deserves a wedgie. A disgrace of a 
+professor.
+
+---
+
+Course: CSCE 2110
+Date: Feb 25th, 2025
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: Not sure yet
+Review: Data structures are hard as it is learning 
+the rest of C and C++. However, the professor is 
+not the best for teaching content. He makes 
+everything a big deal to the point where everything 
+you do wrong is like a felony. Be prepared to use 
+outside resources as he doesn't teach anything and 
+his TAs are bad.
+
+---
+
+Course: CSCE 2110
+Date: Feb 12th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: B
+Review: Very unorganized and expects you to already 
+know the material without teaching it. You basically 
+just learn everything off Zybooks and he expects 
+you to show up to his lectures where he just repeats 
+the slides and adds some comments about how in the 
+real world you'll need this or that. Don't take him.
+
+---

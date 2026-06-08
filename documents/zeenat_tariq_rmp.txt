@@ -1,0 +1,316 @@
+Professor: Zeenat Tariq
+Department: Computer Science and Engineering
+University: University of North Texas
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2722479
+
+---
+
+Course: CSCE 5300
+Date: May 2nd, 2026
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: A-
+Review: Syllabus showed professor was female but the 
+lecture videos were by a male professor and also not 
+great. She doesn't do her own lecture material and 
+doesn't grade — all homework was graded by TAs. So 
+she got paid to put in zero work. I recovered my grade 
+because of a bonus quiz worth as much as the final. 
+The fact they needed to do that shows just how bad 
+that midterm was.
+
+---
+
+Course: CSCE 5300
+Date: Mar 18th, 2026
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: Not sure yet
+Review: Only take her class if you want to take a 
+2 hour midterm that consists mostly of writing the 
+most in-depth complicated and convoluted Python 
+programs of your entire life. The instructions for 
+one out of 5 programming questions took 10 minutes 
+just to read through.
+
+---
+
+Course: CSCE 2100
+Date: Mar 18th, 2026
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: A
+Review: Absolutely do not take her. She will count 
+class absences towards your grade even though the 
+syllabus says attendance is not mandatory. Turn away 
+quick and take someone else.
+
+---
+
+Course: CSCE 5300
+Date: Nov 23rd, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: A+
+Review: If you have to take this course and you don't 
+have a religion — pick one, then pray.
+
+---
+
+Course: CSCE 5300
+Date: Oct 17th, 2025
+Rating: 1
+Difficulty: 4
+Would Take Again: No
+Grade: Not sure yet
+Review: Zeenat Tariq places no effort in running this 
+course. Content is incorrect. Links do not work. When 
+I emailed her about my concerns and asked for 
+clarifications I got an obvious ChatGPT response. No 
+sense of human engagement. Does not show consideration 
+and caring for her students. Reuses old 2023 lecture 
+videos from another professor. Do not recommend.
+
+---
+
+Course: CSCE 5300
+Date: May 11th, 2025
+Rating: 1
+Difficulty: 5
+Would Take Again: No
+Grade: C+
+Review: Excellent professor until spot evaluation at 
+which point your grades will be high. At the last day 
+your grade will be rescaled to the lowest with a quote 
+like these grades are final and it was done by taking 
+your overall class performance into consideration. 
+Great to learn how to perform in a class where she 
+may not even know your name.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 4
+Would Take Again: Yes
+Grade: A+
+Review: The professor demonstrated strong teaching 
+abilities with clear explanations and engaging 
+lectures. The syllabus was well-structured covering 
+key concepts thoroughly. However the lecture handouts 
+were overly long making it challenging to focus on 
+key points. Concise summaries would help.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Good professor and great course overall.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: Great professor, helped me excel in the 
+subject. Gives good feedback.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 4
+Would Take Again: Yes
+Grade: A+
+Review: Interactive class, can learn a lot of 
+information. Lots of group projects.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 1
+Would Take Again: Yes
+Grade: A+
+Review: Great professor, very friendly and helps in 
+clarifying doubts.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A-
+Review: The teaching style of the professor is good. 
+It helped me a lot to understand new concepts. Clear 
+grading criteria and beware of pop quizzes.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 5
+Would Take Again: Yes
+Grade: A
+Review: Great lectures and great learning. Will take 
+the course again.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: B+
+Review: I recommend this professor to gain subject 
+knowledge. Lots of group projects and reading.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 4
+Difficulty: 4
+Would Take Again: Yes
+Grade: A
+Review: Activities for every class are really helpful. 
+Lots of participation and group projects with amazing 
+lectures.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: Short and crisp lectures, activities, no 
+mandatory attendance but lots of learning. Extra 
+credit available with clear grading criteria.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 1
+Would Take Again: Yes
+Grade: Not sure yet
+Review: I can learn a lot of things through hands-on 
+experience in this professor's class. I have done 4 
+courses under this particular professor.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A
+Review: Dr. Tariq is a great professor. She knows 
+the content well and focuses on a practical approach 
+to teach the course rather than a theoretical approach. 
+Extra credit and group projects available.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 4
+Difficulty: 2
+Would Take Again: Yes
+Grade: Rather not say
+Review: She is really good at NLP.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: Practical knowledge is good.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: A+
+Review: She was the best professor I have come 
+across. Gives good feedback, caring and respected 
+by students.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 4
+Would Take Again: Yes
+Grade: A
+Review: Professor explains very well. Lots of 
+participation and group projects.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 4
+Difficulty: 3
+Would Take Again: Yes
+Grade: A+
+Review: The grading encourages the student to learn. 
+Professor encourages working without solely 
+considering the grade by giving bonus assignments 
+if really required. Great course overall.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 2
+Would Take Again: Yes
+Grade: B+
+Review: The professor is good at teaching and strong 
+in the subject. Clear grading criteria and gives 
+good feedback.
+
+---
+
+Course: CSCE 5290
+Date: Dec 4th, 2024
+Rating: 5
+Difficulty: 3
+Would Take Again: Yes
+Grade: A
+Review: Great lectures and learning oriented. Will 
+take the class again. Lots of participation and 
+homework.
+
+---
