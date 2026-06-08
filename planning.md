@@ -10,6 +10,9 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
+Domain: Student reviews and experiential knowledge about Computer Science & Engineering (CSCE) professors and courses at the University of North Texas (Denton, TX)
+
+Why this knowledge valuavble and hard to find through official channels: Th UNT official channels only tells us about the course catalog, department website and registration system. It also mentions the course availability and the instructor assigned to the class. These information doesn't help the student understand the abilities of an instructor. It tells nothing about whether the professor explains things clearly, exam's leniency, and more importantly the student reviews. All these information can be found in Rate My Professor, r/UNT reddit threads. All these information can be hard to find and analyze to choose the right class.
 
 ---
 
@@ -20,16 +23,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 |Rate My Professor - Jonathon Doran | 83 ratings UNT CSCE professor |https://www.ratemyprofessors.com/professor/1579301 |
+| 2 |Rate My Professor - Curtis Chambers |42 ratings UNT CSCE professor |https://www.ratemyprofessors.com/professor/2174155 |
+| 3 |Rate My Professor - John Curtis |29 ratings UNT Kinesiology professor |https://www.ratemyprofessors.com/professor/1707713 |
+| 4 |Rate My Professor - Pradhumna Shrestha |44 ratings UNT CSCE professor |https://www.ratemyprofessors.com/professor/2174392 |
+| 5 |Rate My Professor - Bahareh Dorri |22 ratings UNT CSCE Professor |https://www.ratemyprofessors.com/professor/2936044 |
+| 6 |Rate My Professor - David Keathly |74 ratings UNT CSCE Professor |https://www.ratemyprofessors.com/professor/702560 |
+| 7 |Rate My Professor - Jacod Hochsteller |14 ratings UNT CSCE Professor|https://www.ratemyprofessors.com/professor/2228800 |
+| 8 |Rate My Professor - Zeenat Tariq |143 ratings UNT CSCE Professor |https://www.ratemyprofessors.com/professor/2722479 |
+| 9 |Rate My Professor - Ryan M. Garlick |58 ratings UNT CSCE Professor |https://www.ratemyprofessors.com/professor/272533 |
+| 10 |Rate My Professor - Hadiseh Gooran |32 ratings UNT CSCE Professor |https://www.ratemyprofessors.com/professor/2940069 |
 
 ---
 
