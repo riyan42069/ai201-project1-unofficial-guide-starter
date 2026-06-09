@@ -57,6 +57,34 @@ Why this knowledge valuavble and hard to find through official channels: Th UNT 
 
 **Final chunk count:279 (189 review + 90 syllabus)**
 
+### Sample Chunks
+
+
+**Chunk 1 (`chunk-0114`)** · source: `jonathon_doran_rmp.txt` · Jonathan Doran · CSCE 4600 · type: review
+
+> Course: CSCE 4600 Date: Jun 7th, 2026 Rating: 3 Difficulty: 4 Would Take Again: Yes Grade: A+ Review: Personality is his biggest flaw — he can come off as rude and condescending. Holds students to a high standard that he himself often fails to maintain with frequent mistakes on his part. That aside lectures are good and workload is reasonable. Email response time is great. If you can stand a difficult personality he is manageable at least for CSCE 4600.
+
+**Chunk 2 (`chunk-0028`)** · source: `bahareh_dorri_rmp.txt` · Bahareh Dorri · CSCE 4110 · type: review
+
+> Course: CSCE 4110 Date: May 2nd, 2026 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: B Review: Professor Dorri is a great lecturer with clear examples, but be prepared for unannounced quizzes that heavily impact your grade. Study guides are too vague to help with exams. Also, poor handling of cheating led to assigned seating and harder tests for everyone. TAs are hit-or-miss and can be rude or have an ego. Overall good class but minor issues.
+
+**Chunk 3 (`chunk-0101`)** · source: `hadiseh_gooran_rmp.txt` · Hadiseh Gooran · CSCE 3444 · type: review
+
+> Course: CSCE 3444 Date: Jan 24th, 2025 Rating: 5 Difficulty: 3 Would Take Again: Yes Grade: A Review: Honestly one of the best professors I've had at UNT. She is super nice and really knows her stuff. She explains everything clearly and her lectures are interactive which is rare. Group projects are a big part but she makes them fun and keeps everything organized. Practical assignments teach real-world skills. Highly recommend.
+
+**Chunk 4 (`chunk-0240`)** · source: `fundamentals_database_managemnet_systems.pdf` · Ryan Garlick · CSCE 4350 · type: syllabus · section: "Communication Expectations"
+
+> Communication Expectations
+> Please send all communication as email via your official student UNT email (my.unt.edu), and if applicable, CC the TA for the class. I see emails before I see Canvas notifications. [...] I have a 48 hour reply policy on all emails, excepting weekends and holidays. [...]
+> In your emails please include:
+> • Subject line: the course (e.g. CSCE 4350) that you are emailing about and a few words (aka, the Subject)
+> • Body: a signature with your email with your name and UNT ID number.
+
+**Chunk 5 (`chunk-0227`)** · source: `foundations_of_cybersecurity.pdf` · Dr. Jacob Hochstetler · CSCE 3550 · type: syllabus · section: "Canvas File Upload Policy"
+
+> Canvas File Upload Policy
+> Assignments may require multiple file uploads. Do not archive/compress/zip these into one file: Attach them individually. The only acceptable file type for upload is what can be previewed automatically by DocViewer in Canvas. Please ensure you have actually submitted your files to Canvas; it is your responsibility to verify that the file has been uploaded and accepted.
+
 ---
 
 ## Embedding Model
@@ -73,6 +101,41 @@ Why this knowledge valuavble and hard to find through official channels: Th UNT 
 
 ---
 
+## Retrieval Test Examples
+
+
+### Example 1: "How lenient is Jonathan Doran as a grader?"
+
+| Rank | Source | Course | distance | rerank | Chunk |
+|------|--------|--------|----------|--------|------------------|
+| 1 | `jonathon_doran_rmp.txt` | CSCE 3444 | 0.290 | 4.40 | "...He is a harsh grader and very condescending. Sometimes picks students one by one... Lectures don't make any sense..." |
+| 2 | `jonathon_doran_rmp.txt` | CSCE 4010 | 0.333 | 3.42 | "...Doran has a very short temper... His lectures have little correlation to quizzes and papers he assigns..." |
+| 3 | `jonathon_doran_rmp.txt` | CSCE 4600 | 0.413 | 3.05 | "...he can come off as rude and condescending. Holds students to a high standard... lectures are good and workload is reasonable..." |
+
+**Why these are relevant:** All three results are actually Doran reviews, not some other professor, and the top one literally calls him a "harsh grader" which is exactly what I asked about. I think this works because I prepend the professor name to each chunk before embedding, so a query with his name stays on his reviews instead of grabbing any review that happens to mention harsh grading.
+
+### Example 2: "What is Bahareh Dorri's teaching style like?"
+
+| Rank | Source | Course | distance | rerank | Chunk (abridged) |
+|------|--------|--------|----------|--------|------------------|
+| 1 | `bahareh_dorri_rmp.txt` | CSCE 4110 | 0.416 | 5.51 | "...Has a great lecture and teaching style. The subject material is tough, but she teaches it effectively..." |
+| 2 | `bahareh_dorri_rmp.txt` | CSCE 2110 | 0.372 | 3.09 | "...Many lectures felt rushed or confusing, and I relied heavily on YouTube and notes from other sources..." |
+| 3 | `bahareh_dorri_rmp.txt` | CSCE 4110 | 0.445 | 2.51 | "...Teaches and shows everything you need. Makes learning algorithms interesting..." |
+
+**Why these are relevant:** Every result is a Dorri review and all of them talk about her teaching: how she lectures, whether things are clear, how she presents the material. The interesting part is chunk #1 had a worse bi-encoder distance (0.416) than chunk #2 (0.372) but the reranker still moved it to the top. That makes sense to me: the cross-encoder looks at the question and the chunk together, so it picks up that "great lecture and teaching style" answers a *style* question better than a complaint about pacing. This is also why I could keep k small instead of pulling a ton of chunks.
+
+### Example 3: "How are grades divided in Fundamentals of Database Systems?"
+
+| Rank | Source | Course | distance | rerank | Chunk (abridged) |
+|------|--------|--------|----------|--------|------------------|
+| 1 | `foundations_of_cybersecurity.pdf` | CSCE 3550 | 0.565 | -8.68 | "Grade: 80-89 B, 70-79 C... no curving of grades, nor extra credit." |
+| 2 | `fundamentals_database_managemnet_systems.pdf` | CSCE 4350 | 0.584 | -9.33 | "Course Description: logical and physical database system organization..." |
+| 3 | `fundamentals_database_managemnet_systems.pdf` | CSCE 4350 | 0.410 | -10.13 | "Final Grade Letter: 90.0-100 A, 80.0-89.9 B... There is no curving of grades." |
+
+**Why this one is weaker (honest note):** I was asking how grades are *divided*, meaning the percentage split (Homework 35%, Quizzes 35%, Midterm 15%, Final 15%), but instead it gave me the grade *letter scales*, and it even pulled a cybersecurity chunk at #1 which isn't even the right course. My guess is the embedder just latched onto the word "grade" and missed that I meant the weightings, so the actual percentage chunk never made the top 3. The rerank scores here are all very negative, which at least tells me none of these really answer the question. This is the retrieval problem behind one of my evaluation results and I dig into it more in the Failure Case Analysis.
+
+---
+
 ## Grounded Generation
 
 <!-- Explain how your system enforces grounding — how does it prevent the LLM from answering
@@ -86,6 +149,70 @@ Why this knowledge valuavble and hard to find through official channels: Th UNT 
 
 **How source attribution is surfaced in the response:After the LLM generates the answer, the system builds a source list in Python from the retrieved chunks' source metadata. The LLM is explicitly instructed not to cite sources itself, so attribution is programmatically guaranteed rather than model-generated. On a refusal, the source list is empty.**
 
+### Example Responses (with source attribution)
+
+These are real outputs from `ask()` in [query.py](query.py). The `Sources` line is built in Python from the retrieved chunks' metadata, not written by the model.
+
+**Q: "How lenient is Jonathan Doran as a grader?"**
+
+> **Answer:** According to the reviews, Jonathan Doran is not lenient as a grader. He is described as a "harsh grader" in one review, and despite his difficult teaching style and personality, students have still managed to earn high grades such as A and A-. This suggests that while he may be demanding, it is possible to achieve a good grade in his class. However, his grading is generally perceived as strict.
+>
+> **Sources:**
+> - `jonathon_doran_rmp.txt` (Jonathan Doran)
+
+**Q: "What are the file upload rules for assignments?"**
+
+> **Answer:** For assignments, files should be uploaded individually and not archived/compressed/zipped into one file. Only file types that can be previewed automatically by DocViewer in Canvas are acceptable. It is the student's responsibility to verify that the file has been uploaded and accepted by Canvas.
+>
+> **Sources:**
+> - `foundations_of_cybersecurity.pdf` (CSCE 3550)
+> - `fundamentals_database_managemnet_systems.pdf` (CSCE 4350)
+
+### Out-of-Scope Query (refusal)
+
+When a question has no support in the retrieved documents, the model returns the exact refusal string and the source list comes back empty (no sources to claim).
+
+**Q: "What is the best dorm to live in at UNT?"**
+
+> **Answer:** I don't have enough information on that.
+>
+> **Sources:** *(none)*
+
+This is correct behavior: the corpus only covers CSCE professors and course syllabi, so there is nothing about dorms to ground an answer on, and the system refuses instead of guessing.
+
+---
+
+## Query Interface
+
+The interface is a small Gradio web app ([app.py](app.py)), launched with `python app.py` and opened at `http://localhost:7860`.
+
+**Input fields**
+- **Your question** (textbox): a free-text question about a UNT CSCE professor or course. Submit with the **Ask** button or by pressing Enter.
+
+**Output fields**
+- **Answer** (textbox): the grounded answer generated from the retrieved chunks, or the refusal string if nothing relevant was found.
+- **Retrieved from** (textbox): the deduplicated list of source documents the answer was grounded in, one per line. Shows "— (no grounded sources)" on a refusal.
+
+**Sample interaction transcript**
+
+```
+Your question:  What are the group projects like in CSCE 3444 with Hadiseh Gooran?
+
+[Ask]
+
+Answer:
+  In CSCE 3444 with the professor, group projects are a significant part of the
+  course. One student mentioned that the professor makes them fun and keeps
+  everything organized. However, another student had a negative experience with a
+  group project due to an unresponsive teammate, which made things harder for the
+  rest of the group. The projects are described as teaching real-world skills and
+  being practical. In some semesters, there was only one project for the entire
+  semester, such as building an app.
+
+Retrieved from:
+  • hadiseh_gooran_rmp.txt (Hadiseh Gooran)
+```
+
 ---
 
 ## Evaluation Report
@@ -96,11 +223,11 @@ Why this knowledge valuavble and hard to find through official channels: Th UNT 
 
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 |Gooran CSCE 3444 group projects | |"well-organized, made fun; one unresponsive teammate" |Relevant |Accurate |
-| 2 |File upload rules | |"individually, no zip, DocViewer-only, verify accepted" |Relevant |Accurate |
-| 3 |Doran grader leniency | |"harsh, not lenient; failed despite performing well" |Relevant |Accurate|
-| 4 |Dorri teaching style | |"clear examples, interactive, well-paced; one course felt rushed" |Relevant |Accurate |
-| 5 |DB grade split | |"Homework 35%, Quizzes 35%, Midterm 15%, Final 15%" |Relevant |Accurate |
+| 1 |Group projects in CSCE 3444 with Hadiseh Gooran |Group projects are a major component, described as fun and well-organized. |"Significant part of the course; prof makes them fun and organized, teaches real-world skills; one student had an unresponsive teammate." |Relevant |Accurate |
+| 2 |File upload rules for assignments |Upload files individually (do not zip); only Canvas DocViewer-previewable types; student is responsible for verifying the upload was accepted. |"Upload individually, no archiving/zipping, only DocViewer-previewable types, and verify the file was uploaded and accepted." |Relevant |Accurate |
+| 3 |How lenient is Jonathan Doran as a grader |Tough, strict, all-or-nothing grader with no partial credit; no textbook, exams based on lectures. |"Not lenient; described as a harsh grader, though some students still earned A / A-." |Relevant |Accurate |
+| 4 |Bahareh Dorri's teaching style |Interactive with many example problems, board bonus points, prompt email replies, consistently accessible. |"Great and effective; clear examples, good pace, makes algorithms interesting; one course felt rushed and study guides were vague." |Relevant |Accurate |
+| 5 |How are grades divided in Fundamentals of Database Systems |Homework 35%, Quizzes 35%, Midterm 15%, Final 15% (approximate). |"Returned the letter-grade *scale* (90-100 A, 80-89.9 B, ...) and 'no curving', NOT the category weightings asked for." |Partially relevant |Partially accurate (see Failure Case Analysis) |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
@@ -120,13 +247,13 @@ Why this knowledge valuavble and hard to find through official channels: Th UNT 
      "The embedding model treated the professor's nickname as out-of-vocabulary and returned
      results from an unrelated review" is an explanation. -->
 
-**Question that failed: How is Dorri's teaching style?**
+**Question that failed: How are grades divided in Fundamentals of Database Systems?**
 
-**What the system returned:I dont have enough information on that**
+**What the system returned:** Instead of the category weightings (Homework 35%, Quizzes 35%, Midterm 15%, Final 15%), it gave back the letter-grade scale (90-100 A, 80-89.9 B, and so on) and the "no curving of grades" note. So the answer is about grades but it's the wrong kind of grading info.
 
-**Root cause (tied to a specific pipeline stage):The bi-encoder the right review in #14 which is bad as k = 5 it ignored the correct one**
+**Root cause (tied to a specific pipeline stage):** The chunk that actually has the answer (chunk-0256) does exist in the corpus, but my section-level chunking put the weighting table under the header "Category Final Grade", which doesn't contain any of the words in my question like "divided" or even "grade". When I retrieve, the chunks that say "Grade" and "Final Grade Letter" look closer to the query, so the bi-encoder and the reranker both rank them higher. I checked and the correct chunk lands at rank #7, which is past my k=5 cutoff, so the model never even sees it and answers from the letter-scale chunks instead.
 
-**What you would change to fix it:I used cross-encoder reranker and it moved the review from #14 to #2**
+**What you would change to fix it:** Either chunk the grading section so the weighting table keeps the surrounding words (like "final grade is divided into these categories") instead of just the bare header, or add a small query rewrite step so a question about how grades are "divided" also searches for "category percentage weighting". Bumping k would technically pull chunk #7 in, but that's the lazy fix and it just adds noise, so I'd rather fix the chunk or the query.
 
 ---
 
