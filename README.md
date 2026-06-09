@@ -151,8 +151,6 @@ Why this knowledge valuavble and hard to find through official channels: Th UNT 
 
 ### Example Responses (with source attribution)
 
-These are real outputs from `ask()` in [query.py](query.py). The `Sources` line is built in Python from the retrieved chunks' metadata, not written by the model.
-
 **Q: "How lenient is Jonathan Doran as a grader?"**
 
 > **Answer:** According to the reviews, Jonathan Doran is not lenient as a grader. He is described as a "harsh grader" in one review, and despite his difficult teaching style and personality, students have still managed to earn high grades such as A and A-. This suggests that while he may be demanding, it is possible to achieve a good grade in his class. However, his grading is generally perceived as strict.
@@ -170,8 +168,6 @@ These are real outputs from `ask()` in [query.py](query.py). The `Sources` line 
 
 ### Out-of-Scope Query (refusal)
 
-When a question has no support in the retrieved documents, the model returns the exact refusal string and the source list comes back empty (no sources to claim).
-
 **Q: "What is the best dorm to live in at UNT?"**
 
 > **Answer:** I don't have enough information on that.
@@ -184,8 +180,6 @@ This is correct behavior: the corpus only covers CSCE professors and course syll
 
 ## Query Interface
 
-The interface is a small Gradio web app ([app.py](app.py)), launched with `python app.py` and opened at `http://localhost:7860`.
-
 **Input fields**
 - **Your question** (textbox): a free-text question about a UNT CSCE professor or course. Submit with the **Ask** button or by pressing Enter.
 
@@ -197,8 +191,6 @@ The interface is a small Gradio web app ([app.py](app.py)), launched with `pytho
 
 ```
 Your question:  What are the group projects like in CSCE 3444 with Hadiseh Gooran?
-
-[Ask]
 
 Answer:
   In CSCE 3444 with the professor, group projects are a significant part of the
@@ -227,7 +219,7 @@ Retrieved from:
 | 2 |File upload rules for assignments |Upload files individually (do not zip); only Canvas DocViewer-previewable types; student is responsible for verifying the upload was accepted. |"Upload individually, no archiving/zipping, only DocViewer-previewable types, and verify the file was uploaded and accepted." |Relevant |Accurate |
 | 3 |How lenient is Jonathan Doran as a grader |Tough, strict, all-or-nothing grader with no partial credit; no textbook, exams based on lectures. |"Not lenient; described as a harsh grader, though some students still earned A / A-." |Relevant |Accurate |
 | 4 |Bahareh Dorri's teaching style |Interactive with many example problems, board bonus points, prompt email replies, consistently accessible. |"Great and effective; clear examples, good pace, makes algorithms interesting; one course felt rushed and study guides were vague." |Relevant |Accurate |
-| 5 |How are grades divided in Fundamentals of Database Systems |Homework 35%, Quizzes 35%, Midterm 15%, Final 15% (approximate). |"Returned the letter-grade *scale* (90-100 A, 80-89.9 B, ...) and 'no curving', NOT the category weightings asked for." |Partially relevant |Partially accurate (see Failure Case Analysis) |
+| 5 |How are grades divided in Fundamentals of Database Systems |Homework 35%, Quizzes 35%, Midterm 15%, Final 15% (approximate). |"Returned the letter-grade *scale* (90-100 A, 80-89.9 B, ...) and 'no curving', NOT the category weightings asked for." |Partially relevant |Partially accurate  |
 
 **Retrieval quality:** Relevant / Partially relevant / Off-target  
 **Response accuracy:** Accurate / Partially accurate / Inaccurate
