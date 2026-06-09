@@ -20,9 +20,14 @@ CHUNKS = ROOT / "data" / "chunks" / "chunks.json"
 CHROMA_DIR = ROOT / "data" / "chroma"
 COLLECTION = "unofficial_guide"
 MODEL_NAME = "all-MiniLM-L6-v2"
+# Cross-encoder reranker: reads (query, chunk) together for a true relevance
+# score, fixing cases where the bi-encoder ranks the best chunk too low.
+RERANKER_NAME = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+CANDIDATES = 25  # cheap bi-encoder pool to rerank before taking the top k
 
 # Lazily-loaded singletons so importing this module is cheap.
 _model: SentenceTransformer | None = None
+_reranker = None
 
 
 def get_model() -> SentenceTransformer:
@@ -31,6 +36,30 @@ def get_model() -> SentenceTransformer:
     if _model is None:
         _model = SentenceTransformer(MODEL_NAME)
     return _model
+
+
+def get_reranker():
+    """Load the cross-encoder reranker once (local, no API key)."""
+    global _reranker
+    if _reranker is None:
+        from sentence_transformers import CrossEncoder
+
+        _reranker = CrossEncoder(RERANKER_NAME)
+    return _reranker
+
+
+def _rerank_text(chunk: dict) -> str:
+    """Text shown to the reranker — includes identifying metadata so the
+    cross-encoder can tell e.g. a Gooran CSCE 3444 review from a Keathly one."""
+    head = []
+    if chunk.get("professor"):
+        head.append(f"Professor: {chunk['professor']}")
+    if chunk.get("course_code"):
+        head.append(f"Course: {chunk['course_code']}")
+    if chunk.get("section"):
+        head.append(f"Section: {chunk['section']}")
+    prefix = ". ".join(head)
+    return f"{prefix}. {chunk['text']}" if prefix else chunk["text"]
 
 
 def _client() -> chromadb.ClientAPI:
@@ -104,12 +133,18 @@ def embed_and_store() -> None:
           f"-> {CHROMA_DIR.relative_to(ROOT)}")
 
 
-def retrieve(query: str, k: int = 5) -> list[dict]:
-    """Return the top-k chunks for a query, with metadata and distance score."""
+def retrieve(query: str, k: int = 5, rerank: bool = True) -> list[dict]:
+    """Return the top-k chunks for a query, with metadata and distance score.
+
+    With rerank=True (default), a larger bi-encoder candidate pool (CANDIDATES)
+    is re-scored by the cross-encoder and the top k are returned — so a small k
+    still captures chunks the bi-encoder alone ranked too low.
+    """
     coll = get_collection()
     model = get_model()
     q_emb = model.encode([query], normalize_embeddings=True).tolist()
-    res = coll.query(query_embeddings=q_emb, n_results=k)
+    n = max(k, CANDIDATES) if rerank else k
+    res = coll.query(query_embeddings=q_emb, n_results=n)
 
     results = []
     for doc, meta, dist in zip(
@@ -126,7 +161,14 @@ def retrieve(query: str, k: int = 5) -> list[dict]:
                 "type": meta.get("type", ""),
             }
         )
-    return results
+
+    if rerank and results:
+        scores = get_reranker().predict([(query, _rerank_text(c)) for c in results])
+        for c, s in zip(results, scores):
+            c["rerank_score"] = float(s)
+        results.sort(key=lambda c: c["rerank_score"], reverse=True)
+
+    return results[:k]
 
 
 if __name__ == "__main__":

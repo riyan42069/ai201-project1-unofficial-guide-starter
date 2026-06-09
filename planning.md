@@ -45,14 +45,12 @@ Why this knowledge valuavble and hard to find through official channels: Th UNT 
 **RMP Reviews - Record-level chunking**
 **Target size: 50-250 tokens (typical); hard ceiling: 500 tokens**
 **Overlap: 0**
-**Reasoning: Each review is treated as one chunk (split on the `---` separator between records) and no overlap is needed because each review is already a self-contained unit. Most reviews fall in the 50-250 range, but a review is never cut to hit that target — splitting one mid-thought would break self-containment and strip the rating/course context that makes it answerable. A few very short reviews fall below 50 tokens and a few long ones run higher; both are kept whole.**
+**Reasoning: Each review is treated as one chunk (split on the `---` separator between records) and no overlap is needed because each review is already a self-contained unit. Most reviews fall in the 50-250 range, but a review is never cut to hit that target especially splitting one mid-thought would break self-containment and strip the rating/course context that makes it answerable. A few very short reviews fall below 50 tokens and a few long ones run higher and both are kept whole.**
 
 **Syllabus - Section-level chunking**
 **Target size: 100-400 tokens (typical); hard ceiling: 500 tokens**
 **Overlap: 0**
-**Reasoning: Each section of the syllabus covers one topic, so I split on section headers rather than a fixed window to keep each topic intact, and no overlap is needed since topics don't cross-reference. A section is only sub-split (on paragraph boundaries, repeating the section title on each piece) if it exceeds the 500-token ceiling, so most chunks land in 100-400 but the ceiling — not 400 — is the real cap.**
-
-**Why 500 (changed from earlier 400):** keeping a whole review or whole syllabus section together matters more for retrieval quality than hitting a tight size band. 500 tokens is the implemented ceiling (`TOKEN_CEILING` in `ingest.py`); the 50-250 / 100-400 figures are descriptive targets, not enforced minimums or maximums.**
+**Reasoning: Each section of the syllabus covers one topic, so I split on section headers rather than a fixed window to keep each topic intact, and no overlap is needed since topics don't cross-reference. A section is only sub-split (on paragraph boundaries, repeating the section title on each piece) if it exceeds the 500-token ceiling, so most chunks land in 100-400 but the ceiling is the real cap.**
 ---
 
 ## Retrieval Approach
